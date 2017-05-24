@@ -1,0 +1,9 @@
+./assembly/KBS0714.R1.trim.fastq
+./assembly/KBS0714.R2.trim.fastq
+./assembly/KBS0714.trim.interleaved.fastq
+./assembly/KBS0714.trim.interleaved.trim.fastq
+./assembly/KBS0714.trim.interleaved.trim.fastq.pe
+./assembly/KBS0714.trim.interleaved.trim.fastq.pe.keep
+./assembly/KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+./assembly/KBS0714.trim.interleaved.trim.fastq.se
+./assembly/KBS0714assembled_data_55/Sequences
