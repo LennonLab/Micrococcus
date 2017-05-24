@@ -1,0 +1,4537 @@
+locus_tag	ftype	gene	EC_number	product
+KBS0714_00001	CDS	speG	2.3.1.57	Spermidine N(1)-acetyltransferase
+KBS0714_00001	gene	speG
+KBS0714_00002	CDS	hypothetical protein
+KBS0714_00002	gene
+KBS0714_00003	CDS	fic	2.7.7.-	Adenosine monophosphate-protein transferase SoFic
+KBS0714_00003	gene	fic
+KBS0714_00004	CDS	hypothetical protein
+KBS0714_00004	gene
+KBS0714_00005	CDS	hypothetical protein
+KBS0714_00005	gene
+KBS0714_00006	CDS	hypothetical protein
+KBS0714_00006	gene
+KBS0714_00007	CDS	hypothetical protein
+KBS0714_00007	gene
+KBS0714_00008	CDS	hypothetical protein
+KBS0714_00008	gene
+KBS0714_00009	CDS	rspR_1	HTH-type transcriptional repressor RspR
+KBS0714_00009	gene	rspR_1
+KBS0714_00010	CDS	cidA	Holin-like protein CidA
+KBS0714_00010	gene	cidA
+KBS0714_00011	CDS	yohK	Inner membrane protein YohK
+KBS0714_00011	gene	yohK
+KBS0714_00012	CDS	hypothetical protein
+KBS0714_00012	gene
+KBS0714_00013	CDS	lcfB_1	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+KBS0714_00013	gene	lcfB_1
+KBS0714_00014	CDS	1.1.1.1	putative zinc-binding alcohol dehydrogenase
+KBS0714_00014	gene
+KBS0714_00015	CDS	opuCA	3.6.3.32	Carnitine transport ATP-binding protein OpuCA
+KBS0714_00015	gene	opuCA
+KBS0714_00016	CDS	opuCD	Glycine betaine/carnitine/choline transport system permease protein OpuCD
+KBS0714_00016	gene	opuCD
+KBS0714_00017	CDS	opuBB_1	Choline transport system permease protein OpuBB
+KBS0714_00017	gene	opuBB_1
+KBS0714_00018	CDS	yehZ	Glycine betaine-binding protein YehZ
+KBS0714_00018	gene	yehZ
+KBS0714_00019	CDS	acp_1	Sodium/proton-dependent alanine carrier protein
+KBS0714_00019	gene	acp_1
+KBS0714_00020	CDS	hypothetical protein
+KBS0714_00020	gene
+KBS0714_00021	CDS	hypothetical protein
+KBS0714_00021	gene
+KBS0714_00022	CDS	menH_1	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+KBS0714_00022	gene	menH_1
+KBS0714_00023	CDS	hypothetical protein
+KBS0714_00023	gene
+KBS0714_00024	CDS	hypothetical protein
+KBS0714_00024	gene
+KBS0714_00025	CDS	yheS_1	putative ABC transporter ATP-binding protein YheS
+KBS0714_00025	gene	yheS_1
+KBS0714_00026	CDS	metC	4.4.1.8	Cystathionine beta-lyase MetC
+KBS0714_00026	gene	metC
+KBS0714_00027	CDS	nfdA	3.5.1.91	N-substituted formamide deformylase
+KBS0714_00027	gene	nfdA
+KBS0714_00028	CDS	yghA_1	1.-.-.-	putative oxidoreductase YghA
+KBS0714_00028	gene	yghA_1
+KBS0714_00029	CDS	hypothetical protein
+KBS0714_00029	gene
+KBS0714_00030	CDS	hypothetical protein
+KBS0714_00030	gene
+KBS0714_00031	CDS	hypothetical protein
+KBS0714_00031	gene
+KBS0714_00032	CDS	hypothetical protein
+KBS0714_00032	gene
+KBS0714_00033	CDS	hypothetical protein
+KBS0714_00033	gene
+KBS0714_00034	CDS	uvrD1_1	3.6.4.12	ATP-dependent DNA helicase UvrD1
+KBS0714_00034	gene	uvrD1_1
+KBS0714_00035	CDS	sucC	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit beta
+KBS0714_00035	gene	sucC
+KBS0714_00036	CDS	sucD	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit alpha
+KBS0714_00036	gene	sucD
+KBS0714_00037	CDS	desR	Transcriptional regulatory protein DesR
+KBS0714_00037	gene	desR
+KBS0714_00038	CDS	desK_1	2.7.13.3	Sensor histidine kinase DesK
+KBS0714_00038	gene	desK_1
+KBS0714_00039	CDS	hypothetical protein
+KBS0714_00039	gene
+KBS0714_00040	CDS	Insertion sequence IS5376 putative ATP-binding protein
+KBS0714_00040	gene
+KBS0714_00041	CDS	hypothetical protein
+KBS0714_00041	gene
+KBS0714_00042	CDS	hypothetical protein
+KBS0714_00042	gene
+KBS0714_00043	CDS	hypothetical protein
+KBS0714_00043	gene
+KBS0714_00044	CDS	Insertion element IS6110 uncharacterized 12.0 kDa protein
+KBS0714_00044	gene
+KBS0714_00045	CDS	hypothetical protein
+KBS0714_00045	gene
+KBS0714_00046	CDS	hypothetical protein
+KBS0714_00046	gene
+KBS0714_00047	CDS	hypothetical protein
+KBS0714_00047	gene
+KBS0714_00048	CDS	hypothetical protein
+KBS0714_00048	gene
+KBS0714_00049	CDS	hypothetical protein
+KBS0714_00049	gene
+KBS0714_00050	CDS	hypothetical protein
+KBS0714_00050	gene
+KBS0714_00051	CDS	hypothetical protein
+KBS0714_00051	gene
+KBS0714_00052	CDS	arsR	Arsenical resistance operon repressor
+KBS0714_00052	gene	arsR
+KBS0714_00053	CDS	acr3	Arsenical-resistance protein Acr3
+KBS0714_00053	gene	acr3
+KBS0714_00054	CDS	arsC1	2.8.4.2	Arsenate-mycothiol transferase ArsC1
+KBS0714_00054	gene	arsC1
+KBS0714_00055	CDS	1.18.1.2	Ferredoxin--NADP reductase
+KBS0714_00055	gene
+KBS0714_00056	CDS	mshD_1	2.3.1.189	Mycothiol acetyltransferase
+KBS0714_00056	gene	mshD_1
+KBS0714_00057	CDS	putative HTH-type transcriptional regulator
+KBS0714_00057	gene
+KBS0714_00058	CDS	argO_1	Arginine exporter protein ArgO
+KBS0714_00058	gene	argO_1
+KBS0714_00059	CDS	hypothetical protein
+KBS0714_00059	gene
+KBS0714_00060	CDS	hypothetical protein
+KBS0714_00060	gene
+KBS0714_00061	CDS	xecA1	4.4.1.23	2-hydroxypropyl-CoM lyase
+KBS0714_00061	gene	xecA1
+KBS0714_00062	CDS	hypothetical protein
+KBS0714_00062	gene
+KBS0714_00063	CDS	metB_1	2.5.1.48	Cystathionine gamma-synthase
+KBS0714_00063	gene	metB_1
+KBS0714_00064	CDS	mgl_1	4.4.1.11	L-methionine gamma-lyase
+KBS0714_00064	gene	mgl_1
+KBS0714_00065	CDS	2.1.1.-	putative S-adenosylmethionine-dependent methyltransferase/MSMEI_2290
+KBS0714_00065	gene
+KBS0714_00066	CDS	hypothetical protein
+KBS0714_00066	gene
+KBS0714_00067	CDS	hypothetical protein
+KBS0714_00067	gene
+KBS0714_00068	CDS	hypothetical protein
+KBS0714_00068	gene
+KBS0714_00069	CDS	ycgJ	2.1.1.-	putative methyltransferase YcgJ
+KBS0714_00069	gene	ycgJ
+KBS0714_00070	CDS	hypothetical protein
+KBS0714_00070	gene
+KBS0714_00071	CDS	yhaI	Inner membrane protein YhaI
+KBS0714_00071	gene	yhaI
+KBS0714_00072	CDS	hypothetical protein
+KBS0714_00072	gene
+KBS0714_00073	CDS	hypothetical protein
+KBS0714_00073	gene
+KBS0714_00074	CDS	aspC_1	2.6.1.1	Aspartate aminotransferase
+KBS0714_00074	gene	aspC_1
+KBS0714_00075	CDS	hypothetical protein
+KBS0714_00075	gene
+KBS0714_00076	CDS	3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase
+KBS0714_00076	gene
+KBS0714_00077	CDS	2.4.-.-	putative glycosyltransferase
+KBS0714_00077	gene
+KBS0714_00078	CDS	hypothetical protein
+KBS0714_00078	gene
+KBS0714_00079	CDS	hypothetical protein
+KBS0714_00079	gene
+KBS0714_00080	CDS	hypothetical protein
+KBS0714_00080	gene
+KBS0714_00081	CDS	hypothetical protein
+KBS0714_00081	gene
+KBS0714_00082	CDS	crtN	1.3.8.2	Dehydrosqualene desaturase
+KBS0714_00082	gene	crtN
+KBS0714_00083	CDS	crtB	2.5.1.99	All-trans-phytoene synthase
+KBS0714_00083	gene	crtB
+KBS0714_00084	CDS	hepT_1	2.5.1.30	Heptaprenyl diphosphate synthase component 2
+KBS0714_00084	gene	hepT_1
+KBS0714_00085	CDS	hypothetical protein
+KBS0714_00085	gene
+KBS0714_00086	CDS	idi	5.3.3.2	Isopentenyl-diphosphate Delta-isomerase
+KBS0714_00086	gene	idi
+KBS0714_00087	CDS	trxC	Putative thioredoxin 2
+KBS0714_00087	gene	trxC
+KBS0714_00088	CDS	hypothetical protein
+KBS0714_00088	gene
+KBS0714_00089	CDS	hypothetical protein
+KBS0714_00089	gene
+KBS0714_00090	CDS	hypothetical protein
+KBS0714_00090	gene
+KBS0714_00091	CDS	hypothetical protein
+KBS0714_00091	gene
+KBS0714_00092	CDS	fcbB2	3.8.1.7	4-chlorobenzoyl coenzyme A dehalogenase-2
+KBS0714_00092	gene	fcbB2
+KBS0714_00093	CDS	hypothetical protein
+KBS0714_00093	gene
+KBS0714_00094	CDS	hypothetical protein
+KBS0714_00094	gene
+KBS0714_00095	CDS	mmgC_1	1.3.99.-	Acyl-CoA dehydrogenase
+KBS0714_00095	gene	mmgC_1
+KBS0714_00096	CDS	fadD3	6.2.1.41	3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase
+KBS0714_00096	gene	fadD3
+KBS0714_00097	CDS	fadA5	2.3.1.16	Steroid 3-ketoacyl-CoA thiolase
+KBS0714_00097	gene	fadA5
+KBS0714_00098	CDS	hypothetical protein
+KBS0714_00098	gene
+KBS0714_00099	CDS	hypothetical protein
+KBS0714_00099	gene
+KBS0714_00100	CDS	alsT	Amino-acid carrier protein AlsT
+KBS0714_00100	gene	alsT
+KBS0714_00101	CDS	hypothetical protein
+KBS0714_00101	gene
+KBS0714_00102	CDS	tetR	Tetracycline repressor protein class D
+KBS0714_00102	gene	tetR
+KBS0714_00103	CDS	fbpC_1	3.6.3.30	Fe(3+) ions import ATP-binding protein FbpC
+KBS0714_00103	gene	fbpC_1
+KBS0714_00104	CDS	modB	Molybdenum transport system permease protein ModB
+KBS0714_00104	gene	modB
+KBS0714_00105	CDS	thiB	Thiamine-binding periplasmic protein
+KBS0714_00105	gene	thiB
+KBS0714_00106	CDS	tqsA_1	AI-2 transport protein TqsA
+KBS0714_00106	gene	tqsA_1
+KBS0714_00107	CDS	aguA	3.5.3.12	Putative agmatine deiminase
+KBS0714_00107	gene	aguA
+KBS0714_00108	CDS	putA	Bifunctional protein PutA
+KBS0714_00108	gene	putA
+KBS0714_00109	CDS	hypothetical protein
+KBS0714_00109	gene
+KBS0714_00110	CDS	gltB_1	1.4.1.13	Glutamate synthase [NADPH] large chain
+KBS0714_00110	gene	gltB_1
+KBS0714_00111	CDS	hypothetical protein
+KBS0714_00111	gene
+KBS0714_00112	CDS	hypothetical protein
+KBS0714_00112	gene
+KBS0714_00113	CDS	cspA	putative cold shock protein A
+KBS0714_00113	gene	cspA
+KBS0714_00114	CDS	hsaB	1.5.1.36	Flavin-dependent monooxygenase, reductase subunit HsaB
+KBS0714_00114	gene	hsaB
+KBS0714_00115	CDS	hypothetical protein
+KBS0714_00115	gene
+KBS0714_00116	CDS	hslR	Heat shock protein 15
+KBS0714_00116	gene	hslR
+KBS0714_00117	CDS	hisD	1.1.1.23	Histidinol dehydrogenase
+KBS0714_00117	gene	hisD
+KBS0714_00118	CDS	mscS	Small-conductance mechanosensitive channel
+KBS0714_00118	gene	mscS
+KBS0714_00119	CDS	Universal stress protein
+KBS0714_00119	gene
+KBS0714_00120	CDS	gloB	3.1.2.6	Hydroxyacylglutathione hydrolase
+KBS0714_00120	gene	gloB
+KBS0714_00121	CDS	yqjG	1.8.-.-	Glutathionyl-hydroquinone reductase YqjG
+KBS0714_00121	gene	yqjG
+KBS0714_00122	CDS	hypothetical protein
+KBS0714_00122	gene
+KBS0714_00123	CDS	kipI	Kinase A inhibitor
+KBS0714_00123	gene	kipI
+KBS0714_00124	CDS	accC	6.3.4.14	Biotin carboxylase
+KBS0714_00124	gene	accC
+KBS0714_00125	CDS	rspR_2	HTH-type transcriptional repressor RspR
+KBS0714_00125	gene	rspR_2
+KBS0714_00126	CDS	hypothetical protein
+KBS0714_00126	gene
+KBS0714_00127	CDS	hypothetical protein
+KBS0714_00127	gene
+KBS0714_00128	CDS	hypothetical protein
+KBS0714_00128	gene
+KBS0714_00129	CDS	rpmB	50S ribosomal protein L28
+KBS0714_00129	gene	rpmB
+KBS0714_00130	CDS	rpmG2	50S ribosomal protein L33 2
+KBS0714_00130	gene	rpmG2
+KBS0714_00131	CDS	rpsN	30S ribosomal protein S14
+KBS0714_00131	gene	rpsN
+KBS0714_00132	CDS	hup	DNA-binding protein HB1
+KBS0714_00132	gene	hup
+KBS0714_00133	CDS	hypothetical protein
+KBS0714_00133	gene
+KBS0714_00134	CDS	hypothetical protein
+KBS0714_00134	gene
+KBS0714_00135	CDS	hypothetical protein
+KBS0714_00135	gene
+KBS0714_00136	CDS	efeN	1.11.1.-	putative deferrochelatase/peroxidase EfeN
+KBS0714_00136	gene	efeN
+KBS0714_00137	CDS	hypothetical protein
+KBS0714_00137	gene
+KBS0714_00138	CDS	hypothetical protein
+KBS0714_00138	gene
+KBS0714_00139	CDS	ykuV	1.8.-.-	Thiol-disulfide oxidoreductase YkuV
+KBS0714_00139	gene	ykuV
+KBS0714_00140	CDS	hypothetical protein
+KBS0714_00140	gene
+KBS0714_00141	CDS	hypothetical protein
+KBS0714_00141	gene
+KBS0714_00142	CDS	ddh	1.4.1.16	Meso-diaminopimelate D-dehydrogenase
+KBS0714_00142	gene	ddh
+KBS0714_00143	CDS	hypothetical protein
+KBS0714_00143	gene
+KBS0714_00144	CDS	hypothetical protein
+KBS0714_00144	gene
+KBS0714_00145	tRNA	tRNA-Gly(ccc)
+KBS0714_00145	gene
+KBS0714_00146	CDS	hypothetical protein
+KBS0714_00146	gene
+KBS0714_00147	CDS	hypothetical protein
+KBS0714_00147	gene
+KBS0714_00148	CDS	dcd	3.5.4.13	dCTP deaminase
+KBS0714_00148	gene	dcd
+KBS0714_00149	CDS	hypothetical protein
+KBS0714_00149	gene
+KBS0714_00150	CDS	mrpA_1	Na(+)/H(+) antiporter subunit A
+KBS0714_00150	gene	mrpA_1
+KBS0714_00151	CDS	mrpC	Na(+)/H(+) antiporter subunit C
+KBS0714_00151	gene	mrpC
+KBS0714_00152	CDS	mrpD_1	Na(+)/H(+) antiporter subunit D
+KBS0714_00152	gene	mrpD_1
+KBS0714_00153	CDS	hypothetical protein
+KBS0714_00153	gene
+KBS0714_00154	CDS	hypothetical protein
+KBS0714_00154	gene
+KBS0714_00155	CDS	mrpG_1	Na(+)/H(+) antiporter subunit G
+KBS0714_00155	gene	mrpG_1
+KBS0714_00156	CDS	hypothetical protein
+KBS0714_00156	gene
+KBS0714_00157	CDS	hypothetical protein
+KBS0714_00157	gene
+KBS0714_00158	CDS	ydfJ	Membrane protein YdfJ
+KBS0714_00158	gene	ydfJ
+KBS0714_00159	CDS	udk_1	2.7.1.48	Uridine kinase
+KBS0714_00159	gene	udk_1
+KBS0714_00160	CDS	hypothetical protein
+KBS0714_00160	gene
+KBS0714_00161	CDS	mmpL8	Sulfolipid-1 exporter MmpL8
+KBS0714_00161	gene	mmpL8
+KBS0714_00162	CDS	dps	1.16.-.-	DNA protection during starvation protein
+KBS0714_00162	gene	dps
+KBS0714_00163	CDS	dnaK	Chaperone protein DnaK
+KBS0714_00163	gene	dnaK
+KBS0714_00164	CDS	hypothetical protein
+KBS0714_00164	gene
+KBS0714_00165	CDS	ctaF	1.9.3.1	Cytochrome c oxidase polypeptide 4
+KBS0714_00165	gene	ctaF
+KBS0714_00166	CDS	ctaD	1.9.3.1	putative cytochrome c oxidase subunit 1
+KBS0714_00166	gene	ctaD
+KBS0714_00167	CDS	ctaC	1.9.3.1	Cytochrome c oxidase subunit 2
+KBS0714_00167	gene	ctaC
+KBS0714_00168	CDS	erpA	Iron-sulfur cluster insertion protein ErpA
+KBS0714_00168	gene	erpA
+KBS0714_00169	CDS	dapE_1	3.5.1.18	Succinyl-diaminopimelate desuccinylase
+KBS0714_00169	gene	dapE_1
+KBS0714_00170	CDS	hypothetical protein
+KBS0714_00170	gene
+KBS0714_00171	CDS	pyrD_1	1.3.5.2	Dihydroorotate dehydrogenase (quinone)
+KBS0714_00171	gene	pyrD_1
+KBS0714_00172	CDS	3.1.1.23	Monoacylglycerol lipase
+KBS0714_00172	gene
+KBS0714_00173	CDS	2.5.1.88	Trans,polycis-polyprenyl diphosphate synthase ((2Z,6E)-farnesyl diphosphate specific)
+KBS0714_00173	gene
+KBS0714_00174	CDS	recO	DNA repair protein RecO
+KBS0714_00174	gene	recO
+KBS0714_00175	CDS	leuA	2.3.3.13	2-isopropylmalate synthase
+KBS0714_00175	gene	leuA
+KBS0714_00176	CDS	era	GTPase Era
+KBS0714_00176	gene	era
+KBS0714_00177	CDS	corC_1	Magnesium and cobalt efflux protein CorC
+KBS0714_00177	gene	corC_1
+KBS0714_00178	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+KBS0714_00178	gene	ybeY
+KBS0714_00179	CDS	PhoH-like protein
+KBS0714_00179	gene
+KBS0714_00180	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+KBS0714_00180	gene	rsmE
+KBS0714_00181	CDS	dnaJ2	Chaperone protein DnaJ 2
+KBS0714_00181	gene	dnaJ2
+KBS0714_00182	CDS	hrcA	Heat-inducible transcription repressor HrcA
+KBS0714_00182	gene	hrcA
+KBS0714_00183	CDS	hypothetical protein
+KBS0714_00183	gene
+KBS0714_00184	CDS	hypothetical protein
+KBS0714_00184	gene
+KBS0714_00185	CDS	hemN	1.3.99.-	Oxygen-independent coproporphyrinogen-III oxidase-like protein
+KBS0714_00185	gene	hemN
+KBS0714_00186	CDS	lepA	3.6.5.-	Elongation factor 4
+KBS0714_00186	gene	lepA
+KBS0714_00187	CDS	hypothetical protein
+KBS0714_00187	gene
+KBS0714_00188	CDS	rpsT	30S ribosomal protein S20
+KBS0714_00188	gene	rpsT
+KBS0714_00189	CDS	hypothetical protein
+KBS0714_00189	gene
+KBS0714_00190	CDS	comEC	ComE operon protein 3
+KBS0714_00190	gene	comEC
+KBS0714_00191	CDS	comEA	ComE operon protein 1
+KBS0714_00191	gene	comEA
+KBS0714_00192	CDS	DegV domain-containing protein
+KBS0714_00192	gene
+KBS0714_00193	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+KBS0714_00193	gene	leuS
+KBS0714_00194	CDS	hypothetical protein
+KBS0714_00194	gene
+KBS0714_00195	CDS	menH_2	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+KBS0714_00195	gene	menH_2
+KBS0714_00196	CDS	priA	3.6.4.-	putative primosomal protein N'
+KBS0714_00196	gene	priA
+KBS0714_00197	CDS	metK	2.5.1.6	S-adenosylmethionine synthase
+KBS0714_00197	gene	metK
+KBS0714_00198	CDS	coaBC	Coenzyme A biosynthesis bifunctional protein CoaBC
+KBS0714_00198	gene	coaBC
+KBS0714_00199	CDS	rpoZ	2.7.7.6	DNA-directed RNA polymerase subunit omega
+KBS0714_00199	gene	rpoZ
+KBS0714_00200	CDS	gmk	2.7.4.8	Guanylate kinase
+KBS0714_00200	gene	gmk
+KBS0714_00201	CDS	hypothetical protein
+KBS0714_00201	gene
+KBS0714_00202	CDS	pyrF	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+KBS0714_00202	gene	pyrF
+KBS0714_00203	CDS	carB	6.3.5.5	Carbamoyl-phosphate synthase large chain
+KBS0714_00203	gene	carB
+KBS0714_00204	CDS	carA	6.3.5.5	Carbamoyl-phosphate synthase small chain
+KBS0714_00204	gene	carA
+KBS0714_00205	CDS	hypothetical protein
+KBS0714_00205	gene
+KBS0714_00206	tRNA	tRNA-Ile(gat)
+KBS0714_00206	gene
+KBS0714_00207	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase
+KBS0714_00207	gene	pyrB
+KBS0714_00208	CDS	pyrR	Bifunctional protein PyrR
+KBS0714_00208	gene	pyrR
+KBS0714_00209	CDS	nusB	N utilization substance protein B 
+KBS0714_00209	gene	nusB
+KBS0714_00210	CDS	efp	Elongation factor P
+KBS0714_00210	gene	efp
+KBS0714_00211	CDS	aroB	4.2.3.4	3-dehydroquinate synthase
+KBS0714_00211	gene	aroB
+KBS0714_00212	CDS	aroK	2.7.1.71	Shikimate kinase
+KBS0714_00212	gene	aroK
+KBS0714_00213	CDS	aroC	4.2.3.5	Chorismate synthase
+KBS0714_00213	gene	aroC
+KBS0714_00214	CDS	ydiB	1.1.1.282	Quinate/shikimate dehydrogenase
+KBS0714_00214	gene	ydiB
+KBS0714_00215	CDS	mltG	4.2.2.-	Endolytic murein transglycosylase
+KBS0714_00215	gene	mltG
+KBS0714_00216	CDS	3.1.-.-	Putative pre-16S rRNA nuclease
+KBS0714_00216	gene
+KBS0714_00217	CDS	alaS	6.1.1.7	Alanine--tRNA ligase
+KBS0714_00217	gene	alaS
+KBS0714_00218	CDS	hypothetical protein
+KBS0714_00218	gene
+KBS0714_00219	CDS	rpsD	30S ribosomal protein S4
+KBS0714_00219	gene	rpsD
+KBS0714_00220	CDS	hypothetical protein
+KBS0714_00220	gene
+KBS0714_00221	CDS	putative AAA domain-containing protein
+KBS0714_00221	gene
+KBS0714_00222	CDS	hypothetical protein
+KBS0714_00222	gene
+KBS0714_00223	CDS	hypothetical protein
+KBS0714_00223	gene
+KBS0714_00224	CDS	dtd	3.1.1.96	D-aminoacyl-tRNA deacylase
+KBS0714_00224	gene	dtd
+KBS0714_00225	CDS	aspS	6.1.1.23	Aspartate--tRNA(Asp/Asn) ligase
+KBS0714_00225	gene	aspS
+KBS0714_00226	CDS	putative transporter
+KBS0714_00226	gene
+KBS0714_00227	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+KBS0714_00227	gene	hisS
+KBS0714_00228	CDS	hypothetical protein
+KBS0714_00228	gene
+KBS0714_00229	CDS	hypothetical protein
+KBS0714_00229	gene
+KBS0714_00230	CDS	relA	Bifunctional (p)ppGpp synthase/hydrolase RelA
+KBS0714_00230	gene	relA
+KBS0714_00231	CDS	hypothetical protein
+KBS0714_00231	gene
+KBS0714_00232	CDS	hypothetical protein
+KBS0714_00232	gene
+KBS0714_00233	CDS	hypothetical protein
+KBS0714_00233	gene
+KBS0714_00234	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+KBS0714_00234	gene	ruvB
+KBS0714_00235	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+KBS0714_00235	gene	ruvA
+KBS0714_00236	CDS	ruvC	3.1.22.4	Crossover junction endodeoxyribonuclease RuvC
+KBS0714_00236	gene	ruvC
+KBS0714_00237	CDS	putative transcriptional regulatory protein
+KBS0714_00237	gene
+KBS0714_00238	CDS	hypothetical protein
+KBS0714_00238	gene
+KBS0714_00239	CDS	dcp	3.4.15.5	Dipeptidyl carboxypeptidase
+KBS0714_00239	gene	dcp
+KBS0714_00240	CDS	hypothetical protein
+KBS0714_00240	gene
+KBS0714_00241	CDS	msrB	1.8.4.12	Peptide methionine sulfoxide reductase MsrB
+KBS0714_00241	gene	msrB
+KBS0714_00242	CDS	hypothetical protein
+KBS0714_00242	gene
+KBS0714_00243	CDS	rnd	3.1.13.5	Ribonuclease D
+KBS0714_00243	gene	rnd
+KBS0714_00244	CDS	fadB_1	Fatty acid oxidation complex subunit alpha
+KBS0714_00244	gene	fadB_1
+KBS0714_00245	CDS	hypothetical protein
+KBS0714_00245	gene
+KBS0714_00246	CDS	petC	1.10.9.1	Cytochrome b6-f complex iron-sulfur subunit
+KBS0714_00246	gene	petC
+KBS0714_00247	CDS	hypothetical protein
+KBS0714_00247	gene
+KBS0714_00248	CDS	gpr	1.1.1.-	L-glyceraldehyde 3-phosphate reductase
+KBS0714_00248	gene	gpr
+KBS0714_00249	CDS	hypothetical protein
+KBS0714_00249	gene
+KBS0714_00250	CDS	hypothetical protein
+KBS0714_00250	gene
+KBS0714_00251	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+KBS0714_00251	gene	dxs
+KBS0714_00252	CDS	hypothetical protein
+KBS0714_00252	gene
+KBS0714_00253	CDS	copB_1	3.6.3.54	Copper-exporting P-type ATPase B
+KBS0714_00253	gene	copB_1
+KBS0714_00254	CDS	ricR_1	Copper-sensing transcriptional repressor RicR
+KBS0714_00254	gene	ricR_1
+KBS0714_00255	CDS	hypothetical protein
+KBS0714_00255	gene
+KBS0714_00256	CDS	infB	Translation initiation factor IF-2
+KBS0714_00256	gene	infB
+KBS0714_00257	CDS	rbfA	Ribosome-binding factor A
+KBS0714_00257	gene	rbfA
+KBS0714_00258	CDS	truB	5.4.99.25	tRNA pseudouridine synthase B
+KBS0714_00258	gene	truB
+KBS0714_00259	CDS	hypothetical protein
+KBS0714_00259	gene
+KBS0714_00260	CDS	hypothetical protein
+KBS0714_00260	gene
+KBS0714_00261	CDS	ribF	Riboflavin biosynthesis protein RibF
+KBS0714_00261	gene	ribF
+KBS0714_00262	CDS	2.1.1.-	putative methyltransferase
+KBS0714_00262	gene
+KBS0714_00263	CDS	hypothetical protein
+KBS0714_00263	gene
+KBS0714_00264	CDS	rpsO	30S ribosomal protein S15
+KBS0714_00264	gene	rpsO
+KBS0714_00265	CDS	pnp	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+KBS0714_00265	gene	pnp
+KBS0714_00266	CDS	3.4.24.-	putative zinc protease
+KBS0714_00266	gene
+KBS0714_00267	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+KBS0714_00267	gene	dapB
+KBS0714_00268	CDS	hypothetical protein
+KBS0714_00268	gene
+KBS0714_00269	CDS	hypothetical protein
+KBS0714_00269	gene
+KBS0714_00270	CDS	dapA	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+KBS0714_00270	gene	dapA
+KBS0714_00271	CDS	rnj	3.1.-.-	Ribonuclease J
+KBS0714_00271	gene	rnj
+KBS0714_00272	CDS	ftsK	DNA translocase FtsK
+KBS0714_00272	gene	ftsK
+KBS0714_00273	CDS	pgsA2	2.7.8.5	Putative CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyl-transferase 2
+KBS0714_00273	gene	pgsA2
+KBS0714_00274	CDS	cinA	CinA-like protein
+KBS0714_00274	gene	cinA
+KBS0714_00275	CDS	hypothetical protein
+KBS0714_00275	gene
+KBS0714_00276	CDS	clgR	Transcriptional regulator ClgR
+KBS0714_00276	gene	clgR
+KBS0714_00277	CDS	hypothetical protein
+KBS0714_00277	gene
+KBS0714_00278	CDS	hypothetical protein
+KBS0714_00278	gene
+KBS0714_00279	CDS	hypothetical protein
+KBS0714_00279	gene
+KBS0714_00280	CDS	hypothetical protein
+KBS0714_00280	gene
+KBS0714_00281	CDS	recA	Protein RecA
+KBS0714_00281	gene	recA
+KBS0714_00282	CDS	recX_1	Regulatory protein RecX
+KBS0714_00282	gene	recX_1
+KBS0714_00283	CDS	miaB	2.8.4.3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+KBS0714_00283	gene	miaB
+KBS0714_00284	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+KBS0714_00284	gene	miaA
+KBS0714_00285	CDS	dapF	5.1.1.7	Diaminopimelate epimerase
+KBS0714_00285	gene	dapF
+KBS0714_00286	CDS	rsmC	2.1.1.172	Ribosomal RNA small subunit methyltransferase C
+KBS0714_00286	gene	rsmC
+KBS0714_00287	CDS	hypothetical protein
+KBS0714_00287	gene
+KBS0714_00288	CDS	hypothetical protein
+KBS0714_00288	gene
+KBS0714_00289	CDS	hypothetical protein
+KBS0714_00289	gene
+KBS0714_00290	CDS	hypothetical protein
+KBS0714_00290	gene
+KBS0714_00291	CDS	dnaB	3.6.4.12	Replicative DNA helicase
+KBS0714_00291	gene	dnaB
+KBS0714_00292	CDS	uctC	2.8.3.19	Acetyl-CoA:oxalate CoA-transferase
+KBS0714_00292	gene	uctC
+KBS0714_00293	CDS	acdA_1	1.3.99.-	Acyl-CoA dehydrogenase
+KBS0714_00293	gene	acdA_1
+KBS0714_00294	CDS	rimK	6.3.2.-	Ribosomal protein S6--L-glutamate ligase
+KBS0714_00294	gene	rimK
+KBS0714_00295	CDS	hypothetical protein
+KBS0714_00295	gene
+KBS0714_00296	CDS	doeB	3.5.1.-	N-alpha-acetyl-L-2,4-diaminobutyric acid deacetylase
+KBS0714_00296	gene	doeB
+KBS0714_00297	CDS	hypothetical protein
+KBS0714_00297	gene
+KBS0714_00298	CDS	rplI	50S ribosomal protein L9
+KBS0714_00298	gene	rplI
+KBS0714_00299	CDS	rpsR1	30S ribosomal protein S18 1
+KBS0714_00299	gene	rpsR1
+KBS0714_00300	CDS	ssb	Single-stranded DNA-binding protein
+KBS0714_00300	gene	ssb
+KBS0714_00301	CDS	rpsF	30S ribosomal protein S6
+KBS0714_00301	gene	rpsF
+KBS0714_00302	CDS	apeB	3.4.11.-	putative M18 family aminopeptidase 2
+KBS0714_00302	gene	apeB
+KBS0714_00303	CDS	hypothetical protein
+KBS0714_00303	gene
+KBS0714_00304	CDS	hypothetical protein
+KBS0714_00304	gene
+KBS0714_00305	CDS	ino1	5.5.1.4	Inositol-3-phosphate synthase
+KBS0714_00305	gene	ino1
+KBS0714_00306	CDS	oatA	2.3.1.-	O-acetyltransferase OatA
+KBS0714_00306	gene	oatA
+KBS0714_00307	CDS	hypothetical protein
+KBS0714_00307	gene
+KBS0714_00308	CDS	cca	2.7.7.72	CCA-adding enzyme
+KBS0714_00308	gene	cca
+KBS0714_00309	CDS	mutT4	3.6.1.-	Putative mutator protein MutT4
+KBS0714_00309	gene	mutT4
+KBS0714_00310	CDS	mviN	putative peptidoglycan biosynthesis protein MviN
+KBS0714_00310	gene	mviN
+KBS0714_00311	CDS	smc	Chromosome partition protein Smc
+KBS0714_00311	gene	smc
+KBS0714_00312	CDS	trxB	1.8.1.9	Thioredoxin reductase
+KBS0714_00312	gene	trxB
+KBS0714_00313	CDS	trxA	Thioredoxin
+KBS0714_00313	gene	trxA
+KBS0714_00314	CDS	parB	putative chromosome-partitioning protein ParB
+KBS0714_00314	gene	parB
+KBS0714_00315	CDS	soj_1	3.6.-.-	Sporulation initiation inhibitor protein Soj
+KBS0714_00315	gene	soj_1
+KBS0714_00316	CDS	rsmG	2.1.1.-	Ribosomal RNA small subunit methyltransferase G
+KBS0714_00316	gene	rsmG
+KBS0714_00317	CDS	hypothetical protein
+KBS0714_00317	gene
+KBS0714_00318	CDS	yidC	Membrane protein insertase YidC
+KBS0714_00318	gene	yidC
+KBS0714_00319	CDS	yidD	Putative membrane protein insertion efficiency factor
+KBS0714_00319	gene	yidD
+KBS0714_00320	CDS	rnpA	3.1.26.5	Ribonuclease P protein component
+KBS0714_00320	gene	rnpA
+KBS0714_00321	CDS	rpmH	50S ribosomal protein L34
+KBS0714_00321	gene	rpmH
+KBS0714_00322	CDS	dnaA	Chromosomal replication initiator protein DnaA
+KBS0714_00322	gene	dnaA
+KBS0714_00323	CDS	dnaN	2.7.7.7	DNA polymerase III subunit beta
+KBS0714_00323	gene	dnaN
+KBS0714_00324	CDS	recF	DNA replication and repair protein RecF
+KBS0714_00324	gene	recF
+KBS0714_00325	CDS	hypothetical protein
+KBS0714_00325	gene
+KBS0714_00326	CDS	gyrB_1	5.99.1.3	DNA gyrase subunit B
+KBS0714_00326	gene	gyrB_1
+KBS0714_00327	CDS	gyrA_1	5.99.1.3	DNA gyrase subunit A
+KBS0714_00327	gene	gyrA_1
+KBS0714_00328	CDS	hypothetical protein
+KBS0714_00328	gene
+KBS0714_00329	tRNA	tRNA-Ile(gat)
+KBS0714_00329	gene
+KBS0714_00330	CDS	hypothetical protein
+KBS0714_00330	gene
+KBS0714_00331	tRNA	tRNA-Ala(tgc)
+KBS0714_00331	gene
+KBS0714_00332	CDS	hypothetical protein
+KBS0714_00332	gene
+KBS0714_00333	CDS	hypothetical protein
+KBS0714_00333	gene
+KBS0714_00334	CDS	hypothetical protein
+KBS0714_00334	gene
+KBS0714_00335	CDS	hypothetical protein
+KBS0714_00335	gene
+KBS0714_00336	CDS	cypB	5.2.1.8	Peptidyl-prolyl cis-trans isomerase B
+KBS0714_00336	gene	cypB
+KBS0714_00337	CDS	aarA	3.4.21.105	Rhomboid protease AarA
+KBS0714_00337	gene	aarA
+KBS0714_00338	CDS	crgA	Cell division protein CrgA
+KBS0714_00338	gene	crgA
+KBS0714_00339	CDS	trpG	4.1.3.27	Anthranilate synthase component 2
+KBS0714_00339	gene	trpG
+KBS0714_00340	CDS	pknB	2.7.11.1	Serine/threonine-protein kinase PknB
+KBS0714_00340	gene	pknB
+KBS0714_00341	CDS	hypothetical protein
+KBS0714_00341	gene
+KBS0714_00342	CDS	1.1.1.1	putative zinc-binding alcohol dehydrogenase
+KBS0714_00342	gene
+KBS0714_00343	CDS	hypothetical protein
+KBS0714_00343	gene
+KBS0714_00344	CDS	2.8.3.-	Putative succinyl-CoA transferase
+KBS0714_00344	gene
+KBS0714_00345	CDS	bioB	2.8.1.6	Biotin synthase
+KBS0714_00345	gene	bioB
+KBS0714_00346	CDS	hypothetical protein
+KBS0714_00346	gene
+KBS0714_00347	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+KBS0714_00347	gene	purA
+KBS0714_00348	CDS	katE	1.11.1.6	Catalase C
+KBS0714_00348	gene	katE
+KBS0714_00349	CDS	3.5.-.-	Hydrolase
+KBS0714_00349	gene
+KBS0714_00350	CDS	hypothetical protein
+KBS0714_00350	gene
+KBS0714_00351	CDS	kdgR_1	Transcriptional regulator KdgR
+KBS0714_00351	gene	kdgR_1
+KBS0714_00352	CDS	hutU	4.2.1.49	Urocanate hydratase
+KBS0714_00352	gene	hutU
+KBS0714_00353	CDS	hypothetical protein
+KBS0714_00353	gene
+KBS0714_00354	CDS	hutI_1	3.5.2.7	Imidazolonepropionase
+KBS0714_00354	gene	hutI_1
+KBS0714_00355	CDS	hutH	4.3.1.3	Histidine ammonia-lyase
+KBS0714_00355	gene	hutH
+KBS0714_00356	CDS	hypothetical protein
+KBS0714_00356	gene
+KBS0714_00357	CDS	hypothetical protein
+KBS0714_00357	gene
+KBS0714_00358	CDS	hypothetical protein
+KBS0714_00358	gene
+KBS0714_00359	CDS	hypothetical protein
+KBS0714_00359	gene
+KBS0714_00360	CDS	hutG	3.5.3.8	Formimidoylglutamase
+KBS0714_00360	gene	hutG
+KBS0714_00361	CDS	hypothetical protein
+KBS0714_00361	gene
+KBS0714_00362	CDS	mgl_2	4.4.1.11	L-methionine gamma-lyase
+KBS0714_00362	gene	mgl_2
+KBS0714_00363	CDS	hypothetical protein
+KBS0714_00363	gene
+KBS0714_00364	CDS	hypothetical protein
+KBS0714_00364	gene
+KBS0714_00365	CDS	hypothetical protein
+KBS0714_00365	gene
+KBS0714_00366	CDS	hypothetical protein
+KBS0714_00366	gene
+KBS0714_00367	CDS	viuB	Vibriobactin utilization protein ViuB
+KBS0714_00367	gene	viuB
+KBS0714_00368	CDS	hypothetical protein
+KBS0714_00368	gene
+KBS0714_00369	CDS	yxeP	3.-.-.-	putative hydrolase YxeP
+KBS0714_00369	gene	yxeP
+KBS0714_00370	CDS	acsA_1	6.2.1.1	Acetyl-coenzyme A synthetase
+KBS0714_00370	gene	acsA_1
+KBS0714_00371	CDS	soxC	Dibenzothiophene desulfurization enzyme C
+KBS0714_00371	gene	soxC
+KBS0714_00372	CDS	ssuC	Putative aliphatic sulfonates transport permease protein SsuC
+KBS0714_00372	gene	ssuC
+KBS0714_00373	CDS	ssuA	Putative aliphatic sulfonates-binding protein
+KBS0714_00373	gene	ssuA
+KBS0714_00374	CDS	cmpD_1	3.6.3.-	Bicarbonate transport ATP-binding protein CmpD
+KBS0714_00374	gene	cmpD_1
+KBS0714_00375	CDS	dmoA	1.14.13.131	Dimethyl-sulfide monooxygenase
+KBS0714_00375	gene	dmoA
+KBS0714_00376	CDS	hypothetical protein
+KBS0714_00376	gene
+KBS0714_00377	CDS	hypothetical protein
+KBS0714_00377	gene
+KBS0714_00378	CDS	purL	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurL
+KBS0714_00378	gene	purL
+KBS0714_00379	CDS	purQ	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurQ
+KBS0714_00379	gene	purQ
+KBS0714_00380	CDS	purS	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurS
+KBS0714_00380	gene	purS
+KBS0714_00381	CDS	hypothetical protein
+KBS0714_00381	gene
+KBS0714_00382	CDS	hypothetical protein
+KBS0714_00382	gene
+KBS0714_00383	CDS	hypothetical protein
+KBS0714_00383	gene
+KBS0714_00384	CDS	hypothetical protein
+KBS0714_00384	gene
+KBS0714_00385	CDS	hypothetical protein
+KBS0714_00385	gene
+KBS0714_00386	CDS	tap	3.4.14.-	Tripeptidyl aminopeptidase
+KBS0714_00386	gene	tap
+KBS0714_00387	CDS	hypothetical protein
+KBS0714_00387	gene
+KBS0714_00388	CDS	vpr	3.4.21.-	Minor extracellular protease vpr
+KBS0714_00388	gene	vpr
+KBS0714_00389	CDS	ask	2.7.2.4	Aspartokinase
+KBS0714_00389	gene	ask
+KBS0714_00390	CDS	natA	ABC transporter ATP-binding protein NatA
+KBS0714_00390	gene	natA
+KBS0714_00391	CDS	hypothetical protein
+KBS0714_00391	gene
+KBS0714_00392	CDS	recR	Recombination protein RecR
+KBS0714_00392	gene	recR
+KBS0714_00393	CDS	dnaX_1	2.7.7.7	DNA polymerase III subunit gamma/tau
+KBS0714_00393	gene	dnaX_1
+KBS0714_00394	CDS	rutE	1.1.1.298	putative malonic semialdehyde reductase RutE
+KBS0714_00394	gene	rutE
+KBS0714_00395	CDS	gltX_1	6.1.1.17	Glutamate--tRNA ligase
+KBS0714_00395	gene	gltX_1
+KBS0714_00396	tRNA	tRNA-Ser(gga)
+KBS0714_00396	gene
+KBS0714_00397	CDS	acp_2	Sodium/proton-dependent alanine carrier protein
+KBS0714_00397	gene	acp_2
+KBS0714_00398	CDS	poxB	1.2.5.1	Pyruvate dehydrogenase [ubiquinone]
+KBS0714_00398	gene	poxB
+KBS0714_00399	CDS	hypothetical protein
+KBS0714_00399	gene
+KBS0714_00400	CDS	hypothetical protein
+KBS0714_00400	gene
+KBS0714_00401	CDS	nuc	3.1.31.1	Thermonuclease
+KBS0714_00401	gene	nuc
+KBS0714_00402	CDS	hypothetical protein
+KBS0714_00402	gene
+KBS0714_00403	CDS	sdaB	4.3.1.17	L-serine dehydratase 2
+KBS0714_00403	gene	sdaB
+KBS0714_00404	CDS	hypothetical protein
+KBS0714_00404	gene
+KBS0714_00405	CDS	etfB	Electron transfer flavoprotein subunit beta
+KBS0714_00405	gene	etfB
+KBS0714_00406	CDS	etfA	Electron transfer flavoprotein subunit alpha
+KBS0714_00406	gene	etfA
+KBS0714_00407	CDS	hypothetical protein
+KBS0714_00407	gene
+KBS0714_00408	CDS	hypothetical protein
+KBS0714_00408	gene
+KBS0714_00409	CDS	hypothetical protein
+KBS0714_00409	gene
+KBS0714_00410	CDS	mmgC_2	1.3.99.-	Acyl-CoA dehydrogenase
+KBS0714_00410	gene	mmgC_2
+KBS0714_00411	CDS	crt_1	4.2.1.150	Short-chain-enoyl-CoA hydratase
+KBS0714_00411	gene	crt_1
+KBS0714_00412	CDS	echA8_1	4.2.1.17	putative enoyl-CoA hydratase echA8
+KBS0714_00412	gene	echA8_1
+KBS0714_00413	CDS	mmsB	1.1.1.31	putative 3-hydroxyisobutyrate dehydrogenase
+KBS0714_00413	gene	mmsB
+KBS0714_00414	CDS	bauC	1.2.1.-	Putative 3-oxopropanoate dehydrogenase
+KBS0714_00414	gene	bauC
+KBS0714_00415	CDS	1.-.-.-	putative oxidoreductase
+KBS0714_00415	gene
+KBS0714_00416	CDS	yusO	putative HTH-type transcriptional regulator YusO
+KBS0714_00416	gene	yusO
+KBS0714_00417	CDS	acsA_2	6.2.1.1	Acetyl-coenzyme A synthetase
+KBS0714_00417	gene	acsA_2
+KBS0714_00418	CDS	mmgC_3	1.3.99.-	Acyl-CoA dehydrogenase
+KBS0714_00418	gene	mmgC_3
+KBS0714_00419	CDS	hypothetical protein
+KBS0714_00419	gene
+KBS0714_00420	CDS	ectC	4.2.1.108	L-ectoine synthase
+KBS0714_00420	gene	ectC
+KBS0714_00421	CDS	mntH_1	Divalent metal cation transporter MntH
+KBS0714_00421	gene	mntH_1
+KBS0714_00422	CDS	gcvP	1.4.4.2	putative glycine dehydrogenase (decarboxylating)
+KBS0714_00422	gene	gcvP
+KBS0714_00423	CDS	gcvT	2.1.2.10	Aminomethyltransferase
+KBS0714_00423	gene	gcvT
+KBS0714_00424	CDS	hypothetical protein
+KBS0714_00424	gene
+KBS0714_00425	CDS	vraR	Response regulator protein VraR
+KBS0714_00425	gene	vraR
+KBS0714_00426	CDS	hypothetical protein
+KBS0714_00426	gene
+KBS0714_00427	CDS	uhpB	2.7.13.3	Signal transduction histidine-protein kinase/phosphatase UhpB
+KBS0714_00427	gene	uhpB
+KBS0714_00428	CDS	hypothetical protein
+KBS0714_00428	gene
+KBS0714_00429	CDS	hypothetical protein
+KBS0714_00429	gene
+KBS0714_00430	CDS	pdxK	2.7.1.35	Pyridoxine kinase
+KBS0714_00430	gene	pdxK
+KBS0714_00431	CDS	hypothetical protein
+KBS0714_00431	gene
+KBS0714_00432	CDS	hypothetical protein
+KBS0714_00432	gene
+KBS0714_00433	CDS	hypothetical protein
+KBS0714_00433	gene
+KBS0714_00434	CDS	hypothetical protein
+KBS0714_00434	gene
+KBS0714_00435	CDS	mmgC_4	1.3.99.-	Acyl-CoA dehydrogenase
+KBS0714_00435	gene	mmgC_4
+KBS0714_00436	CDS	hypothetical protein
+KBS0714_00436	gene
+KBS0714_00437	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+KBS0714_00437	gene	tgt
+KBS0714_00438	CDS	hypothetical protein
+KBS0714_00438	gene
+KBS0714_00439	CDS	hypothetical protein
+KBS0714_00439	gene
+KBS0714_00440	CDS	hypothetical protein
+KBS0714_00440	gene
+KBS0714_00441	CDS	1.5.1.49	Delta(1)-pyrroline-2-carboxylate reductase
+KBS0714_00441	gene
+KBS0714_00442	CDS	guaA_1	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+KBS0714_00442	gene	guaA_1
+KBS0714_00443	CDS	hypothetical protein
+KBS0714_00443	gene
+KBS0714_00444	CDS	hypothetical protein
+KBS0714_00444	gene
+KBS0714_00445	CDS	hypothetical protein
+KBS0714_00445	gene
+KBS0714_00446	CDS	namA	1.6.99.1	NADPH dehydrogenase
+KBS0714_00446	gene	namA
+KBS0714_00447	CDS	hypothetical protein
+KBS0714_00447	gene
+KBS0714_00448	CDS	hypothetical protein
+KBS0714_00448	gene
+KBS0714_00449	CDS	bkdB_1	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase subunit beta
+KBS0714_00449	gene	bkdB_1
+KBS0714_00450	CDS	bkdA_1	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase subunit alpha
+KBS0714_00450	gene	bkdA_1
+KBS0714_00451	CDS	hypothetical protein
+KBS0714_00451	gene
+KBS0714_00452	CDS	cdsA	2.7.7.41	Phosphatidate cytidylyltransferase
+KBS0714_00452	gene	cdsA
+KBS0714_00453	CDS	frr	Ribosome-recycling factor
+KBS0714_00453	gene	frr
+KBS0714_00454	CDS	pyrH	2.7.4.22	Uridylate kinase
+KBS0714_00454	gene	pyrH
+KBS0714_00455	CDS	tsf	Elongation factor Ts
+KBS0714_00455	gene	tsf
+KBS0714_00456	CDS	rpsB	30S ribosomal protein S2
+KBS0714_00456	gene	rpsB
+KBS0714_00457	CDS	hypothetical protein
+KBS0714_00457	gene
+KBS0714_00458	CDS	gumH	2.4.1.252	GDP-mannose:cellobiosyl-diphosphopolyprenol alpha-mannosyltransferase
+KBS0714_00458	gene	gumH
+KBS0714_00459	CDS	hypothetical protein
+KBS0714_00459	gene
+KBS0714_00460	CDS	cwlS_1	3.4.19.11	D-gamma-glutamyl-meso-diaminopimelic acid endopeptidase CwlS
+KBS0714_00460	gene	cwlS_1
+KBS0714_00461	tRNA	tRNA-Met(cat)
+KBS0714_00461	gene
+KBS0714_00462	CDS	mgtA_1	2.4.1.-	GDP-mannose-dependent alpha-mannosyltransferase
+KBS0714_00462	gene	mgtA_1
+KBS0714_00463	CDS	pgsA1	2.7.8.5	Putative CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyl-transferase 1
+KBS0714_00463	gene	pgsA1
+KBS0714_00464	CDS	hypothetical protein
+KBS0714_00464	gene
+KBS0714_00465	CDS	1.-.-.-	putative oxidoreductase/MSMEI_2347
+KBS0714_00465	gene
+KBS0714_00466	CDS	rihA	3.2.-.-	Pyrimidine-specific ribonucleoside hydrolase RihA
+KBS0714_00466	gene	rihA
+KBS0714_00467	CDS	yghA_2	1.-.-.-	putative oxidoreductase YghA
+KBS0714_00467	gene	yghA_2
+KBS0714_00468	CDS	glsA1_1	3.5.1.2	Glutaminase 1
+KBS0714_00468	gene	glsA1_1
+KBS0714_00469	CDS	hypothetical protein
+KBS0714_00469	gene
+KBS0714_00470	CDS	bpoA2	1.11.1.-	Non-haem bromoperoxidase BPO-A2
+KBS0714_00470	gene	bpoA2
+KBS0714_00471	CDS	hypothetical protein
+KBS0714_00471	gene
+KBS0714_00472	CDS	yhjQ	putative cysteine-rich protein YhjQ
+KBS0714_00472	gene	yhjQ
+KBS0714_00473	CDS	fda	4.1.2.13	Fructose-bisphosphate aldolase class 1
+KBS0714_00473	gene	fda
+KBS0714_00474	CDS	hypothetical protein
+KBS0714_00474	gene
+KBS0714_00475	CDS	hypothetical protein
+KBS0714_00475	gene
+KBS0714_00476	CDS	copB_2	3.6.3.54	Copper-exporting P-type ATPase B
+KBS0714_00476	gene	copB_2
+KBS0714_00477	CDS	copZ_1	Copper chaperone CopZ
+KBS0714_00477	gene	copZ_1
+KBS0714_00478	CDS	baeS	2.7.13.3	Signal transduction histidine-protein kinase BaeS
+KBS0714_00478	gene	baeS
+KBS0714_00479	CDS	walR	Transcriptional regulatory protein WalR
+KBS0714_00479	gene	walR
+KBS0714_00480	CDS	hypothetical protein
+KBS0714_00480	gene
+KBS0714_00481	CDS	mmcO	1.16.3.1	Multicopper oxidase MmcO
+KBS0714_00481	gene	mmcO
+KBS0714_00482	CDS	Insertion element IS6110 uncharacterized 12.0 kDa protein
+KBS0714_00482	gene
+KBS0714_00483	CDS	hypothetical protein
+KBS0714_00483	gene
+KBS0714_00484	CDS	hypothetical protein
+KBS0714_00484	gene
+KBS0714_00485	CDS	hypothetical protein
+KBS0714_00485	gene
+KBS0714_00486	CDS	hypothetical protein
+KBS0714_00486	gene
+KBS0714_00487	CDS	bin3	Putative transposon Tn552 DNA-invertase bin3
+KBS0714_00487	gene	bin3
+KBS0714_00488	CDS	hypothetical protein
+KBS0714_00488	gene
+KBS0714_00489	CDS	mcrB	3.1.21.-	5-methylcytosine-specific restriction enzyme B
+KBS0714_00489	gene	mcrB
+KBS0714_00490	CDS	hypothetical protein
+KBS0714_00490	gene
+KBS0714_00491	CDS	hypothetical protein
+KBS0714_00491	gene
+KBS0714_00492	CDS	hypothetical protein
+KBS0714_00492	gene
+KBS0714_00493	CDS	hypothetical protein
+KBS0714_00493	gene
+KBS0714_00494	CDS	hypothetical protein
+KBS0714_00494	gene
+KBS0714_00495	CDS	hypothetical protein
+KBS0714_00495	gene
+KBS0714_00496	CDS	hypothetical protein
+KBS0714_00496	gene
+KBS0714_00497	CDS	hypothetical protein
+KBS0714_00497	gene
+KBS0714_00498	CDS	hypothetical protein
+KBS0714_00498	gene
+KBS0714_00499	tmRNA	ssrA	transfer-messenger RNA, SsrA
+KBS0714_00499	gene	ssrA
+KBS0714_00500	CDS	hypothetical protein
+KBS0714_00500	gene
+KBS0714_00501	CDS	hypothetical protein
+KBS0714_00501	gene
+KBS0714_00502	CDS	Phage shock protein A 
+KBS0714_00502	gene
+KBS0714_00503	CDS	hypothetical protein
+KBS0714_00503	gene
+KBS0714_00504	CDS	htrA	Putative serine protease HtrA
+KBS0714_00504	gene	htrA
+KBS0714_00505	CDS	bshB1	3.5.1.-	N-acetyl-alpha-D-glucosaminyl L-malate deacetylase 1
+KBS0714_00505	gene	bshB1
+KBS0714_00506	CDS	sigK	ECF RNA polymerase sigma factor SigK
+KBS0714_00506	gene	sigK
+KBS0714_00507	CDS	trmL	2.1.1.207	tRNA (cytidine(34)-2'-O)-methyltransferase
+KBS0714_00507	gene	trmL
+KBS0714_00508	CDS	dnaJ_1	Chaperone protein DnaJ
+KBS0714_00508	gene	dnaJ_1
+KBS0714_00509	CDS	hypothetical protein
+KBS0714_00509	gene
+KBS0714_00510	CDS	folP	2.5.1.15	Dihydropteroate synthase
+KBS0714_00510	gene	folP
+KBS0714_00511	CDS	ktrB_1	Ktr system potassium uptake protein B
+KBS0714_00511	gene	ktrB_1
+KBS0714_00512	CDS	ktrA_1	Ktr system potassium uptake protein A
+KBS0714_00512	gene	ktrA_1
+KBS0714_00513	CDS	iscS_1	2.8.1.7	IscS-like cysteine desulfurase
+KBS0714_00513	gene	iscS_1
+KBS0714_00514	CDS	mnmA	2.8.1.13	tRNA-specific 2-thiouridylase MnmA
+KBS0714_00514	gene	mnmA
+KBS0714_00515	CDS	hypothetical protein
+KBS0714_00515	gene
+KBS0714_00516	CDS	hypothetical protein
+KBS0714_00516	gene
+KBS0714_00517	CDS	mtrA	DNA-binding response regulator MtrA
+KBS0714_00517	gene	mtrA
+KBS0714_00518	CDS	mtrB	2.7.13.3	Sensor histidine kinase MtrB
+KBS0714_00518	gene	mtrB
+KBS0714_00519	CDS	lpqB	Lipoprotein LpqB
+KBS0714_00519	gene	lpqB
+KBS0714_00520	CDS	pyrE_1	2.4.2.10	Orotate phosphoribosyltransferase
+KBS0714_00520	gene	pyrE_1
+KBS0714_00521	CDS	hpf	Ribosome hibernation promotion factor
+KBS0714_00521	gene	hpf
+KBS0714_00522	CDS	secA	Protein translocase subunit SecA
+KBS0714_00522	gene	secA
+KBS0714_00523	CDS	hypothetical protein
+KBS0714_00523	gene
+KBS0714_00524	CDS	hypothetical protein
+KBS0714_00524	gene
+KBS0714_00525	CDS	hypothetical protein
+KBS0714_00525	gene
+KBS0714_00526	CDS	hypothetical protein
+KBS0714_00526	gene
+KBS0714_00527	CDS	hypothetical protein
+KBS0714_00527	gene
+KBS0714_00528	CDS	hypothetical protein
+KBS0714_00528	gene
+KBS0714_00529	CDS	pdtaS	2.7.13.3	putative sensor histidine kinase pdtaS
+KBS0714_00529	gene	pdtaS
+KBS0714_00530	CDS	whiB1	Transcriptional regulator WhiB1
+KBS0714_00530	gene	whiB1
+KBS0714_00531	CDS	hypothetical protein
+KBS0714_00531	gene
+KBS0714_00532	CDS	hypothetical protein
+KBS0714_00532	gene
+KBS0714_00533	CDS	infC	Translation initiation factor IF-3
+KBS0714_00533	gene	infC
+KBS0714_00534	CDS	rpmI	50S ribosomal protein L35
+KBS0714_00534	gene	rpmI
+KBS0714_00535	CDS	rplT	50S ribosomal protein L20
+KBS0714_00535	gene	rplT
+KBS0714_00536	CDS	aviRb	2.1.1.208	23S rRNA (uridine(2479)-2'-O)-methyltransferase
+KBS0714_00536	gene	aviRb
+KBS0714_00537	CDS	hypothetical protein
+KBS0714_00537	gene
+KBS0714_00538	CDS	ydhP_1	Inner membrane transport protein YdhP
+KBS0714_00538	gene	ydhP_1
+KBS0714_00539	CDS	ydhP_2	Inner membrane transport protein YdhP
+KBS0714_00539	gene	ydhP_2
+KBS0714_00540	CDS	mutT2	3.6.1.55	Putative 8-oxo-dGTP diphosphatase 2
+KBS0714_00540	gene	mutT2
+KBS0714_00541	CDS	hypothetical protein
+KBS0714_00541	gene
+KBS0714_00542	CDS	pcp	3.4.19.3	Pyrrolidone-carboxylate peptidase
+KBS0714_00542	gene	pcp
+KBS0714_00543	CDS	hypothetical protein
+KBS0714_00543	gene
+KBS0714_00544	CDS	hypothetical protein
+KBS0714_00544	gene
+KBS0714_00545	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+KBS0714_00545	gene	pheS
+KBS0714_00546	CDS	pheT	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+KBS0714_00546	gene	pheT
+KBS0714_00547	CDS	hypothetical protein
+KBS0714_00547	gene
+KBS0714_00548	CDS	pepN_1	3.4.11.2	Aminopeptidase N
+KBS0714_00548	gene	pepN_1
+KBS0714_00549	CDS	lgrD	Linear gramicidin synthase subunit D
+KBS0714_00549	gene	lgrD
+KBS0714_00550	CDS	qorA_1	1.6.5.5	Quinone oxidoreductase 1
+KBS0714_00550	gene	qorA_1
+KBS0714_00551	CDS	argC	1.2.1.38	N-acetyl-gamma-glutamyl-phosphate reductase
+KBS0714_00551	gene	argC
+KBS0714_00552	CDS	argJ	Arginine biosynthesis bifunctional protein ArgJ
+KBS0714_00552	gene	argJ
+KBS0714_00553	CDS	argB	2.7.2.8	Acetylglutamate kinase
+KBS0714_00553	gene	argB
+KBS0714_00554	CDS	argD	2.6.1.11	Acetylornithine aminotransferase
+KBS0714_00554	gene	argD
+KBS0714_00555	CDS	argF	2.1.3.3	Ornithine carbamoyltransferase
+KBS0714_00555	gene	argF
+KBS0714_00556	CDS	argR	Arginine repressor
+KBS0714_00556	gene	argR
+KBS0714_00557	CDS	rpf	3.-.-.-	Resuscitation-promoting factor Rpf
+KBS0714_00557	gene	rpf
+KBS0714_00558	CDS	argG	6.3.4.5	Argininosuccinate synthase
+KBS0714_00558	gene	argG
+KBS0714_00559	CDS	argH	4.3.2.1	Argininosuccinate lyase
+KBS0714_00559	gene	argH
+KBS0714_00560	CDS	helD	3.6.4.12	DNA helicase IV
+KBS0714_00560	gene	helD
+KBS0714_00561	CDS	tyrS	6.1.1.1	Tyrosine--tRNA ligase
+KBS0714_00561	gene	tyrS
+KBS0714_00562	CDS	hypothetical protein
+KBS0714_00562	gene
+KBS0714_00563	CDS	dagK	2.7.1.107	Diacylglycerol kinase
+KBS0714_00563	gene	dagK
+KBS0714_00564	CDS	pheA	4.2.1.51	Prephenate dehydratase
+KBS0714_00564	gene	pheA
+KBS0714_00565	CDS	glpE	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+KBS0714_00565	gene	glpE
+KBS0714_00566	CDS	hypothetical protein
+KBS0714_00566	gene
+KBS0714_00567	CDS	amiB2	3.5.1.4	Putative amidase AmiB2
+KBS0714_00567	gene	amiB2
+KBS0714_00568	CDS	hypothetical protein
+KBS0714_00568	gene
+KBS0714_00569	CDS	mshB	3.5.1.103	1D-myo-inositol 2-acetamido-2-deoxy-alpha-D-glucopyranoside deacetylase
+KBS0714_00569	gene	mshB
+KBS0714_00570	CDS	hypothetical protein
+KBS0714_00570	gene
+KBS0714_00571	CDS	furA	Transcriptional regulator FurA
+KBS0714_00571	gene	furA
+KBS0714_00572	CDS	pgm	5.4.2.2	Phosphoglucomutase
+KBS0714_00572	gene	pgm
+KBS0714_00573	CDS	alkH	1.2.1.3	Aldehyde dehydrogenase
+KBS0714_00573	gene	alkH
+KBS0714_00574	CDS	glpQ_1	3.1.4.46	Glycerophosphodiester phosphodiesterase
+KBS0714_00574	gene	glpQ_1
+KBS0714_00575	CDS	lrp_1	Leucine-responsive regulatory protein
+KBS0714_00575	gene	lrp_1
+KBS0714_00576	CDS	hypothetical protein
+KBS0714_00576	gene
+KBS0714_00577	CDS	1.-.-.-	putative oxidoreductase
+KBS0714_00577	gene
+KBS0714_00578	CDS	ltaE	4.1.2.48	Low specificity L-threonine aldolase
+KBS0714_00578	gene	ltaE
+KBS0714_00579	CDS	lysP	Lysine-specific permease
+KBS0714_00579	gene	lysP
+KBS0714_00580	CDS	hypothetical protein
+KBS0714_00580	gene
+KBS0714_00581	CDS	hypothetical protein
+KBS0714_00581	gene
+KBS0714_00582	CDS	yidA	3.1.3.23	Sugar phosphatase YidA
+KBS0714_00582	gene	yidA
+KBS0714_00583	CDS	mdh	1.1.1.37	Malate dehydrogenase
+KBS0714_00583	gene	mdh
+KBS0714_00584	CDS	scrK	2.7.1.4	Fructokinase
+KBS0714_00584	gene	scrK
+KBS0714_00585	CDS	rutG	Putative pyrimidine permease RutG
+KBS0714_00585	gene	rutG
+KBS0714_00586	CDS	gabT_1	2.6.1.19	4-aminobutyrate aminotransferase GabT
+KBS0714_00586	gene	gabT_1
+KBS0714_00587	CDS	hypothetical protein
+KBS0714_00587	gene
+KBS0714_00588	CDS	clcD	3.1.1.45	Carboxymethylenebutenolidase
+KBS0714_00588	gene	clcD
+KBS0714_00589	CDS	2.1.1.72	putative type I restriction enzymeP M protein
+KBS0714_00589	gene
+KBS0714_00590	CDS	hypothetical protein
+KBS0714_00590	gene
+KBS0714_00591	CDS	hsdS	Type-1 restriction enzyme EcoKI specificity protein
+KBS0714_00591	gene	hsdS
+KBS0714_00592	CDS	hsdR_1	3.1.21.3	Type-1 restriction enzyme R protein
+KBS0714_00592	gene	hsdR_1
+KBS0714_00593	CDS	yceI	Protein YceI
+KBS0714_00593	gene	yceI
+KBS0714_00594	CDS	gdhA	1.4.1.3	Glutamate dehydrogenase
+KBS0714_00594	gene	gdhA
+KBS0714_00595	CDS	mcl1	4.1.3.24	L-malyl-CoA/beta-methylmalyl-CoA lyase
+KBS0714_00595	gene	mcl1
+KBS0714_00596	CDS	hypothetical protein
+KBS0714_00596	gene
+KBS0714_00597	CDS	hypothetical protein
+KBS0714_00597	gene
+KBS0714_00598	CDS	hypothetical protein
+KBS0714_00598	gene
+KBS0714_00599	CDS	hypothetical protein
+KBS0714_00599	gene
+KBS0714_00600	CDS	Universal stress protein
+KBS0714_00600	gene
+KBS0714_00601	tRNA	tRNA-Ser(cag)
+KBS0714_00601	gene
+KBS0714_00602	CDS	fhaA	FHA domain-containing protein FhaA
+KBS0714_00602	gene	fhaA
+KBS0714_00603	CDS	fhaB	FHA domain-containing protein FhaB
+KBS0714_00603	gene	fhaB
+KBS0714_00604	CDS	pstP	3.1.3.16	PP2C-family Ser/Thr phosphatase
+KBS0714_00604	gene	pstP
+KBS0714_00605	CDS	rodA	putative FtsW-like protein
+KBS0714_00605	gene	rodA
+KBS0714_00606	CDS	pbpA	Penicillin-binding protein A
+KBS0714_00606	gene	pbpA
+KBS0714_00607	CDS	hypothetical protein
+KBS0714_00607	gene
+KBS0714_00608	CDS	hypothetical protein
+KBS0714_00608	gene
+KBS0714_00609	CDS	2.1.1.-	putative S-adenosylmethionine-dependent methyltransferase/MSMEI_2290
+KBS0714_00609	gene
+KBS0714_00610	CDS	6.2.1.30	Phenylacetate-coenzyme A ligase
+KBS0714_00610	gene
+KBS0714_00611	CDS	1.14.-.-	Putative cytochrome P450 137
+KBS0714_00611	gene
+KBS0714_00612	CDS	lspA_1	3.4.23.36	Lipoprotein signal peptidase
+KBS0714_00612	gene	lspA_1
+KBS0714_00613	CDS	ctpG	3.6.3.-	putative cation-transporting ATPase G
+KBS0714_00613	gene	ctpG
+KBS0714_00614	CDS	cmtR_1	HTH-type transcriptional regulator CmtR
+KBS0714_00614	gene	cmtR_1
+KBS0714_00615	CDS	dsbD_1	1.8.1.8	Thiol:disulfide interchange protein DsbD
+KBS0714_00615	gene	dsbD_1
+KBS0714_00616	CDS	hypothetical protein
+KBS0714_00616	gene
+KBS0714_00617	CDS	hypothetical protein
+KBS0714_00617	gene
+KBS0714_00618	CDS	czrA	HTH-type transcriptional repressor CzrA
+KBS0714_00618	gene	czrA
+KBS0714_00619	CDS	czcD_1	Metal cation efflux system protein CzcD
+KBS0714_00619	gene	czcD_1
+KBS0714_00620	CDS	hypothetical protein
+KBS0714_00620	gene
+KBS0714_00621	CDS	cmtR_2	HTH-type transcriptional regulator CmtR
+KBS0714_00621	gene	cmtR_2
+KBS0714_00622	CDS	hypothetical protein
+KBS0714_00622	gene
+KBS0714_00623	CDS	hypothetical protein
+KBS0714_00623	gene
+KBS0714_00624	CDS	hypothetical protein
+KBS0714_00624	gene
+KBS0714_00625	CDS	hin_1	DNA-invertase hin
+KBS0714_00625	gene	hin_1
+KBS0714_00626	CDS	hypothetical protein
+KBS0714_00626	gene
+KBS0714_00627	CDS	hypothetical protein
+KBS0714_00627	gene
+KBS0714_00628	CDS	serS	6.1.1.11	Serine--tRNA ligase
+KBS0714_00628	gene	serS
+KBS0714_00629	CDS	yhaX	Stress response protein YhaX
+KBS0714_00629	gene	yhaX
+KBS0714_00630	CDS	hypothetical protein
+KBS0714_00630	gene
+KBS0714_00631	CDS	ppa	3.6.1.1	Inorganic pyrophosphatase
+KBS0714_00631	gene	ppa
+KBS0714_00632	CDS	dacC	3.4.16.4	D-alanyl-D-alanine carboxypeptidase DacC
+KBS0714_00632	gene	dacC
+KBS0714_00633	CDS	hypothetical protein
+KBS0714_00633	gene
+KBS0714_00634	CDS	tilS	6.3.4.19	tRNA(Ile)-lysidine synthase
+KBS0714_00634	gene	tilS
+KBS0714_00635	CDS	hpt	2.4.2.8	Hypoxanthine-guanine phosphoribosyltransferase
+KBS0714_00635	gene	hpt
+KBS0714_00636	CDS	hypothetical protein
+KBS0714_00636	gene
+KBS0714_00637	CDS	ftsH	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+KBS0714_00637	gene	ftsH
+KBS0714_00638	CDS	folE	3.5.4.16	GTP cyclohydrolase 1
+KBS0714_00638	gene	folE
+KBS0714_00639	CDS	folP1	2.5.1.15	Dihydropteroate synthase
+KBS0714_00639	gene	folP1
+KBS0714_00640	CDS	folB	4.1.2.25	Dihydroneopterin aldolase
+KBS0714_00640	gene	folB
+KBS0714_00641	CDS	folK	2.7.6.3	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+KBS0714_00641	gene	folK
+KBS0714_00642	CDS	hypothetical protein
+KBS0714_00642	gene
+KBS0714_00643	CDS	hypothetical protein
+KBS0714_00643	gene
+KBS0714_00644	CDS	hypothetical protein
+KBS0714_00644	gene
+KBS0714_00645	CDS	hypothetical protein
+KBS0714_00645	gene
+KBS0714_00646	CDS	yfkJ	3.1.3.48	Low molecular weight protein-tyrosine-phosphatase YfkJ
+KBS0714_00646	gene	yfkJ
+KBS0714_00647	CDS	hypothetical protein
+KBS0714_00647	gene
+KBS0714_00648	CDS	dpp5	3.4.14.-	Dipeptidyl-peptidase 5
+KBS0714_00648	gene	dpp5
+KBS0714_00649	CDS	glpQ_2	3.1.4.46	Glycerophosphodiester phosphodiesterase, periplasmic
+KBS0714_00649	gene	glpQ_2
+KBS0714_00650	CDS	hypothetical protein
+KBS0714_00650	gene
+KBS0714_00651	CDS	hypothetical protein
+KBS0714_00651	gene
+KBS0714_00652	CDS	hypothetical protein
+KBS0714_00652	gene
+KBS0714_00653	CDS	panC	6.3.2.1	Pantothenate synthetase
+KBS0714_00653	gene	panC
+KBS0714_00654	CDS	3.2.2.-	Putative 3-methyladenine DNA glycosylase
+KBS0714_00654	gene
+KBS0714_00655	CDS	hypothetical protein
+KBS0714_00655	gene
+KBS0714_00656	CDS	hypothetical protein
+KBS0714_00656	gene
+KBS0714_00657	CDS	pepO	3.4.24.-	Neutral endopeptidase
+KBS0714_00657	gene	pepO
+KBS0714_00658	CDS	hypothetical protein
+KBS0714_00658	gene
+KBS0714_00659	CDS	bmr3	Multidrug resistance protein 3
+KBS0714_00659	gene	bmr3
+KBS0714_00660	CDS	lysS1	6.1.1.6	Lysine--tRNA ligase 1
+KBS0714_00660	gene	lysS1
+KBS0714_00661	CDS	hypothetical protein
+KBS0714_00661	gene
+KBS0714_00662	CDS	lsr2	Nucleoid-associated protein Lsr2
+KBS0714_00662	gene	lsr2
+KBS0714_00663	CDS	clpC1	ATP-dependent Clp protease ATP-binding subunit ClpC1
+KBS0714_00663	gene	clpC1
+KBS0714_00664	CDS	hypothetical protein
+KBS0714_00664	gene
+KBS0714_00665	CDS	argA	2.3.1.1	Amino-acid acetyltransferase
+KBS0714_00665	gene	argA
+KBS0714_00666	CDS	mutY	3.2.2.-	Adenine DNA glycosylase
+KBS0714_00666	gene	mutY
+KBS0714_00667	CDS	hypothetical protein
+KBS0714_00667	gene
+KBS0714_00668	CDS	radA	3.6.4.-	DNA repair protein RadA
+KBS0714_00668	gene	radA
+KBS0714_00669	CDS	hypothetical protein
+KBS0714_00669	gene
+KBS0714_00670	CDS	pstS2	Phosphate-binding protein PstS2
+KBS0714_00670	gene	pstS2
+KBS0714_00671	CDS	pstC2	Phosphate transport system permease protein PstC 2
+KBS0714_00671	gene	pstC2
+KBS0714_00672	CDS	pstA1	Phosphate transport system permease protein PstA 1
+KBS0714_00672	gene	pstA1
+KBS0714_00673	CDS	pstB1	3.6.3.27	Phosphate import ATP-binding protein PstB 1
+KBS0714_00673	gene	pstB1
+KBS0714_00674	CDS	pitA	Low-affinity inorganic phosphate transporter 1
+KBS0714_00674	gene	pitA
+KBS0714_00675	CDS	hypothetical protein
+KBS0714_00675	gene
+KBS0714_00676	CDS	hypothetical protein
+KBS0714_00676	gene
+KBS0714_00677	tRNA	tRNA-Lys(ttt)
+KBS0714_00677	gene
+KBS0714_00678	CDS	hypothetical protein
+KBS0714_00678	gene
+KBS0714_00679	CDS	hypothetical protein
+KBS0714_00679	gene
+KBS0714_00680	CDS	hypothetical protein
+KBS0714_00680	gene
+KBS0714_00681	CDS	glpQ1	3.1.4.46	putative glycerophosphodiester phosphodiesterase 1
+KBS0714_00681	gene	glpQ1
+KBS0714_00682	CDS	oppF	Oligopeptide transport ATP-binding protein OppF
+KBS0714_00682	gene	oppF
+KBS0714_00683	CDS	ackA	2.7.2.1	Acetate kinase
+KBS0714_00683	gene	ackA
+KBS0714_00684	CDS	pta	2.3.1.8	Phosphate acetyltransferase
+KBS0714_00684	gene	pta
+KBS0714_00685	CDS	mntH_2	Divalent metal cation transporter MntH
+KBS0714_00685	gene	mntH_2
+KBS0714_00686	CDS	hypothetical protein
+KBS0714_00686	gene
+KBS0714_00687	CDS	hypothetical protein
+KBS0714_00687	gene
+KBS0714_00688	CDS	speE	2.5.1.16	Polyamine aminopropyltransferase
+KBS0714_00688	gene	speE
+KBS0714_00689	CDS	Universal stress protein
+KBS0714_00689	gene
+KBS0714_00690	CDS	hypothetical protein
+KBS0714_00690	gene
+KBS0714_00691	tRNA	tRNA-Glu(ttc)
+KBS0714_00691	gene
+KBS0714_00692	tRNA	tRNA-Asp(gtc)
+KBS0714_00692	gene
+KBS0714_00693	tRNA	tRNA-Phe(gaa)
+KBS0714_00693	gene
+KBS0714_00694	CDS	yecD	3.-.-.-	Isochorismatase family protein YecD
+KBS0714_00694	gene	yecD
+KBS0714_00695	CDS	hypothetical protein
+KBS0714_00695	gene
+KBS0714_00696	CDS	betS_1	Glycine betaine/proline betaine transporter BetS
+KBS0714_00696	gene	betS_1
+KBS0714_00697	CDS	proY	Proline-specific permease ProY
+KBS0714_00697	gene	proY
+KBS0714_00698	CDS	treA	3.2.1.93	Trehalose-6-phosphate hydrolase
+KBS0714_00698	gene	treA
+KBS0714_00699	CDS	hypothetical protein
+KBS0714_00699	gene
+KBS0714_00700	CDS	xthA	3.1.11.2	Exodeoxyribonuclease III
+KBS0714_00700	gene	xthA
+KBS0714_00701	CDS	nadE	6.3.1.5	NH(3)-dependent NAD(+) synthetase
+KBS0714_00701	gene	nadE
+KBS0714_00702	CDS	hypothetical protein
+KBS0714_00702	gene
+KBS0714_00703	CDS	pyrE_2	2.4.2.10	Orotate phosphoribosyltransferase
+KBS0714_00703	gene	pyrE_2
+KBS0714_00704	CDS	corA	Cobalt/magnesium transport protein CorA
+KBS0714_00704	gene	corA
+KBS0714_00705	CDS	hypothetical protein
+KBS0714_00705	gene
+KBS0714_00706	CDS	trmH	2.1.1.34	tRNA (guanosine(18)-2'-O)-methyltransferase
+KBS0714_00706	gene	trmH
+KBS0714_00707	CDS	3.1.1.99	6-deoxy-6-sulfogluconolactonase
+KBS0714_00707	gene
+KBS0714_00708	CDS	putative inactive lipase
+KBS0714_00708	gene
+KBS0714_00709	CDS	fba	4.1.2.13	Fructose-bisphosphate aldolase
+KBS0714_00709	gene	fba
+KBS0714_00710	CDS	ramB	HTH-type transcriptional regulator RamB
+KBS0714_00710	gene	ramB
+KBS0714_00711	CDS	icl1	4.1.3.1	Isocitrate lyase 1
+KBS0714_00711	gene	icl1
+KBS0714_00712	CDS	aceB	2.3.3.9	Malate synthase
+KBS0714_00712	gene	aceB
+KBS0714_00713	CDS	hypothetical protein
+KBS0714_00713	gene
+KBS0714_00714	CDS	hypothetical protein
+KBS0714_00714	gene
+KBS0714_00715	CDS	tdk	2.7.1.21	Thymidine kinase
+KBS0714_00715	gene	tdk
+KBS0714_00716	CDS	atoE	Putative short-chain fatty acid transporter
+KBS0714_00716	gene	atoE
+KBS0714_00717	CDS	2.8.3.-	Putative succinyl-CoA transferase
+KBS0714_00717	gene
+KBS0714_00718	CDS	aroQ	4.2.1.10	3-dehydroquinate dehydratase
+KBS0714_00718	gene	aroQ
+KBS0714_00719	CDS	hypothetical protein
+KBS0714_00719	gene
+KBS0714_00720	CDS	rlmN	2.1.1.192	putative dual-specificity RNA methyltransferase RlmN
+KBS0714_00720	gene	rlmN
+KBS0714_00721	CDS	hypothetical protein
+KBS0714_00721	gene
+KBS0714_00722	CDS	hypothetical protein
+KBS0714_00722	gene
+KBS0714_00723	CDS	dhbC	5.4.4.2	Isochorismate synthase DhbC
+KBS0714_00723	gene	dhbC
+KBS0714_00724	CDS	arsC2	2.8.4.2	Arsenate-mycothiol transferase ArsC2
+KBS0714_00724	gene	arsC2
+KBS0714_00725	CDS	ricR_2	Copper-sensing transcriptional repressor RicR
+KBS0714_00725	gene	ricR_2
+KBS0714_00726	CDS	copZ_2	Copper chaperone CopZ
+KBS0714_00726	gene	copZ_2
+KBS0714_00727	CDS	copA_1	3.6.3.54	Copper-exporting P-type ATPase A
+KBS0714_00727	gene	copA_1
+KBS0714_00728	CDS	hypothetical protein
+KBS0714_00728	gene
+KBS0714_00729	CDS	hypothetical protein
+KBS0714_00729	gene
+KBS0714_00730	CDS	paaI_1	3.1.2.-	Acyl-coenzyme A thioesterase PaaI
+KBS0714_00730	gene	paaI_1
+KBS0714_00731	CDS	hypothetical protein
+KBS0714_00731	gene
+KBS0714_00732	CDS	hypothetical protein
+KBS0714_00732	gene
+KBS0714_00733	CDS	adh	1.1.1.1	Alcohol dehydrogenase
+KBS0714_00733	gene	adh
+KBS0714_00734	CDS	thcA	1.2.1.3	EPTC-inducible aldehyde dehydrogenase
+KBS0714_00734	gene	thcA
+KBS0714_00735	CDS	acoR	Acetoin dehydrogenase operon transcriptional activator AcoR
+KBS0714_00735	gene	acoR
+KBS0714_00736	CDS	hypothetical protein
+KBS0714_00736	gene
+KBS0714_00737	CDS	hypothetical protein
+KBS0714_00737	gene
+KBS0714_00738	CDS	ilvG	2.2.1.6	Acetolactate synthase isozyme 2 large subunit
+KBS0714_00738	gene	ilvG
+KBS0714_00739	CDS	hypothetical protein
+KBS0714_00739	gene
+KBS0714_00740	CDS	ldh2	1.1.1.27	L-lactate dehydrogenase 2
+KBS0714_00740	gene	ldh2
+KBS0714_00741	CDS	hypothetical protein
+KBS0714_00741	gene
+KBS0714_00742	CDS	hypothetical protein
+KBS0714_00742	gene
+KBS0714_00743	CDS	yeeO	putative FMN/FAD exporter YeeO
+KBS0714_00743	gene	yeeO
+KBS0714_00744	CDS	hypothetical protein
+KBS0714_00744	gene
+KBS0714_00745	CDS	hypothetical protein
+KBS0714_00745	gene
+KBS0714_00746	CDS	dauA	C4-dicarboxylic acid transporter DauA
+KBS0714_00746	gene	dauA
+KBS0714_00747	CDS	hypothetical protein
+KBS0714_00747	gene
+KBS0714_00748	CDS	hypothetical protein
+KBS0714_00748	gene
+KBS0714_00749	CDS	yknY	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+KBS0714_00749	gene	yknY
+KBS0714_00750	CDS	hypothetical protein
+KBS0714_00750	gene
+KBS0714_00751	CDS	hypothetical protein
+KBS0714_00751	gene
+KBS0714_00752	CDS	putative ABC transporter ATP-binding protein
+KBS0714_00752	gene
+KBS0714_00753	CDS	putative ABC transporter ATP-binding protein
+KBS0714_00753	gene
+KBS0714_00754	CDS	clsA	2.7.8.-	Major cardiolipin synthase ClsA
+KBS0714_00754	gene	clsA
+KBS0714_00755	CDS	hypothetical protein
+KBS0714_00755	gene
+KBS0714_00756	CDS	hypothetical protein
+KBS0714_00756	gene
+KBS0714_00757	CDS	rlmC	2.1.1.189	23S rRNA (uracil(747)-C(5))-methyltransferase RlmC
+KBS0714_00757	gene	rlmC
+KBS0714_00758	CDS	hypothetical protein
+KBS0714_00758	gene
+KBS0714_00759	CDS	3.2.1.-	putative glycosyl hydrolase
+KBS0714_00759	gene
+KBS0714_00760	CDS	desK_2	2.7.13.3	Sensor histidine kinase DesK
+KBS0714_00760	gene	desK_2
+KBS0714_00761	CDS	liaR_1	Transcriptional regulatory protein LiaR
+KBS0714_00761	gene	liaR_1
+KBS0714_00762	CDS	hypothetical protein
+KBS0714_00762	gene
+KBS0714_00763	CDS	pyrD_2	1.3.-.-	Dihydroorotate dehydrogenase
+KBS0714_00763	gene	pyrD_2
+KBS0714_00764	CDS	hypothetical protein
+KBS0714_00764	gene
+KBS0714_00765	CDS	liaR_2	Transcriptional regulatory protein LiaR
+KBS0714_00765	gene	liaR_2
+KBS0714_00766	CDS	hypothetical protein
+KBS0714_00766	gene
+KBS0714_00767	CDS	hypothetical protein
+KBS0714_00767	gene
+KBS0714_00768	CDS	bceA	Bacitracin export ATP-binding protein BceA
+KBS0714_00768	gene	bceA
+KBS0714_00769	CDS	ytrF	ABC transporter permease YtrF
+KBS0714_00769	gene	ytrF
+KBS0714_00770	CDS	panS	Pantothenate precursors transporter PanS
+KBS0714_00770	gene	panS
+KBS0714_00771	CDS	hypothetical protein
+KBS0714_00771	gene
+KBS0714_00772	CDS	msbA_1	3.6.3.-	Lipid A export ATP-binding/permease protein MsbA
+KBS0714_00772	gene	msbA_1
+KBS0714_00773	CDS	hypothetical protein
+KBS0714_00773	gene
+KBS0714_00774	CDS	argO_2	Arginine exporter protein ArgO
+KBS0714_00774	gene	argO_2
+KBS0714_00775	CDS	putative HTH-type transcriptional regulator
+KBS0714_00775	gene
+KBS0714_00776	CDS	hypothetical protein
+KBS0714_00776	gene
+KBS0714_00777	CDS	tcrY_1	2.7.13.3	putative sensor histidine kinase TcrY
+KBS0714_00777	gene	tcrY_1
+KBS0714_00778	CDS	tcrX_1	putative transcriptional regulatory protein TcrX
+KBS0714_00778	gene	tcrX_1
+KBS0714_00779	CDS	menG	2.1.1.163	Demethylmenaquinone methyltransferase
+KBS0714_00779	gene	menG
+KBS0714_00780	CDS	yfiY	putative siderophore-binding lipoprotein YfiY
+KBS0714_00780	gene	yfiY
+KBS0714_00781	CDS	feuB	Iron-uptake system permease protein FeuB
+KBS0714_00781	gene	feuB
+KBS0714_00782	CDS	yfhA	putative siderophore transport system permease protein YfhA
+KBS0714_00782	gene	yfhA
+KBS0714_00783	CDS	yusV	putative siderophore transport system ATP-binding protein YusV
+KBS0714_00783	gene	yusV
+KBS0714_00784	CDS	hypothetical protein
+KBS0714_00784	gene
+KBS0714_00785	CDS	yhfK	4.-.-.-	putative sugar epimerase YhfK
+KBS0714_00785	gene	yhfK
+KBS0714_00786	CDS	hypothetical protein
+KBS0714_00786	gene
+KBS0714_00787	CDS	glsA	3.5.1.2	Glutaminase
+KBS0714_00787	gene	glsA
+KBS0714_00788	CDS	hypothetical protein
+KBS0714_00788	gene
+KBS0714_00789	CDS	1.-.-.-	putative FAD-linked oxidoreductase
+KBS0714_00789	gene
+KBS0714_00790	CDS	hypothetical protein
+KBS0714_00790	gene
+KBS0714_00791	CDS	ywaC	2.7.6.5	GTP pyrophosphokinase YwaC
+KBS0714_00791	gene	ywaC
+KBS0714_00792	CDS	ydjZ	TVP38/TMEM64 family inner membrane protein YdjZ
+KBS0714_00792	gene	ydjZ
+KBS0714_00793	CDS	hypothetical protein
+KBS0714_00793	gene
+KBS0714_00794	CDS	hypothetical protein
+KBS0714_00794	gene
+KBS0714_00795	CDS	hypothetical protein
+KBS0714_00795	gene
+KBS0714_00796	CDS	hypothetical protein
+KBS0714_00796	gene
+KBS0714_00797	CDS	hypothetical protein
+KBS0714_00797	gene
+KBS0714_00798	CDS	hypothetical protein
+KBS0714_00798	gene
+KBS0714_00799	CDS	2.3.1.-	putative N-acetyltransferase
+KBS0714_00799	gene
+KBS0714_00800	CDS	esaA	ESAT-6 secretion accessory factor EsaA
+KBS0714_00800	gene	esaA
+KBS0714_00801	CDS	hypothetical protein
+KBS0714_00801	gene
+KBS0714_00802	CDS	acrR	HTH-type transcriptional regulator AcrR
+KBS0714_00802	gene	acrR
+KBS0714_00803	CDS	hypothetical protein
+KBS0714_00803	gene
+KBS0714_00804	CDS	camA	1.18.1.5	Putidaredoxin reductase
+KBS0714_00804	gene	camA
+KBS0714_00805	CDS	mepM	3.4.24.-	Murein DD-endopeptidase MepM
+KBS0714_00805	gene	mepM
+KBS0714_00806	CDS	hypothetical protein
+KBS0714_00806	gene
+KBS0714_00807	CDS	hypothetical protein
+KBS0714_00807	gene
+KBS0714_00808	CDS	hypothetical protein
+KBS0714_00808	gene
+KBS0714_00809	CDS	hypothetical protein
+KBS0714_00809	gene
+KBS0714_00810	CDS	hypothetical protein
+KBS0714_00810	gene
+KBS0714_00811	CDS	hypothetical protein
+KBS0714_00811	gene
+KBS0714_00812	CDS	1.-.-.-	NADPH oxidoreductase
+KBS0714_00812	gene
+KBS0714_00813	CDS	desA3	1.14.19.-	NADPH-dependent stearoyl-CoA 9-desaturase
+KBS0714_00813	gene	desA3
+KBS0714_00814	CDS	malG	Maltose transport system permease protein MalG
+KBS0714_00814	gene	malG
+KBS0714_00815	CDS	malF	Maltose transport system permease protein MalF
+KBS0714_00815	gene	malF
+KBS0714_00816	CDS	malE	Maltose-binding periplasmic protein
+KBS0714_00816	gene	malE
+KBS0714_00817	CDS	purR	HTH-type transcriptional repressor PurR
+KBS0714_00817	gene	purR
+KBS0714_00818	CDS	ugpC	3.6.3.20	sn-glycerol-3-phosphate import ATP-binding protein UgpC
+KBS0714_00818	gene	ugpC
+KBS0714_00819	CDS	hypothetical protein
+KBS0714_00819	gene
+KBS0714_00820	CDS	recX_2	Regulatory protein RecX
+KBS0714_00820	gene	recX_2
+KBS0714_00821	CDS	hypothetical protein
+KBS0714_00821	gene
+KBS0714_00822	CDS	hypothetical protein
+KBS0714_00822	gene
+KBS0714_00823	CDS	dgoT	D-galactonate transporter
+KBS0714_00823	gene	dgoT
+KBS0714_00824	CDS	hypothetical protein
+KBS0714_00824	gene
+KBS0714_00825	CDS	hypothetical protein
+KBS0714_00825	gene
+KBS0714_00826	CDS	trpB_1	4.2.1.20	Tryptophan synthase beta chain
+KBS0714_00826	gene	trpB_1
+KBS0714_00827	CDS	hypothetical protein
+KBS0714_00827	gene
+KBS0714_00828	CDS	hypothetical protein
+KBS0714_00828	gene
+repeat_region
+KBS0714_00829	CDS	pdhC_1	2.3.1.12	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+KBS0714_00829	gene	pdhC_1
+KBS0714_00830	CDS	hypothetical protein
+KBS0714_00830	gene
+KBS0714_00831	CDS	mce3R	Transcriptional repressor Mce3R
+KBS0714_00831	gene	mce3R
+KBS0714_00832	CDS	2.1.3.1	Methylmalonyl-CoA carboxyltransferase 12S subunit
+KBS0714_00832	gene
+KBS0714_00833	CDS	accA1_1	Acetyl-/propionyl-coenzyme A carboxylase alpha chain
+KBS0714_00833	gene	accA1_1
+KBS0714_00834	CDS	mmgC_5	1.3.99.-	Acyl-CoA dehydrogenase
+KBS0714_00834	gene	mmgC_5
+KBS0714_00835	CDS	paaZ_1	Bifunctional protein PaaZ
+KBS0714_00835	gene	paaZ_1
+KBS0714_00836	CDS	citE_1	4.1.-.-	Citrate lyase subunit beta-like protein
+KBS0714_00836	gene	citE_1
+KBS0714_00837	CDS	hypothetical protein
+KBS0714_00837	gene
+KBS0714_00838	CDS	actP	Cation/acetate symporter ActP
+KBS0714_00838	gene	actP
+KBS0714_00839	CDS	dxr	1.1.1.267	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+KBS0714_00839	gene	dxr
+KBS0714_00840	CDS	rip1	3.4.24.-	Zinc metalloprotease Rip1
+KBS0714_00840	gene	rip1
+KBS0714_00841	CDS	ispG	1.17.7.3	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+KBS0714_00841	gene	ispG
+KBS0714_00842	CDS	mshD_2	2.3.1.189	Mycothiol acetyltransferase
+KBS0714_00842	gene	mshD_2
+KBS0714_00843	CDS	proS	6.1.1.15	Proline--tRNA ligase
+KBS0714_00843	gene	proS
+KBS0714_00844	CDS	hypothetical protein
+KBS0714_00844	gene
+KBS0714_00845	CDS	rimP	Ribosome maturation factor RimP
+KBS0714_00845	gene	rimP
+KBS0714_00846	CDS	nusA	Transcription termination/antitermination protein NusA
+KBS0714_00846	gene	nusA
+KBS0714_00847	CDS	hypothetical protein
+KBS0714_00847	gene
+KBS0714_00848	CDS	cas1-1	3.1.-.-	CRISPR-associated endonuclease Cas1 1
+KBS0714_00848	gene	cas1-1
+KBS0714_00849	CDS	hypothetical protein
+KBS0714_00849	gene
+KBS0714_00850	CDS	hypothetical protein
+KBS0714_00850	gene
+KBS0714_00851	tRNA	tRNA-Asn(gtt)
+KBS0714_00851	gene
+KBS0714_00852	CDS	hypothetical protein
+KBS0714_00852	gene
+KBS0714_00853	CDS	dnaG	2.7.7.-	DNA primase
+KBS0714_00853	gene	dnaG
+KBS0714_00854	CDS	hypothetical protein
+KBS0714_00854	gene
+KBS0714_00855	CDS	hypothetical protein
+KBS0714_00855	gene
+KBS0714_00856	CDS	pabB	2.6.1.85	Aminodeoxychorismate synthase component 1
+KBS0714_00856	gene	pabB
+KBS0714_00857	CDS	cobB	3.5.1.-	NAD-dependent protein deacylase
+KBS0714_00857	gene	cobB
+KBS0714_00858	CDS	fbpA	Fe(3+)-binding periplasmic protein
+KBS0714_00858	gene	fbpA
+KBS0714_00859	CDS	cysW	Sulfate transport system permease protein CysW
+KBS0714_00859	gene	cysW
+KBS0714_00860	CDS	fbpC_2	3.6.3.30	Fe(3+) ions import ATP-binding protein FbpC
+KBS0714_00860	gene	fbpC_2
+KBS0714_00861	CDS	dgt	Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+KBS0714_00861	gene	dgt
+KBS0714_00862	CDS	dus	1.3.1.-	putative tRNA-dihydrouridine synthase
+KBS0714_00862	gene	dus
+KBS0714_00863	CDS	hypothetical protein
+KBS0714_00863	gene
+KBS0714_00864	CDS	luxA_1	1.14.14.3	Alkanal monooxygenase alpha chain
+KBS0714_00864	gene	luxA_1
+KBS0714_00865	CDS	hypothetical protein
+KBS0714_00865	gene
+KBS0714_00866	CDS	hypothetical protein
+KBS0714_00866	gene
+KBS0714_00867	CDS	hypothetical protein
+KBS0714_00867	gene
+KBS0714_00868	CDS	hypothetical protein
+KBS0714_00868	gene
+KBS0714_00869	CDS	hypothetical protein
+KBS0714_00869	gene
+KBS0714_00870	CDS	glyQS	6.1.1.14	Glycine--tRNA ligase
+KBS0714_00870	gene	glyQS
+KBS0714_00871	CDS	hypothetical protein
+KBS0714_00871	gene
+KBS0714_00872	CDS	hypothetical protein
+KBS0714_00872	gene
+KBS0714_00873	CDS	hypothetical protein
+KBS0714_00873	gene
+KBS0714_00874	CDS	metX	2.3.1.31	Homoserine O-acetyltransferase
+KBS0714_00874	gene	metX
+KBS0714_00875	CDS	mgl_3	4.4.1.11	L-methionine gamma-lyase
+KBS0714_00875	gene	mgl_3
+KBS0714_00876	CDS	hypothetical protein
+KBS0714_00876	gene
+KBS0714_00877	CDS	hypothetical protein
+KBS0714_00877	gene
+KBS0714_00878	CDS	hypothetical protein
+KBS0714_00878	gene
+KBS0714_00879	CDS	gatB	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+KBS0714_00879	gene	gatB
+KBS0714_00880	CDS	gatA	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+KBS0714_00880	gene	gatA
+KBS0714_00881	CDS	gatC	6.3.5.-	Glutamyl-tRNA(Gln) amidotransferase subunit C
+KBS0714_00881	gene	gatC
+KBS0714_00882	CDS	hypothetical protein
+KBS0714_00882	gene
+KBS0714_00883	CDS	hypothetical protein
+KBS0714_00883	gene
+KBS0714_00884	CDS	suhB_1	3.1.3.11	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+KBS0714_00884	gene	suhB_1
+KBS0714_00885	tRNA	tRNA-Ala(ggc)
+KBS0714_00885	gene
+KBS0714_00886	CDS	stp_1	3.1.3.16	Serine/threonine phosphatase stp
+KBS0714_00886	gene	stp_1
+KBS0714_00887	CDS	4.6.1.1	pH-sensitive adenylate cyclase
+KBS0714_00887	gene
+KBS0714_00888	CDS	hypothetical protein
+KBS0714_00888	gene
+KBS0714_00889	CDS	hypothetical protein
+KBS0714_00889	gene
+KBS0714_00890	CDS	birA	6.3.4.15	Bifunctional ligase/repressor BirA
+KBS0714_00890	gene	birA
+KBS0714_00891	CDS	accD5	6.4.1.3	putative propionyl-CoA carboxylase beta chain 5
+KBS0714_00891	gene	accD5
+KBS0714_00892	CDS	hypothetical protein
+KBS0714_00892	gene
+KBS0714_00893	CDS	hypothetical protein
+KBS0714_00893	gene
+KBS0714_00894	CDS	Maf-like protein
+KBS0714_00894	gene
+KBS0714_00895	CDS	accA1_2	Acetyl-/propionyl-coenzyme A carboxylase alpha chain
+KBS0714_00895	gene	accA1_2
+KBS0714_00896	CDS	yhjE_1	Inner membrane metabolite transport protein YhjE
+KBS0714_00896	gene	yhjE_1
+KBS0714_00897	CDS	lpdA	1.6.5.2	NAD(P)H dehydrogenase (quinone)
+KBS0714_00897	gene	lpdA
+KBS0714_00898	CDS	punA	2.4.2.1	Purine nucleoside phosphorylase
+KBS0714_00898	gene	punA
+KBS0714_00899	CDS	5.4.2.8	putative phosphomannomutase
+KBS0714_00899	gene
+KBS0714_00900	CDS	deoC	4.1.2.4	Deoxyribose-phosphate aldolase
+KBS0714_00900	gene	deoC
+KBS0714_00901	CDS	hypothetical protein
+KBS0714_00901	gene
+KBS0714_00902	CDS	hypothetical protein
+KBS0714_00902	gene
+KBS0714_00903	CDS	hypothetical protein
+KBS0714_00903	gene
+KBS0714_00904	CDS	hypothetical protein
+KBS0714_00904	gene
+KBS0714_00905	CDS	hypothetical protein
+KBS0714_00905	gene
+KBS0714_00906	CDS	mfd	3.6.4.-	Transcription-repair-coupling factor
+KBS0714_00906	gene	mfd
+KBS0714_00907	CDS	hypothetical protein
+KBS0714_00907	gene
+KBS0714_00908	CDS	hypothetical protein
+KBS0714_00908	gene
+KBS0714_00909	CDS	hypothetical protein
+KBS0714_00909	gene
+KBS0714_00910	CDS	pth	3.1.1.29	Peptidyl-tRNA hydrolase
+KBS0714_00910	gene	pth
+KBS0714_00911	CDS	rplY	50S ribosomal protein L25
+KBS0714_00911	gene	rplY
+KBS0714_00912	CDS	hypothetical protein
+KBS0714_00912	gene
+KBS0714_00913	CDS	ywqD	2.7.10.2	Tyrosine-protein kinase YwqD
+KBS0714_00913	gene	ywqD
+KBS0714_00914	CDS	hypothetical protein
+KBS0714_00914	gene
+KBS0714_00915	CDS	rfbC	5.1.3.13	putative dTDP-4-dehydrorhamnose 3,5-epimerase
+KBS0714_00915	gene	rfbC
+KBS0714_00916	CDS	rmlB	4.2.1.46	dTDP-glucose 4,6-dehydratase
+KBS0714_00916	gene	rmlB
+KBS0714_00917	CDS	hypothetical protein
+KBS0714_00917	gene
+KBS0714_00918	CDS	hypothetical protein
+KBS0714_00918	gene
+KBS0714_00919	CDS	hypothetical protein
+KBS0714_00919	gene
+KBS0714_00920	CDS	tuaB	Teichuronic acid biosynthesis protein TuaB
+KBS0714_00920	gene	tuaB
+KBS0714_00921	CDS	rmlA	2.7.7.24	Glucose-1-phosphate thymidylyltransferase
+KBS0714_00921	gene	rmlA
+KBS0714_00922	CDS	hypothetical protein
+KBS0714_00922	gene
+KBS0714_00923	CDS	maa	2.3.1.79	Maltose O-acetyltransferase
+KBS0714_00923	gene	maa
+KBS0714_00924	CDS	pimB_1	2.4.1.57	GDP-mannose-dependent alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase
+KBS0714_00924	gene	pimB_1
+KBS0714_00925	CDS	arnC	2.4.2.53	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+KBS0714_00925	gene	arnC
+KBS0714_00926	CDS	cotSA	2.4.-.-	Spore coat protein SA
+KBS0714_00926	gene	cotSA
+KBS0714_00927	CDS	hypothetical protein
+KBS0714_00927	gene
+KBS0714_00928	CDS	2.4.1.11	Glycogen synthase
+KBS0714_00928	gene
+KBS0714_00929	CDS	neuB	2.5.1.101	N,N'-diacetyllegionaminic acid synthase
+KBS0714_00929	gene	neuB
+KBS0714_00930	CDS	neuA	2.7.7.82	CMP-N,N'-diacetyllegionaminic acid synthase
+KBS0714_00930	gene	neuA
+KBS0714_00931	CDS	hypothetical protein
+KBS0714_00931	gene
+KBS0714_00932	CDS	hypothetical protein
+KBS0714_00932	gene
+KBS0714_00933	CDS	hypothetical protein
+KBS0714_00933	gene
+KBS0714_00934	CDS	hypothetical protein
+KBS0714_00934	gene
+KBS0714_00935	CDS	hypothetical protein
+KBS0714_00935	gene
+KBS0714_00936	CDS	hypothetical protein
+KBS0714_00936	gene
+KBS0714_00937	CDS	lepB_1	3.4.21.89	Signal peptidase I
+KBS0714_00937	gene	lepB_1
+KBS0714_00938	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+KBS0714_00938	gene	prs
+KBS0714_00939	CDS	hypothetical protein
+KBS0714_00939	gene
+KBS0714_00940	CDS	hypothetical protein
+KBS0714_00940	gene
+KBS0714_00941	CDS	glmU	Bifunctional protein GlmU
+KBS0714_00941	gene	glmU
+KBS0714_00942	tRNA	tRNA-Gln(ttg)
+KBS0714_00942	gene
+KBS0714_00943	CDS	epsL	2.-.-.-	putative sugar transferase EpsL
+KBS0714_00943	gene	epsL
+KBS0714_00944	CDS	ettA_1	Energy-dependent translational throttle protein EttA
+KBS0714_00944	gene	ettA_1
+KBS0714_00945	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+KBS0714_00945	gene	ispE
+KBS0714_00946	CDS	ksgA	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+KBS0714_00946	gene	ksgA
+KBS0714_00947	CDS	msbA_2	3.6.3.-	Lipid A export ATP-binding/permease protein MsbA
+KBS0714_00947	gene	msbA_2
+KBS0714_00948	CDS	tatD	3.1.-.-	putative metal-dependent hydrolase TatD
+KBS0714_00948	gene	tatD
+KBS0714_00949	CDS	sad	1.2.1.16	Succinate-semialdehyde dehydrogenase
+KBS0714_00949	gene	sad
+KBS0714_00950	CDS	hypothetical protein
+KBS0714_00950	gene
+KBS0714_00951	CDS	rsmI	2.1.1.198	Ribosomal RNA small subunit methyltransferase I
+KBS0714_00951	gene	rsmI
+KBS0714_00952	CDS	pmt	2.4.1.109	putative dolichyl-phosphate-mannose--protein mannosyltransferase
+KBS0714_00952	gene	pmt
+KBS0714_00953	CDS	6.2.1.3	Long-chain-fatty-acid--CoA ligase FadD15
+KBS0714_00953	gene
+KBS0714_00954	CDS	hypothetical protein
+KBS0714_00954	gene
+KBS0714_00955	CDS	ahcY	3.3.1.1	Adenosylhomocysteinase
+KBS0714_00955	gene	ahcY
+KBS0714_00956	CDS	hypothetical protein
+KBS0714_00956	gene
+KBS0714_00957	CDS	hypothetical protein
+KBS0714_00957	gene
+KBS0714_00958	CDS	whiB	Transcriptional regulator WhiB
+KBS0714_00958	gene	whiB
+KBS0714_00959	CDS	hypothetical protein
+KBS0714_00959	gene
+KBS0714_00960	CDS	hypothetical protein
+KBS0714_00960	gene
+KBS0714_00961	CDS	purK	6.3.4.18	N5-carboxyaminoimidazole ribonucleotide synthase
+KBS0714_00961	gene	purK
+KBS0714_00962	CDS	purE	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+KBS0714_00962	gene	purE
+KBS0714_00963	CDS	yvhJ	Putative transcriptional regulator YvhJ
+KBS0714_00963	gene	yvhJ
+KBS0714_00964	CDS	manA	5.3.1.8	Mannose-6-phosphate isomerase
+KBS0714_00964	gene	manA
+KBS0714_00965	CDS	glpX	3.1.3.11	Fructose-1,6-bisphosphatase class 2
+KBS0714_00965	gene	glpX
+KBS0714_00966	CDS	hypothetical protein
+KBS0714_00966	gene
+KBS0714_00967	CDS	cynT	4.2.1.1	Carbonic anhydrase
+KBS0714_00967	gene	cynT
+KBS0714_00968	CDS	fumC	4.2.1.2	Fumarate hydratase class II
+KBS0714_00968	gene	fumC
+KBS0714_00969	CDS	hypothetical protein
+KBS0714_00969	gene
+KBS0714_00970	CDS	PhoH-like protein
+KBS0714_00970	gene
+KBS0714_00971	CDS	hypothetical protein
+KBS0714_00971	gene
+KBS0714_00972	CDS	2.5.1.68	(2Z,6E)-farnesyl diphosphate synthase
+KBS0714_00972	gene
+KBS0714_00973	CDS	hypothetical protein
+KBS0714_00973	gene
+KBS0714_00974	CDS	hypothetical protein
+KBS0714_00974	gene
+KBS0714_00975	CDS	mca	3.5.1.115	Mycothiol S-conjugate amidase
+KBS0714_00975	gene	mca
+KBS0714_00976	CDS	hypothetical protein
+KBS0714_00976	gene
+KBS0714_00977	CDS	greA	Transcription elongation factor GreA
+KBS0714_00977	gene	greA
+KBS0714_00978	CDS	hypothetical protein
+KBS0714_00978	gene
+KBS0714_00979	CDS	tdcB	4.3.1.19	L-threonine ammonia-lyase
+KBS0714_00979	gene	tdcB
+KBS0714_00980	CDS	tqsA_2	AI-2 transport protein TqsA
+KBS0714_00980	gene	tqsA_2
+KBS0714_00981	CDS	hypothetical protein
+KBS0714_00981	gene
+KBS0714_00982	CDS	hypothetical protein
+KBS0714_00982	gene
+KBS0714_00983	CDS	yybR	putative HTH-type transcriptional regulator YybR
+KBS0714_00983	gene	yybR
+KBS0714_00984	CDS	hypothetical protein
+KBS0714_00984	gene
+KBS0714_00985	CDS	hypothetical protein
+KBS0714_00985	gene
+KBS0714_00986	tRNA	tRNA-Leu(taa)
+KBS0714_00986	gene
+KBS0714_00987	CDS	1.6.99.-	NADH dehydrogenase-like protein
+KBS0714_00987	gene
+KBS0714_00988	CDS	gppA	3.6.1.40	Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+KBS0714_00988	gene	gppA
+KBS0714_00989	CDS	ftsL_1	Cell division protein FtsL
+KBS0714_00989	gene	ftsL_1
+KBS0714_00990	CDS	eno	4.2.1.11	Enolase
+KBS0714_00990	gene	eno
+KBS0714_00991	CDS	mazG	3.6.1.1	Nucleoside triphosphate pyrophosphohydrolase/pyrophosphatase MazG
+KBS0714_00991	gene	mazG
+KBS0714_00992	CDS	add	3.5.4.4	Adenosine deaminase
+KBS0714_00992	gene	add
+KBS0714_00993	CDS	yabI	Inner membrane protein YabI
+KBS0714_00993	gene	yabI
+KBS0714_00994	CDS	deoA	2.4.2.4	Thymidine phosphorylase
+KBS0714_00994	gene	deoA
+KBS0714_00995	CDS	cdd	3.5.4.5	Cytidine deaminase
+KBS0714_00995	gene	cdd
+KBS0714_00996	CDS	hypothetical protein
+KBS0714_00996	gene
+KBS0714_00997	CDS	hypothetical protein
+KBS0714_00997	gene
+KBS0714_00998	CDS	xylG	3.6.3.17	Xylose import ATP-binding protein XylG
+KBS0714_00998	gene	xylG
+KBS0714_00999	CDS	tmpC	Membrane lipoprotein TmpC
+KBS0714_00999	gene	tmpC
+KBS0714_01000	CDS	ykuR	3.5.1.47	N-acetyldiaminopimelate deacetylase
+KBS0714_01000	gene	ykuR
+KBS0714_01001	CDS	rfbM	2.7.7.13	Mannose-1-phosphate guanylyltransferase RfbM
+KBS0714_01001	gene	rfbM
+KBS0714_01002	CDS	sdhC	Succinate dehydrogenase 2 membrane subunit SdhC
+KBS0714_01002	gene	sdhC
+KBS0714_01003	CDS	hypothetical protein
+KBS0714_01003	gene
+KBS0714_01004	CDS	sdhA	1.3.5.1	Succinate dehydrogenase flavoprotein subunit
+KBS0714_01004	gene	sdhA
+KBS0714_01005	CDS	sdhB	1.3.5.1	Succinate dehydrogenase iron-sulfur subunit
+KBS0714_01005	gene	sdhB
+KBS0714_01006	CDS	hypothetical protein
+KBS0714_01006	gene
+KBS0714_01007	CDS	hypothetical protein
+KBS0714_01007	gene
+KBS0714_01008	CDS	hypothetical protein
+KBS0714_01008	gene
+KBS0714_01009	CDS	macB	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+KBS0714_01009	gene	macB
+KBS0714_01010	CDS	ytrE	ABC transporter ATP-binding protein YtrE
+KBS0714_01010	gene	ytrE
+KBS0714_01011	CDS	trpS	6.1.1.2	Tryptophan--tRNA ligase
+KBS0714_01011	gene	trpS
+KBS0714_01012	CDS	exoA	3.1.11.2	Exodeoxyribonuclease
+KBS0714_01012	gene	exoA
+KBS0714_01013	CDS	hypothetical protein
+KBS0714_01013	gene
+KBS0714_01014	CDS	stp_2	Multidrug resistance protein Stp
+KBS0714_01014	gene	stp_2
+KBS0714_01015	CDS	hypothetical protein
+KBS0714_01015	gene
+KBS0714_01016	CDS	drrA_1	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+KBS0714_01016	gene	drrA_1
+KBS0714_01017	CDS	folD	Bifunctional protein FolD protein
+KBS0714_01017	gene	folD
+KBS0714_01018	CDS	glyA1	2.1.2.1	Serine hydroxymethyltransferase 1
+KBS0714_01018	gene	glyA1
+KBS0714_01019	CDS	katA	1.11.1.6	Catalase
+KBS0714_01019	gene	katA
+KBS0714_01020	CDS	hypothetical protein
+KBS0714_01020	gene
+KBS0714_01021	CDS	purU	3.5.1.10	Formyltetrahydrofolate deformylase
+KBS0714_01021	gene	purU
+KBS0714_01022	CDS	dapH	2.3.1.89	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+KBS0714_01022	gene	dapH
+KBS0714_01023	CDS	1.2.1.2	Formate dehydrogenase
+KBS0714_01023	gene
+KBS0714_01024	CDS	sugC	3.6.3.-	Trehalose import ATP-binding protein SugC
+KBS0714_01024	gene	sugC
+KBS0714_01025	CDS	sugB	Trehalose transport system permease protein SugB
+KBS0714_01025	gene	sugB
+KBS0714_01026	CDS	sugA	Trehalose transport system permease protein SugA
+KBS0714_01026	gene	sugA
+KBS0714_01027	CDS	lpqY	Trehalose-binding lipoprotein LpqY
+KBS0714_01027	gene	lpqY
+KBS0714_01028	CDS	hypothetical protein
+KBS0714_01028	gene
+KBS0714_01029	CDS	hypothetical protein
+KBS0714_01029	gene
+KBS0714_01030	CDS	hypothetical protein
+KBS0714_01030	gene
+KBS0714_01031	CDS	hypothetical protein
+KBS0714_01031	gene
+KBS0714_01032	CDS	glsA1_2	3.5.1.2	Glutaminase 1
+KBS0714_01032	gene	glsA1_2
+KBS0714_01033	CDS	Epimerase family protein
+KBS0714_01033	gene
+KBS0714_01034	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase
+KBS0714_01034	gene	ogt
+KBS0714_01035	CDS	icd	1.1.1.42	Isocitrate dehydrogenase [NADP]
+KBS0714_01035	gene	icd
+KBS0714_01036	CDS	Magnesium transporter MgtE
+KBS0714_01036	gene
+KBS0714_01037	CDS	purH	Bifunctional purine biosynthesis protein PurH
+KBS0714_01037	gene	purH
+KBS0714_01038	CDS	naiP	Putative niacin/nicotinamide transporter NaiP
+KBS0714_01038	gene	naiP
+KBS0714_01039	CDS	purN	2.1.2.2	Phosphoribosylglycinamide formyltransferase
+KBS0714_01039	gene	purN
+KBS0714_01040	CDS	hypothetical protein
+KBS0714_01040	gene
+KBS0714_01041	CDS	hypothetical protein
+KBS0714_01041	gene
+KBS0714_01042	CDS	mgtA_2	2.4.1.-	GDP-mannose-dependent alpha-mannosyltransferase
+KBS0714_01042	gene	mgtA_2
+KBS0714_01043	CDS	yhdN	1.1.1.-	General stress protein 69
+KBS0714_01043	gene	yhdN
+KBS0714_01044	CDS	gdh	1.4.1.4	NADP-specific glutamate dehydrogenase
+KBS0714_01044	gene	gdh
+KBS0714_01045	CDS	hypothetical protein
+KBS0714_01045	gene
+KBS0714_01046	CDS	hypothetical protein
+KBS0714_01046	gene
+KBS0714_01047	CDS	hypothetical protein
+KBS0714_01047	gene
+KBS0714_01048	CDS	hypothetical protein
+KBS0714_01048	gene
+KBS0714_01049	CDS	suhB_2	3.1.3.25	Inositol-1-monophosphatase
+KBS0714_01049	gene	suhB_2
+KBS0714_01050	CDS	hypothetical protein
+KBS0714_01050	gene
+KBS0714_01051	CDS	hypothetical protein
+KBS0714_01051	gene
+KBS0714_01052	CDS	ilvB	2.2.1.6	Acetolactate synthase isozyme 1 large subunit
+KBS0714_01052	gene	ilvB
+KBS0714_01053	CDS	gbh	3.5.3.7	Guanidinobutyrase
+KBS0714_01053	gene	gbh
+KBS0714_01054	CDS	sinR	HTH-type transcriptional regulator SinR
+KBS0714_01054	gene	sinR
+KBS0714_01055	CDS	putP_1	Sodium/proline symporter
+KBS0714_01055	gene	putP_1
+KBS0714_01056	CDS	fdm	1.2.98.1	Formaldehyde dismutase
+KBS0714_01056	gene	fdm
+KBS0714_01057	CDS	hypothetical protein
+KBS0714_01057	gene
+KBS0714_01058	CDS	yidH	Inner membrane protein YidH
+KBS0714_01058	gene	yidH
+KBS0714_01059	CDS	hypothetical protein
+KBS0714_01059	gene
+KBS0714_01060	CDS	hypothetical protein
+KBS0714_01060	gene
+KBS0714_01061	CDS	drrA_2	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+KBS0714_01061	gene	drrA_2
+KBS0714_01062	CDS	hypothetical protein
+KBS0714_01062	gene
+KBS0714_01063	CDS	acsA_3	6.2.1.1	Acetyl-coenzyme A synthetase
+KBS0714_01063	gene	acsA_3
+KBS0714_01064	CDS	hypothetical protein
+KBS0714_01064	gene
+KBS0714_01065	CDS	purB	4.3.2.2	Adenylosuccinate lyase
+KBS0714_01065	gene	purB
+KBS0714_01066	CDS	hypothetical protein
+KBS0714_01066	gene
+KBS0714_01067	CDS	hypothetical protein
+KBS0714_01067	gene
+KBS0714_01068	CDS	cynR	HTH-type transcriptional regulator CynR
+KBS0714_01068	gene	cynR
+KBS0714_01069	CDS	rnz_1	3.1.26.11	Ribonuclease Z
+KBS0714_01069	gene	rnz_1
+KBS0714_01070	CDS	mleN	Malate-2H(+)/Na(+)-lactate antiporter
+KBS0714_01070	gene	mleN
+KBS0714_01071	CDS	hypothetical protein
+KBS0714_01071	gene
+KBS0714_01072	CDS	hypothetical protein
+KBS0714_01072	gene
+KBS0714_01073	CDS	pchA	1.2.1.96	4-hydroxybenzaldehyde dehydrogenase (NADP(+))
+KBS0714_01073	gene	pchA
+KBS0714_01074	CDS	hypothetical protein
+KBS0714_01074	gene
+KBS0714_01075	CDS	hypothetical protein
+KBS0714_01075	gene
+KBS0714_01076	CDS	mccF	Microcin C7 self-immunity protein MccF
+KBS0714_01076	gene	mccF
+KBS0714_01077	CDS	lcfB_2	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+KBS0714_01077	gene	lcfB_2
+KBS0714_01078	CDS	hypothetical protein
+KBS0714_01078	gene
+KBS0714_01079	CDS	acdA_2	1.3.99.-	Acyl-CoA dehydrogenase
+KBS0714_01079	gene	acdA_2
+KBS0714_01080	CDS	fldA	2.8.3.17	Cinnamoyl-CoA:phenyllactate CoA-transferase
+KBS0714_01080	gene	fldA
+KBS0714_01081	CDS	fadB_2	Fatty acid oxidation complex subunit alpha
+KBS0714_01081	gene	fadB_2
+KBS0714_01082	CDS	fadA_1	2.3.1.-	Putative acyltransferase
+KBS0714_01082	gene	fadA_1
+KBS0714_01083	CDS	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+KBS0714_01083	gene
+KBS0714_01084	CDS	betI_1	HTH-type transcriptional regulator BetI
+KBS0714_01084	gene	betI_1
+KBS0714_01085	CDS	hypothetical protein
+KBS0714_01085	gene
+KBS0714_01086	CDS	ctpE	3.6.3.-	putative cation-transporting ATPase E
+KBS0714_01086	gene	ctpE
+KBS0714_01087	CDS	hypothetical protein
+KBS0714_01087	gene
+KBS0714_01088	CDS	3.1.2.-	putative acyl-CoA thioester hydrolase
+KBS0714_01088	gene
+KBS0714_01089	CDS	bioN	Energy-coupling factor transporter transmembrane protein BioN
+KBS0714_01089	gene	bioN
+KBS0714_01090	CDS	bioM	3.6.3.-	Biotin transport ATP-binding protein BioM
+KBS0714_01090	gene	bioM
+KBS0714_01091	CDS	bioY	Biotin transporter BioY
+KBS0714_01091	gene	bioY
+KBS0714_01092	CDS	hypothetical protein
+KBS0714_01092	gene
+KBS0714_01093	CDS	merA_1	1.16.1.1	Mercuric reductase
+KBS0714_01093	gene	merA_1
+KBS0714_01094	CDS	merB	4.99.1.2	Alkylmercury lyase
+KBS0714_01094	gene	merB
+KBS0714_01095	CDS	merA_2	1.16.1.1	Mercuric reductase
+KBS0714_01095	gene	merA_2
+KBS0714_01096	CDS	cueR	HTH-type transcriptional regulator CueR
+KBS0714_01096	gene	cueR
+KBS0714_01097	CDS	hypothetical protein
+KBS0714_01097	gene
+KBS0714_01098	CDS	panB	2.1.2.11	3-methyl-2-oxobutanoate hydroxymethyltransferase
+KBS0714_01098	gene	panB
+KBS0714_01099	CDS	hypothetical protein
+KBS0714_01099	gene
+KBS0714_01100	CDS	map_1	3.4.11.18	Methionine aminopeptidase 2
+KBS0714_01100	gene	map_1
+KBS0714_01101	CDS	ppgK	2.7.1.63	Polyphosphate glucokinase
+KBS0714_01101	gene	ppgK
+KBS0714_01102	CDS	nrdR	Transcriptional repressor NrdR
+KBS0714_01102	gene	nrdR
+KBS0714_01103	CDS	dnaE1	2.7.7.7	DNA polymerase III subunit alpha
+KBS0714_01103	gene	dnaE1
+KBS0714_01104	CDS	5.4.99.-	putative RNA pseudouridine synthase
+KBS0714_01104	gene
+KBS0714_01105	CDS	lspA_2	3.4.23.36	Lipoprotein signal peptidase
+KBS0714_01105	gene	lspA_2
+KBS0714_01106	CDS	Cell wall synthesis protein Wag31
+KBS0714_01106	gene
+KBS0714_01107	CDS	hypothetical protein
+KBS0714_01107	gene
+KBS0714_01108	CDS	sepF	Cell division protein SepF
+KBS0714_01108	gene	sepF
+KBS0714_01109	CDS	hypothetical protein
+KBS0714_01109	gene
+KBS0714_01110	CDS	Laccase domain protein
+KBS0714_01110	gene
+KBS0714_01111	CDS	ftsZ	Cell division protein FtsZ
+KBS0714_01111	gene	ftsZ
+KBS0714_01112	CDS	ftsQ	Cell division protein FtsQ
+KBS0714_01112	gene	ftsQ
+KBS0714_01113	CDS	murC	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase
+KBS0714_01113	gene	murC
+KBS0714_01114	CDS	murG	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+KBS0714_01114	gene	murG
+KBS0714_01115	CDS	ftsW	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+KBS0714_01115	gene	ftsW
+KBS0714_01116	CDS	murD	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+KBS0714_01116	gene	murD
+KBS0714_01117	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+KBS0714_01117	gene	mraY
+KBS0714_01118	CDS	murF	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KBS0714_01118	gene	murF
+KBS0714_01119	CDS	murE	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+KBS0714_01119	gene	murE
+KBS0714_01120	CDS	pbpB	Penicillin-binding protein PbpB
+KBS0714_01120	gene	pbpB
+KBS0714_01121	CDS	ftsL_2	Cell division protein FtsL
+KBS0714_01121	gene	ftsL_2
+KBS0714_01122	CDS	rsmH	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+KBS0714_01122	gene	rsmH
+KBS0714_01123	CDS	mraZ	Transcriptional regulator MraZ
+KBS0714_01123	gene	mraZ
+KBS0714_01124	CDS	hypothetical protein
+KBS0714_01124	gene
+KBS0714_01125	CDS	dinB1	2.7.7.7	DNA polymerase IV 1
+KBS0714_01125	gene	dinB1
+KBS0714_01126	CDS	hexs-b	2.5.1.83	Hexaprenyl-diphosphate synthase large subunit ((2E,6E)-farnesyl-diphosphate specific)
+KBS0714_01126	gene	hexs-b
+KBS0714_01127	CDS	DNA-binding protein
+KBS0714_01127	gene
+KBS0714_01128	CDS	3.2.1.17	Muramidase-2
+KBS0714_01128	gene
+KBS0714_01129	CDS	spk1	2.7.11.1	Serine/threonine-protein kinase PK-1
+KBS0714_01129	gene	spk1
+KBS0714_01130	CDS	aroH	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase
+KBS0714_01130	gene	aroH
+KBS0714_01131	CDS	plsC_1	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+KBS0714_01131	gene	plsC_1
+KBS0714_01132	CDS	3.1.1.23	Thermostable monoacylglycerol lipase
+KBS0714_01132	gene
+KBS0714_01133	CDS	6.2.1.3	Long-chain-fatty-acid--CoA ligase FadD15
+KBS0714_01133	gene
+KBS0714_01134	CDS	mtr	1.8.1.15	Mycothione reductase
+KBS0714_01134	gene	mtr
+KBS0714_01135	CDS	cfiB	6.4.1.7	2-oxoglutarate carboxylase small subunit
+KBS0714_01135	gene	cfiB
+KBS0714_01136	CDS	putative HTH-type transcriptional regulator
+KBS0714_01136	gene
+KBS0714_01137	CDS	hypothetical protein
+KBS0714_01137	gene
+KBS0714_01138	CDS	putative HTH-type transcriptional regulator
+KBS0714_01138	gene
+KBS0714_01139	CDS	garA	Glycogen accumulation regulator GarA
+KBS0714_01139	gene	garA
+KBS0714_01140	CDS	gcvH	Glycine cleavage system H protein
+KBS0714_01140	gene	gcvH
+KBS0714_01141	CDS	dtpT	Di-/tripeptide transporter
+KBS0714_01141	gene	dtpT
+KBS0714_01142	CDS	apt	2.4.2.7	Adenine phosphoribosyltransferase
+KBS0714_01142	gene	apt
+KBS0714_01143	CDS	hypothetical protein
+KBS0714_01143	gene
+KBS0714_01144	CDS	hypothetical protein
+KBS0714_01144	gene
+KBS0714_01145	CDS	glgC_1	2.7.7.27	Glucose-1-phosphate adenylyltransferase
+KBS0714_01145	gene	glgC_1
+KBS0714_01146	CDS	fpg1_1	3.2.2.23	Formamidopyrimidine-DNA glycosylase 1
+KBS0714_01146	gene	fpg1_1
+KBS0714_01147	CDS	hypothetical protein
+KBS0714_01147	gene
+KBS0714_01148	CDS	rhlE_1	3.6.4.13	ATP-dependent RNA helicase RhlE
+KBS0714_01148	gene	rhlE_1
+KBS0714_01149	CDS	rlmH	2.1.1.177	Ribosomal RNA large subunit methyltransferase H
+KBS0714_01149	gene	rlmH
+KBS0714_01150	CDS	nlhH	3.1.1.1	Carboxylesterase NlhH
+KBS0714_01150	gene	nlhH
+KBS0714_01151	tRNA	tRNA-Ser(cga)
+KBS0714_01151	gene
+KBS0714_01152	CDS	tadA	3.5.4.33	tRNA-specific adenosine deaminase
+KBS0714_01152	gene	tadA
+KBS0714_01153	CDS	upp	2.4.2.9	Uracil phosphoribosyltransferase
+KBS0714_01153	gene	upp
+KBS0714_01154	CDS	regX3_1	Sensory transduction protein regX3
+KBS0714_01154	gene	regX3_1
+KBS0714_01155	CDS	gpmA_1	5.4.2.11	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+KBS0714_01155	gene	gpmA_1
+KBS0714_01156	tRNA	tRNA-Arg(acg)
+KBS0714_01156	gene
+KBS0714_01157	CDS	pckG	4.1.1.32	Phosphoenolpyruvate carboxykinase [GTP]
+KBS0714_01157	gene	pckG
+KBS0714_01158	CDS	hmp	1.14.12.17	Flavohemoprotein
+KBS0714_01158	gene	hmp
+KBS0714_01159	CDS	nsrR	HTH-type transcriptional repressor NsrR
+KBS0714_01159	gene	nsrR
+KBS0714_01160	CDS	recQ	3.6.4.12	ATP-dependent DNA helicase RecQ
+KBS0714_01160	gene	recQ
+KBS0714_01161	CDS	algC	5.4.2.2	Phosphomannomutase/phosphoglucomutase
+KBS0714_01161	gene	algC
+KBS0714_01162	CDS	ynfM	Inner membrane transport protein YnfM
+KBS0714_01162	gene	ynfM
+KBS0714_01163	CDS	hypothetical protein
+KBS0714_01163	gene
+KBS0714_01164	CDS	hypothetical protein
+KBS0714_01164	gene
+KBS0714_01165	tRNA	tRNA-Ser(gct)
+KBS0714_01165	gene
+KBS0714_01166	CDS	ysnF	Stress response protein YsnF
+KBS0714_01166	gene	ysnF
+KBS0714_01167	CDS	hypothetical protein
+KBS0714_01167	gene
+KBS0714_01168	CDS	hypothetical protein
+KBS0714_01168	gene
+KBS0714_01169	CDS	yhcR	3.1.31.-	Endonuclease YhcR
+KBS0714_01169	gene	yhcR
+KBS0714_01170	tRNA	tRNA-Ser(tga)
+KBS0714_01170	gene
+KBS0714_01171	CDS	1.3.1.103	2-haloacrylate reductase
+KBS0714_01171	gene
+KBS0714_01172	CDS	hypothetical protein
+KBS0714_01172	gene
+KBS0714_01173	tRNA	tRNA-Thr(cgt)
+KBS0714_01173	gene
+KBS0714_01174	CDS	phnX	3.11.1.1	Phosphonoacetaldehyde hydrolase
+KBS0714_01174	gene	phnX
+KBS0714_01175	CDS	dnaX_2	2.7.7.7	DNA polymerase III subunit tau
+KBS0714_01175	gene	dnaX_2
+KBS0714_01176	CDS	tmk	2.7.4.9	Thymidylate kinase
+KBS0714_01176	gene	tmk
+KBS0714_01177	CDS	hypothetical protein
+KBS0714_01177	gene
+KBS0714_01178	CDS	hypothetical protein
+KBS0714_01178	gene
+KBS0714_01179	CDS	gpmA_2	5.4.2.11	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+KBS0714_01179	gene	gpmA_2
+KBS0714_01180	CDS	phoU2	Phosphate-specific transport system accessory protein PhoU 
+KBS0714_01180	gene	phoU2
+KBS0714_01181	CDS	senX3	2.7.13.3	Signal-transduction histidine kinase senX3
+KBS0714_01181	gene	senX3
+KBS0714_01182	CDS	regX3_2	Sensory transduction protein regX3
+KBS0714_01182	gene	regX3_2
+KBS0714_01183	CDS	hypothetical protein
+KBS0714_01183	gene
+KBS0714_01184	CDS	carD	RNA polymerase-binding transcription factor CarD
+KBS0714_01184	gene	carD
+KBS0714_01185	CDS	ispF	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+KBS0714_01185	gene	ispF
+KBS0714_01186	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+KBS0714_01186	gene	cysS
+KBS0714_01187	CDS	2.1.1.-	putative tRNA/rRNA methyltransferase
+KBS0714_01187	gene
+KBS0714_01188	CDS	hypothetical protein
+KBS0714_01188	gene
+KBS0714_01189	CDS	hypothetical protein
+KBS0714_01189	gene
+KBS0714_01190	CDS	cmpD_2	3.6.3.-	Bicarbonate transport ATP-binding protein CmpD
+KBS0714_01190	gene	cmpD_2
+KBS0714_01191	CDS	glgE1	2.4.99.16	Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase 1
+KBS0714_01191	gene	glgE1
+KBS0714_01192	CDS	glgB	2.4.1.18	1,4-alpha-glucan branching enzyme GlgB
+KBS0714_01192	gene	glgB
+KBS0714_01193	rRNA	16S ribosomal RNA
+KBS0714_01193	gene
+KBS0714_01194	rRNA	23S ribosomal RNA
+KBS0714_01194	gene
+KBS0714_01195	rRNA	5S ribosomal RNA
+KBS0714_01195	gene
+KBS0714_01196	CDS	hypothetical protein
+KBS0714_01196	gene
+KBS0714_01197	tRNA	tRNA-Pro(cgg)
+KBS0714_01197	gene
+KBS0714_01198	CDS	hypothetical protein
+KBS0714_01198	gene
+KBS0714_01199	CDS	hypothetical protein
+KBS0714_01199	gene
+KBS0714_01200	CDS	hypothetical protein
+KBS0714_01200	gene
+KBS0714_01201	CDS	hypothetical protein
+KBS0714_01201	gene
+KBS0714_01202	CDS	3.1.3.21	D,L-glycerol 3-phosphate phosphatase
+KBS0714_01202	gene
+KBS0714_01203	CDS	tlyA	2.1.1.226	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+KBS0714_01203	gene	tlyA
+KBS0714_01204	CDS	ppnK	2.7.1.23	NAD kinase
+KBS0714_01204	gene	ppnK
+KBS0714_01205	CDS	recN	DNA repair protein RecN
+KBS0714_01205	gene	recN
+KBS0714_01206	CDS	act	3.-.-.-	Methanol dehydrogenase activator
+KBS0714_01206	gene	act
+KBS0714_01207	CDS	xerD	Tyrosine recombinase XerD
+KBS0714_01207	gene	xerD
+KBS0714_01208	CDS	pyrG	6.3.4.2	CTP synthase
+KBS0714_01208	gene	pyrG
+KBS0714_01209	CDS	gltA	2.3.3.5	2-methylcitrate synthase
+KBS0714_01209	gene	gltA
+KBS0714_01210	CDS	prpB	4.1.3.30	2-methylisocitrate lyase
+KBS0714_01210	gene	prpB
+KBS0714_01211	CDS	prpD2	4.2.1.79	2-methylcitrate dehydratase 2
+KBS0714_01211	gene	prpD2
+KBS0714_01212	CDS	rspR_3	HTH-type transcriptional repressor RspR
+KBS0714_01212	gene	rspR_3
+KBS0714_01213	CDS	acsA_4	6.2.1.1	Acetyl-coenzyme A synthetase
+KBS0714_01213	gene	acsA_4
+KBS0714_01214	CDS	dpiA	Transcriptional regulatory protein DpiA
+KBS0714_01214	gene	dpiA
+KBS0714_01215	CDS	citS	2.7.13.3	Sensor protein CitS
+KBS0714_01215	gene	citS
+KBS0714_01216	CDS	hypothetical protein
+KBS0714_01216	gene
+KBS0714_01217	CDS	dctA2	C4-dicarboxylate transport protein 2
+KBS0714_01217	gene	dctA2
+KBS0714_01218	CDS	soj_2	3.6.-.-	Sporulation initiation inhibitor protein Soj
+KBS0714_01218	gene	soj_2
+KBS0714_01219	CDS	5.4.99.-	putative RNA pseudouridine synthase
+KBS0714_01219	gene
+KBS0714_01220	CDS	tyrA	1.3.1.12	Prephenate dehydrogenase
+KBS0714_01220	gene	tyrA
+KBS0714_01221	CDS	cmk	2.7.4.25	Cytidylate kinase
+KBS0714_01221	gene	cmk
+KBS0714_01222	CDS	der	GTPase Der
+KBS0714_01222	gene	der
+KBS0714_01223	CDS	hypothetical protein
+KBS0714_01223	gene
+KBS0714_01224	tRNA	tRNA-Pro(ggg)
+KBS0714_01224	gene
+KBS0714_01225	CDS	hypothetical protein
+KBS0714_01225	gene
+KBS0714_01226	CDS	hypothetical protein
+KBS0714_01226	gene
+KBS0714_01227	CDS	soj_3	3.6.-.-	Sporulation initiation inhibitor protein Soj
+KBS0714_01227	gene	soj_3
+KBS0714_01228	CDS	hin_2	DNA-invertase hin
+KBS0714_01228	gene	hin_2
+KBS0714_01229	CDS	hin_3	DNA-invertase hin
+KBS0714_01229	gene	hin_3
+KBS0714_01230	CDS	qacA	Antiseptic resistance protein
+KBS0714_01230	gene	qacA
+KBS0714_01231	CDS	mtrR	HTH-type transcriptional regulator MtrR
+KBS0714_01231	gene	mtrR
+KBS0714_01232	CDS	ydbD	1.11.1.6	putative manganese catalase
+KBS0714_01232	gene	ydbD
+KBS0714_01233	CDS	hypothetical protein
+KBS0714_01233	gene
+KBS0714_01234	CDS	adhR	HTH-type transcriptional regulator AdhR
+KBS0714_01234	gene	adhR
+KBS0714_01235	CDS	cmtR_3	HTH-type transcriptional regulator CmtR
+KBS0714_01235	gene	cmtR_3
+KBS0714_01236	CDS	ziaR	Transcriptional repressor SmtB 
+KBS0714_01236	gene	ziaR
+KBS0714_01237	CDS	czcD_2	Metal cation efflux system protein CzcD
+KBS0714_01237	gene	czcD_2
+KBS0714_01238	CDS	hypothetical protein
+KBS0714_01238	gene
+KBS0714_01239	CDS	merA_3	1.16.1.1	Mercuric reductase
+KBS0714_01239	gene	merA_3
+KBS0714_01240	CDS	merR1	Mercuric resistance operon regulatory protein
+KBS0714_01240	gene	merR1
+KBS0714_01241	CDS	hypothetical protein
+KBS0714_01241	gene
+KBS0714_01242	CDS	corC_2	Magnesium and cobalt efflux protein CorC
+KBS0714_01242	gene	corC_2
+KBS0714_01243	CDS	hisE	3.6.1.31	Phosphoribosyl-ATP pyrophosphatase
+KBS0714_01243	gene	hisE
+KBS0714_01244	CDS	hisG	2.4.2.17	ATP phosphoribosyltransferase
+KBS0714_01244	gene	hisG
+KBS0714_01245	CDS	hisF	4.1.3.-	Imidazole glycerol phosphate synthase subunit HisF
+KBS0714_01245	gene	hisF
+KBS0714_01246	CDS	hisI	3.5.4.19	Phosphoribosyl-AMP cyclohydrolase
+KBS0714_01246	gene	hisI
+KBS0714_01247	CDS	trpE	4.1.3.27	Anthranilate synthase component 1
+KBS0714_01247	gene	trpE
+KBS0714_01248	CDS	hypothetical protein
+KBS0714_01248	gene
+KBS0714_01249	CDS	hypothetical protein
+KBS0714_01249	gene
+KBS0714_01250	CDS	trpC	4.1.1.48	Indole-3-glycerol phosphate synthase
+KBS0714_01250	gene	trpC
+KBS0714_01251	CDS	trpB_2	4.2.1.20	Tryptophan synthase beta chain
+KBS0714_01251	gene	trpB_2
+KBS0714_01252	CDS	trpA	4.2.1.20	Tryptophan synthase alpha chain
+KBS0714_01252	gene	trpA
+KBS0714_01253	CDS	lgt	2.4.99.-	Prolipoprotein diacylglyceryl transferase
+KBS0714_01253	gene	lgt
+KBS0714_01254	CDS	gltB_2	1.4.1.13	Glutamate synthase [NADPH] large chain
+KBS0714_01254	gene	gltB_2
+KBS0714_01255	CDS	gltD	1.4.1.13	Glutamate synthase [NADPH] small chain
+KBS0714_01255	gene	gltD
+KBS0714_01256	CDS	pyk_1	2.7.1.40	Pyruvate kinase
+KBS0714_01256	gene	pyk_1
+KBS0714_01257	CDS	pdtaR	putative transcriptional regulatory protein pdtaR
+KBS0714_01257	gene	pdtaR
+KBS0714_01258	tRNA	tRNA-Leu(caa)
+KBS0714_01258	gene
+KBS0714_01259	CDS	mrpA_2	Na(+)/H(+) antiporter subunit A
+KBS0714_01259	gene	mrpA_2
+KBS0714_01260	CDS	mnhC1	Na(+)/H(+) antiporter subunit C1
+KBS0714_01260	gene	mnhC1
+KBS0714_01261	CDS	mrpD_2	Na(+)/H(+) antiporter subunit D
+KBS0714_01261	gene	mrpD_2
+KBS0714_01262	CDS	mrpE	Na(+)/H(+) antiporter subunit E
+KBS0714_01262	gene	mrpE
+KBS0714_01263	CDS	hypothetical protein
+KBS0714_01263	gene
+KBS0714_01264	CDS	mrpG_2	Na(+)/H(+) antiporter subunit G
+KBS0714_01264	gene	mrpG_2
+KBS0714_01265	CDS	entH	3.1.2.-	Proofreading thioesterase EntH
+KBS0714_01265	gene	entH
+KBS0714_01266	CDS	polA_1	2.7.7.7	DNA polymerase I
+KBS0714_01266	gene	polA_1
+KBS0714_01267	CDS	eis	2.3.1.-	N-acetyltransferase Eis
+KBS0714_01267	gene	eis
+KBS0714_01268	CDS	rpsA	30S ribosomal protein S1
+KBS0714_01268	gene	rpsA
+KBS0714_01269	CDS	rlmG	2.1.1.174	Ribosomal RNA large subunit methyltransferase G
+KBS0714_01269	gene	rlmG
+KBS0714_01270	CDS	yigZ	IMPACT family member YigZ
+KBS0714_01270	gene	yigZ
+KBS0714_01271	CDS	betS_2	Glycine betaine/proline betaine transporter BetS
+KBS0714_01271	gene	betS_2
+KBS0714_01272	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+KBS0714_01272	gene	coaE
+KBS0714_01273	CDS	uvrB	UvrABC system protein B
+KBS0714_01273	gene	uvrB
+KBS0714_01274	CDS	hypothetical protein
+KBS0714_01274	gene
+KBS0714_01275	CDS	hypothetical protein
+KBS0714_01275	gene
+KBS0714_01276	CDS	putative membrane protein
+KBS0714_01276	gene
+KBS0714_01277	CDS	putative membrane protein
+KBS0714_01277	gene
+KBS0714_01278	CDS	pip	3.4.11.5	Proline iminopeptidase
+KBS0714_01278	gene	pip
+KBS0714_01279	CDS	helY_1	3.6.4.-	putative helicase HelY
+KBS0714_01279	gene	helY_1
+KBS0714_01280	CDS	tam	2.1.1.144	putative trans-aconitate 2-methyltransferase
+KBS0714_01280	gene	tam
+KBS0714_01281	CDS	gloC_1	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+KBS0714_01281	gene	gloC_1
+KBS0714_01282	CDS	uvrA	UvrABC system protein A
+KBS0714_01282	gene	uvrA
+KBS0714_01283	CDS	plsC_2	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+KBS0714_01283	gene	plsC_2
+KBS0714_01284	CDS	uvrC	UvrABC system protein C
+KBS0714_01284	gene	uvrC
+KBS0714_01285	CDS	Nucleotide-binding protein
+KBS0714_01285	gene
+KBS0714_01286	CDS	Putative gluconeogenesis factor
+KBS0714_01286	gene
+KBS0714_01287	CDS	whiA	Putative sporulation transcription regulator WhiA
+KBS0714_01287	gene	whiA
+KBS0714_01288	CDS	sodA	1.15.1.1	Superoxide dismutase [Mn]
+KBS0714_01288	gene	sodA
+KBS0714_01289	CDS	gapA	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase
+KBS0714_01289	gene	gapA
+KBS0714_01290	CDS	pgk	2.7.2.3	Phosphoglycerate kinase
+KBS0714_01290	gene	pgk
+KBS0714_01291	CDS	tpiA	5.3.1.1	Triosephosphate isomerase
+KBS0714_01291	gene	tpiA
+KBS0714_01292	CDS	secG	putative protein-export membrane protein SecG
+KBS0714_01292	gene	secG
+KBS0714_01293	CDS	hypothetical protein
+KBS0714_01293	gene
+KBS0714_01294	CDS	zwf2	1.1.1.49	Glucose-6-phosphate 1-dehydrogenase 2
+KBS0714_01294	gene	zwf2
+KBS0714_01295	CDS	pgi	5.3.1.9	Glucose-6-phosphate isomerase
+KBS0714_01295	gene	pgi
+KBS0714_01296	CDS	tal	2.2.1.2	Transaldolase
+KBS0714_01296	gene	tal
+KBS0714_01297	CDS	tkt	2.2.1.1	Transketolase
+KBS0714_01297	gene	tkt
+KBS0714_01298	CDS	ctaB	2.5.1.-	Protoheme IX farnesyltransferase
+KBS0714_01298	gene	ctaB
+KBS0714_01299	CDS	ctaA	1.3.-.-	Heme A synthase
+KBS0714_01299	gene	ctaA
+KBS0714_01300	CDS	hypothetical protein
+KBS0714_01300	gene
+KBS0714_01301	CDS	drrA_3	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+KBS0714_01301	gene	drrA_3
+KBS0714_01302	CDS	hypothetical protein
+KBS0714_01302	gene
+KBS0714_01303	CDS	sufB	FeS cluster assembly protein SufB
+KBS0714_01303	gene	sufB
+KBS0714_01304	CDS	sufD	FeS cluster assembly protein SufD
+KBS0714_01304	gene	sufD
+KBS0714_01305	CDS	sufC	Vegetative protein 296
+KBS0714_01305	gene	sufC
+KBS0714_01306	CDS	mrp_1	Iron-sulfur cluster carrier protein
+KBS0714_01306	gene	mrp_1
+KBS0714_01307	CDS	hypothetical protein
+KBS0714_01307	gene
+KBS0714_01308	CDS	yheS_2	putative ABC transporter ATP-binding protein YheS
+KBS0714_01308	gene	yheS_2
+KBS0714_01309	CDS	putative SURF1-like protein
+KBS0714_01309	gene
+KBS0714_01310	CDS	hypothetical protein
+KBS0714_01310	gene
+KBS0714_01311	CDS	hypothetical protein
+KBS0714_01311	gene
+KBS0714_01312	CDS	fabG1	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG1
+KBS0714_01312	gene	fabG1
+KBS0714_01313	CDS	gdhI	1.1.1.47	Glucose 1-dehydrogenase 1
+KBS0714_01313	gene	gdhI
+KBS0714_01314	CDS	3.1.3.3	Phosphoserine phosphatase
+KBS0714_01314	gene
+KBS0714_01315	CDS	ylmA	3.6.3.-	putative ABC transporter ATP-binding protein YlmA
+KBS0714_01315	gene	ylmA
+KBS0714_01316	CDS	hypothetical protein
+KBS0714_01316	gene
+KBS0714_01317	CDS	2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+KBS0714_01317	gene
+KBS0714_01318	CDS	rpmE2	50S ribosomal protein L31 type B
+KBS0714_01318	gene	rpmE2
+KBS0714_01319	CDS	6.3.1.20	Lipoate--protein ligase 1
+KBS0714_01319	gene
+KBS0714_01320	CDS	hypothetical protein
+KBS0714_01320	gene
+KBS0714_01321	CDS	pepN_2	3.4.11.2	Aminopeptidase N
+KBS0714_01321	gene	pepN_2
+KBS0714_01322	CDS	glgC_2	2.7.7.27	Glucose-1-phosphate adenylyltransferase
+KBS0714_01322	gene	glgC_2
+KBS0714_01323	CDS	glgM	2.4.1.-	Alpha-maltose-1-phosphate synthase
+KBS0714_01323	gene	glgM
+KBS0714_01324	CDS	fadE	1.3.99.-	putative acyl-CoA dehydrogenase
+KBS0714_01324	gene	fadE
+KBS0714_01325	CDS	fadI	2.3.1.16	3-ketoacyl-CoA thiolase
+KBS0714_01325	gene	fadI
+KBS0714_01326	CDS	fabG	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+KBS0714_01326	gene	fabG
+KBS0714_01327	CDS	hypothetical protein
+KBS0714_01327	gene
+KBS0714_01328	CDS	hypothetical protein
+KBS0714_01328	gene
+KBS0714_01329	tRNA	tRNA-Leu(gag)
+KBS0714_01329	gene
+KBS0714_01330	CDS	dapE_2	3.5.1.18	Succinyl-diaminopimelate desuccinylase
+KBS0714_01330	gene	dapE_2
+KBS0714_01331	CDS	hypothetical protein
+KBS0714_01331	gene
+KBS0714_01332	CDS	hypothetical protein
+KBS0714_01332	gene
+KBS0714_01333	CDS	uppP	3.6.1.27	Undecaprenyl-diphosphatase
+KBS0714_01333	gene	uppP
+KBS0714_01334	CDS	mshC	6.3.1.13	L-cysteine:1D-myo-inositol 2-amino-2-deoxy-alpha-D-glucopyranoside ligase
+KBS0714_01334	gene	mshC
+KBS0714_01335	CDS	hypothetical protein
+KBS0714_01335	gene
+KBS0714_01336	CDS	3.1.3.-	Phosphorylated carbohydrates phosphatase
+KBS0714_01336	gene
+KBS0714_01337	CDS	hypothetical protein
+KBS0714_01337	gene
+KBS0714_01338	CDS	trmI	2.1.1.220	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+KBS0714_01338	gene	trmI
+KBS0714_01339	CDS	mpa	Proteasome-associated ATPase
+KBS0714_01339	gene	mpa
+KBS0714_01340	CDS	dop	3.4.-.-	Depupylase
+KBS0714_01340	gene	dop
+KBS0714_01341	CDS	fchA	3.5.4.9	Methenyltetrahydrofolate cyclohydrolase
+KBS0714_01341	gene	fchA
+KBS0714_01342	CDS	hypothetical protein
+KBS0714_01342	gene
+KBS0714_01343	CDS	pup	Prokaryotic ubiquitin-like protein Pup
+KBS0714_01343	gene	pup
+KBS0714_01344	CDS	pafA	6.3.1.19	Pup--protein ligase
+KBS0714_01344	gene	pafA
+KBS0714_01345	CDS	fkbP_1	5.2.1.8	FK506-binding protein
+KBS0714_01345	gene	fkbP_1
+KBS0714_01346	CDS	fkbP_2	5.2.1.8	FK506-binding protein
+KBS0714_01346	gene	fkbP_2
+KBS0714_01347	CDS	hypothetical protein
+KBS0714_01347	gene
+KBS0714_01348	CDS	tatA	Sec-independent protein translocase protein TatA
+KBS0714_01348	gene	tatA
+KBS0714_01349	CDS	tatC	Sec-independent protein translocase protein TatC
+KBS0714_01349	gene	tatC
+KBS0714_01350	CDS	helY_2	3.6.4.-	putative helicase HelY
+KBS0714_01350	gene	helY_2
+KBS0714_01351	CDS	hypothetical protein
+KBS0714_01351	gene
+KBS0714_01352	CDS	2.4.1.54	Undecaprenyl-phosphate mannosyltransferase
+KBS0714_01352	gene
+KBS0714_01353	CDS	rbpA	RNA polymerase-binding protein RbpA
+KBS0714_01353	gene	rbpA
+KBS0714_01354	CDS	hflC	Modulator of FtsH protease HflC
+KBS0714_01354	gene	hflC
+KBS0714_01355	CDS	hypothetical protein
+KBS0714_01355	gene
+KBS0714_01356	CDS	fadH	1.3.1.34	2,4-dienoyl-CoA reductase [NADPH]
+KBS0714_01356	gene	fadH
+KBS0714_01357	CDS	hypothetical protein
+KBS0714_01357	gene
+KBS0714_01358	CDS	hypothetical protein
+KBS0714_01358	gene
+KBS0714_01359	CDS	hypothetical protein
+KBS0714_01359	gene
+KBS0714_01360	CDS	hypothetical protein
+KBS0714_01360	gene
+KBS0714_01361	CDS	trpD	2.4.2.18	Anthranilate phosphoribosyltransferase
+KBS0714_01361	gene	trpD
+KBS0714_01362	CDS	ctaE	1.9.3.1	Cytochrome c oxidase subunit 3
+KBS0714_01362	gene	ctaE
+KBS0714_01363	CDS	qcrC	1.10.2.2	Cytochrome bc1 complex cytochrome c subunit
+KBS0714_01363	gene	qcrC
+KBS0714_01364	CDS	qcrA	Cytochrome bc1 complex Rieske iron-sulfur subunit
+KBS0714_01364	gene	qcrA
+KBS0714_01365	CDS	qcrB	1.10.2.2	Cytochrome bc1 complex cytochrome b subunit
+KBS0714_01365	gene	qcrB
+KBS0714_01366	CDS	hypothetical protein
+KBS0714_01366	gene
+KBS0714_01367	tRNA	tRNA-Arg(cct)
+KBS0714_01367	gene
+KBS0714_01368	CDS	msbA_3	3.6.3.-	Lipid A export ATP-binding/permease protein MsbA
+KBS0714_01368	gene	msbA_3
+KBS0714_01369	CDS	ideR	Iron-dependent repressor IdeR
+KBS0714_01369	gene	ideR
+KBS0714_01370	CDS	serC	2.6.1.52	Phosphoserine aminotransferase
+KBS0714_01370	gene	serC
+KBS0714_01371	CDS	hypothetical protein
+KBS0714_01371	gene
+KBS0714_01372	CDS	csp	Cold shock-like protein
+KBS0714_01372	gene	csp
+KBS0714_01373	CDS	hypothetical protein
+KBS0714_01373	gene
+KBS0714_01374	CDS	tcrX_2	putative transcriptional regulatory protein TcrX
+KBS0714_01374	gene	tcrX_2
+KBS0714_01375	CDS	tcrY_2	2.7.13.3	putative sensor histidine kinase TcrY
+KBS0714_01375	gene	tcrY_2
+KBS0714_01376	CDS	hypothetical protein
+KBS0714_01376	gene
+KBS0714_01377	CDS	hypothetical protein
+KBS0714_01377	gene
+KBS0714_01378	CDS	groL1_1	60 kDa chaperonin 1
+KBS0714_01378	gene	groL1_1
+KBS0714_01379	CDS	hypothetical protein
+KBS0714_01379	gene
+KBS0714_01380	CDS	hypothetical protein
+KBS0714_01380	gene
+KBS0714_01381	CDS	ung	3.2.2.27	Uracil-DNA glycosylase
+KBS0714_01381	gene	ung
+KBS0714_01382	CDS	yjjP	Inner membrane protein YjjP
+KBS0714_01382	gene	yjjP
+KBS0714_01383	tRNA	tRNA-Val(cac)
+KBS0714_01383	gene
+KBS0714_01384	CDS	bprV	3.4.21.-	Extracellular basic protease
+KBS0714_01384	gene	bprV
+KBS0714_01385	tRNA	tRNA-Thr(tgt)
+KBS0714_01385	gene
+KBS0714_01386	CDS	pknE	2.7.11.1	Serine/threonine-protein kinase PknE
+KBS0714_01386	gene	pknE
+KBS0714_01387	CDS	hypothetical protein
+KBS0714_01387	gene
+KBS0714_01388	CDS	treZ	3.2.1.141	Malto-oligosyltrehalose trehalohydrolase
+KBS0714_01388	gene	treZ
+KBS0714_01389	CDS	treY	5.4.99.15	Maltooligosyl trehalose synthase
+KBS0714_01389	gene	treY
+KBS0714_01390	CDS	hypothetical protein
+KBS0714_01390	gene
+KBS0714_01391	CDS	ydhF	1.-.-.-	Oxidoreductase YdhF
+KBS0714_01391	gene	ydhF
+KBS0714_01392	CDS	4.3.2.3	Ureidoglycolate lyase
+KBS0714_01392	gene
+KBS0714_01393	CDS	hypothetical protein
+KBS0714_01393	gene
+KBS0714_01394	CDS	hypothetical protein
+KBS0714_01394	gene
+KBS0714_01395	CDS	hypothetical protein
+KBS0714_01395	gene
+KBS0714_01396	CDS	ccsA	Cytochrome c biogenesis protein CcsA
+KBS0714_01396	gene	ccsA
+KBS0714_01397	CDS	hypothetical protein
+KBS0714_01397	gene
+KBS0714_01398	CDS	hypothetical protein
+KBS0714_01398	gene
+KBS0714_01399	CDS	menA	2.5.1.74	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+KBS0714_01399	gene	menA
+KBS0714_01400	CDS	menE	6.2.1.26	putative 2-succinylbenzoate--CoA ligase
+KBS0714_01400	gene	menE
+KBS0714_01401	CDS	aspT	Aspartate/alanine antiporter
+KBS0714_01401	gene	aspT
+KBS0714_01402	CDS	menB	4.1.3.36	1,4-dihydroxy-2-naphthoyl-CoA synthase
+KBS0714_01402	gene	menB
+KBS0714_01403	CDS	dapb1	3.4.14.-	Dipeptidyl aminopeptidase BI
+KBS0714_01403	gene	dapb1
+KBS0714_01404	CDS	mmgC_6	1.3.99.-	Acyl-CoA dehydrogenase
+KBS0714_01404	gene	mmgC_6
+KBS0714_01405	CDS	echA8_2	4.2.1.17	putative enoyl-CoA hydratase echA8
+KBS0714_01405	gene	echA8_2
+KBS0714_01406	CDS	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+KBS0714_01406	gene
+KBS0714_01407	CDS	1.-.-.-	putative oxidoreductase
+KBS0714_01407	gene
+KBS0714_01408	CDS	fadA_2	2.3.1.-	Putative acyltransferase
+KBS0714_01408	gene	fadA_2
+KBS0714_01409	CDS	6.2.1.3	Long-chain-fatty-acid--CoA ligase FadD13
+KBS0714_01409	gene
+KBS0714_01410	CDS	yfdE	2.8.3.19	Acetyl-CoA:oxalate CoA-transferase
+KBS0714_01410	gene	yfdE
+KBS0714_01411	CDS	betI_2	HTH-type transcriptional regulator BetI
+KBS0714_01411	gene	betI_2
+KBS0714_01412	CDS	4.2.1.17	putative enoyl-CoA hydratase 1
+KBS0714_01412	gene
+KBS0714_01413	CDS	paaG	5.3.3.18	1,2-epoxyphenylacetyl-CoA isomerase
+KBS0714_01413	gene	paaG
+KBS0714_01414	CDS	pbuG	Guanine/hypoxanthine permease PbuG
+KBS0714_01414	gene	pbuG
+KBS0714_01415	tRNA	tRNA-Arg(cct)
+KBS0714_01415	gene
+KBS0714_01416	CDS	lrp_2	Leucine-responsive regulatory protein
+KBS0714_01416	gene	lrp_2
+KBS0714_01417	CDS	bkdA_2	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase subunit alpha
+KBS0714_01417	gene	bkdA_2
+KBS0714_01418	CDS	bkdB_2	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase subunit beta
+KBS0714_01418	gene	bkdB_2
+KBS0714_01419	CDS	pdhC_2	2.3.1.12	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+KBS0714_01419	gene	pdhC_2
+KBS0714_01420	CDS	hypothetical protein
+KBS0714_01420	gene
+KBS0714_01421	CDS	hypothetical protein
+KBS0714_01421	gene
+KBS0714_01422	CDS	menC	4.2.1.113	o-succinylbenzoate synthase
+KBS0714_01422	gene	menC
+KBS0714_01423	CDS	hypothetical protein
+KBS0714_01423	gene
+KBS0714_01424	CDS	menD	2.2.1.9	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+KBS0714_01424	gene	menD
+KBS0714_01425	CDS	menJ	1.3.-.-	Menaquinone reductase
+KBS0714_01425	gene	menJ
+KBS0714_01426	CDS	hepT_2	2.5.1.30	Heptaprenyl diphosphate synthase component 2
+KBS0714_01426	gene	hepT_2
+KBS0714_01427	CDS	hypothetical protein
+KBS0714_01427	gene
+KBS0714_01428	CDS	hypothetical protein
+KBS0714_01428	gene
+KBS0714_01429	CDS	fprA_1	1.18.1.2	NADPH-ferredoxin reductase FprA
+KBS0714_01429	gene	fprA_1
+KBS0714_01430	CDS	hypothetical protein
+KBS0714_01430	gene
+KBS0714_01431	CDS	entS	Enterobactin exporter EntS
+KBS0714_01431	gene	entS
+KBS0714_01432	CDS	hypothetical protein
+KBS0714_01432	gene
+KBS0714_01433	CDS	hypothetical protein
+KBS0714_01433	gene
+KBS0714_01434	tRNA	tRNA-Tyr(gta)
+KBS0714_01434	gene
+KBS0714_01435	CDS	lcfB_3	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+KBS0714_01435	gene	lcfB_3
+KBS0714_01436	CDS	hypothetical protein
+KBS0714_01436	gene
+KBS0714_01437	CDS	hypothetical protein
+KBS0714_01437	gene
+KBS0714_01438	CDS	cbs	4.2.1.22	Putative cystathionine beta-synthase
+KBS0714_01438	gene	cbs
+KBS0714_01439	CDS	metB_2	2.5.1.48	Cystathionine gamma-synthase
+KBS0714_01439	gene	metB_2
+KBS0714_01440	CDS	hutI_2	3.5.2.7	Imidazolonepropionase
+KBS0714_01440	gene	hutI_2
+KBS0714_01441	CDS	hypothetical protein
+KBS0714_01441	gene
+KBS0714_01442	CDS	deaD	3.6.4.13	ATP-dependent RNA helicase DeaD
+KBS0714_01442	gene	deaD
+KBS0714_01443	tRNA	tRNA-Thr(ggt)
+KBS0714_01443	gene
+KBS0714_01444	tRNA	tRNA-Met(cat)
+KBS0714_01444	gene
+KBS0714_01445	CDS	hypothetical protein
+KBS0714_01445	gene
+KBS0714_01446	CDS	hypothetical protein
+KBS0714_01446	gene
+KBS0714_01447	CDS	hypothetical protein
+KBS0714_01447	gene
+KBS0714_01448	CDS	murB	1.3.1.98	UDP-N-acetylenolpyruvoylglucosamine reductase
+KBS0714_01448	gene	murB
+KBS0714_01449	CDS	asd	1.2.1.11	Aspartate-semialdehyde dehydrogenase
+KBS0714_01449	gene	asd
+KBS0714_01450	CDS	hypothetical protein
+KBS0714_01450	gene
+KBS0714_01451	CDS	folA	1.5.1.3	Dihydrofolate reductase
+KBS0714_01451	gene	folA
+KBS0714_01452	CDS	thyA	2.1.1.45	Thymidylate synthase
+KBS0714_01452	gene	thyA
+KBS0714_01453	CDS	hypothetical protein
+KBS0714_01453	gene
+KBS0714_01454	CDS	mutT1	3.6.1.55	putative 8-oxo-dGTP diphosphatase 1
+KBS0714_01454	gene	mutT1
+KBS0714_01455	CDS	mshD_3	2.3.1.189	Mycothiol acetyltransferase
+KBS0714_01455	gene	mshD_3
+KBS0714_01456	CDS	hypothetical protein
+KBS0714_01456	gene
+KBS0714_01457	CDS	hypothetical protein
+KBS0714_01457	gene
+KBS0714_01458	CDS	hypothetical protein
+KBS0714_01458	gene
+KBS0714_01459	CDS	ygfZ	tRNA-modifying protein YgfZ
+KBS0714_01459	gene	ygfZ
+KBS0714_01460	CDS	hypothetical protein
+KBS0714_01460	gene
+KBS0714_01461	CDS	pfp	2.7.1.90	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+KBS0714_01461	gene	pfp
+KBS0714_01462	CDS	hypothetical protein
+KBS0714_01462	gene
+KBS0714_01463	CDS	hypothetical protein
+KBS0714_01463	gene
+KBS0714_01464	CDS	degU	Transcriptional regulatory protein DegU
+KBS0714_01464	gene	degU
+KBS0714_01465	CDS	2.6.1.1	Aspartate aminotransferase
+KBS0714_01465	gene
+KBS0714_01466	tRNA	tRNA-Trp(cca)
+KBS0714_01466	gene
+KBS0714_01467	CDS	secE	Protein translocase subunit SecE
+KBS0714_01467	gene	secE
+KBS0714_01468	CDS	nusG	Transcription termination/antitermination protein NusG
+KBS0714_01468	gene	nusG
+KBS0714_01469	CDS	rplK	50S ribosomal protein L11
+KBS0714_01469	gene	rplK
+KBS0714_01470	CDS	rplA	50S ribosomal protein L1
+KBS0714_01470	gene	rplA
+KBS0714_01471	CDS	rplJ	50S ribosomal protein L10
+KBS0714_01471	gene	rplJ
+KBS0714_01472	CDS	rplL	50S ribosomal protein L7/L12
+KBS0714_01472	gene	rplL
+KBS0714_01473	CDS	rpoB	2.7.7.6	DNA-directed RNA polymerase subunit beta
+KBS0714_01473	gene	rpoB
+KBS0714_01474	CDS	rpoC	2.7.7.6	DNA-directed RNA polymerase subunit beta'
+KBS0714_01474	gene	rpoC
+KBS0714_01475	CDS	rpsL	30S ribosomal protein S12
+KBS0714_01475	gene	rpsL
+KBS0714_01476	CDS	rpsG	30S ribosomal protein S7
+KBS0714_01476	gene	rpsG
+KBS0714_01477	CDS	fusA	Elongation factor G
+KBS0714_01477	gene	fusA
+KBS0714_01478	CDS	tuf	Elongation factor Tu
+KBS0714_01478	gene	tuf
+KBS0714_01479	CDS	hypothetical protein
+KBS0714_01479	gene
+KBS0714_01480	CDS	hypothetical protein
+KBS0714_01480	gene
+KBS0714_01481	CDS	rpsJ	30S ribosomal protein S10
+KBS0714_01481	gene	rpsJ
+KBS0714_01482	CDS	rplC	50S ribosomal protein L3
+KBS0714_01482	gene	rplC
+KBS0714_01483	CDS	rplD	50S ribosomal protein L4
+KBS0714_01483	gene	rplD
+KBS0714_01484	CDS	rplW	50S ribosomal protein L23
+KBS0714_01484	gene	rplW
+KBS0714_01485	CDS	rplB	50S ribosomal protein L2
+KBS0714_01485	gene	rplB
+KBS0714_01486	CDS	rpsS	30S ribosomal protein S19
+KBS0714_01486	gene	rpsS
+KBS0714_01487	CDS	rplV	50S ribosomal protein L22
+KBS0714_01487	gene	rplV
+KBS0714_01488	CDS	rpsC	30S ribosomal protein S3
+KBS0714_01488	gene	rpsC
+KBS0714_01489	CDS	rplP	50S ribosomal protein L16
+KBS0714_01489	gene	rplP
+KBS0714_01490	CDS	rpmC	50S ribosomal protein L29
+KBS0714_01490	gene	rpmC
+KBS0714_01491	CDS	rpsQ	30S ribosomal protein S17
+KBS0714_01491	gene	rpsQ
+KBS0714_01492	CDS	rplN	50S ribosomal protein L14
+KBS0714_01492	gene	rplN
+KBS0714_01493	CDS	rplX	50S ribosomal protein L24
+KBS0714_01493	gene	rplX
+KBS0714_01494	CDS	rplE	50S ribosomal protein L5
+KBS0714_01494	gene	rplE
+KBS0714_01495	CDS	rpsH	30S ribosomal protein S8
+KBS0714_01495	gene	rpsH
+KBS0714_01496	CDS	rplF	50S ribosomal protein L6
+KBS0714_01496	gene	rplF
+KBS0714_01497	CDS	rplR	50S ribosomal protein L18
+KBS0714_01497	gene	rplR
+KBS0714_01498	CDS	rpsE	30S ribosomal protein S5
+KBS0714_01498	gene	rpsE
+KBS0714_01499	CDS	rpmD	50S ribosomal protein L30
+KBS0714_01499	gene	rpmD
+KBS0714_01500	CDS	rplO	50S ribosomal protein L15
+KBS0714_01500	gene	rplO
+KBS0714_01501	CDS	secY	Protein translocase subunit SecY
+KBS0714_01501	gene	secY
+KBS0714_01502	CDS	adk	2.7.4.3	Adenylate kinase
+KBS0714_01502	gene	adk
+KBS0714_01503	CDS	map_2	3.4.11.18	Methionine aminopeptidase 1
+KBS0714_01503	gene	map_2
+KBS0714_01504	CDS	infA	Translation initiation factor IF-1
+KBS0714_01504	gene	infA
+KBS0714_01505	CDS	rpmJ	50S ribosomal protein L36
+KBS0714_01505	gene	rpmJ
+KBS0714_01506	CDS	rpsM	30S ribosomal protein S13
+KBS0714_01506	gene	rpsM
+KBS0714_01507	CDS	rpsK	30S ribosomal protein S11
+KBS0714_01507	gene	rpsK
+KBS0714_01508	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+KBS0714_01508	gene	rpoA
+KBS0714_01509	CDS	rplQ	50S ribosomal protein L17
+KBS0714_01509	gene	rplQ
+KBS0714_01510	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+KBS0714_01510	gene	truA
+KBS0714_01511	CDS	rplM	50S ribosomal protein L13
+KBS0714_01511	gene	rplM
+KBS0714_01512	CDS	rpsI	30S ribosomal protein S9
+KBS0714_01512	gene	rpsI
+KBS0714_01513	CDS	hypothetical protein
+KBS0714_01513	gene
+KBS0714_01514	CDS	hypothetical protein
+KBS0714_01514	gene
+KBS0714_01515	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+KBS0714_01515	gene	glmM
+KBS0714_01516	CDS	hypothetical protein
+KBS0714_01516	gene
+KBS0714_01517	CDS	mscL	Large-conductance mechanosensitive channel
+KBS0714_01517	gene	mscL
+KBS0714_01518	CDS	yodJ	3.4.-.-	Putative carboxypeptidase YodJ
+KBS0714_01518	gene	yodJ
+KBS0714_01519	CDS	coaA	2.7.1.33	Pantothenate kinase
+KBS0714_01519	gene	coaA
+KBS0714_01520	CDS	galE	5.1.3.2	UDP-glucose 4-epimerase
+KBS0714_01520	gene	galE
+KBS0714_01521	CDS	glmS	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+KBS0714_01521	gene	glmS
+KBS0714_01522	CDS	3.4.16.4	D-alanyl-D-alanine carboxypeptidase
+KBS0714_01522	gene
+KBS0714_01523	CDS	glgX	3.2.1.-	Glycogen operon protein GlgX 
+KBS0714_01523	gene	glgX
+KBS0714_01524	CDS	hypothetical protein
+KBS0714_01524	gene
+KBS0714_01525	CDS	acpS	2.7.8.7	Holo-[acyl-carrier-protein] synthase
+KBS0714_01525	gene	acpS
+KBS0714_01526	CDS	nnr	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+KBS0714_01526	gene	nnr
+KBS0714_01527	CDS	alr	5.1.1.1	Alanine racemase
+KBS0714_01527	gene	alr
+KBS0714_01528	CDS	tsaE	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+KBS0714_01528	gene	tsaE
+KBS0714_01529	CDS	tsaB	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+KBS0714_01529	gene	tsaB
+KBS0714_01530	CDS	rimI	2.3.1.128	Ribosomal-protein-alanine acetyltransferase
+KBS0714_01530	gene	rimI
+KBS0714_01531	CDS	tsaD	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+KBS0714_01531	gene	tsaD
+KBS0714_01532	CDS	hypothetical protein
+KBS0714_01532	gene
+KBS0714_01533	CDS	hypothetical protein
+KBS0714_01533	gene
+KBS0714_01534	CDS	mltF	Membrane-bound lytic murein transglycosylase F
+KBS0714_01534	gene	mltF
+KBS0714_01535	CDS	hypothetical protein
+KBS0714_01535	gene
+KBS0714_01536	CDS	1.1.1.1	putative zinc-binding alcohol dehydrogenase
+KBS0714_01536	gene
+KBS0714_01537	CDS	6.3.2.2	Putative glutamate--cysteine ligase 2
+KBS0714_01537	gene
+KBS0714_01538	CDS	hypothetical protein
+KBS0714_01538	gene
+KBS0714_01539	CDS	yclQ	putative ABC transporter solute-binding protein YclQ
+KBS0714_01539	gene	yclQ
+KBS0714_01540	CDS	hmuU	Hemin transport system permease protein HmuU
+KBS0714_01540	gene	hmuU
+KBS0714_01541	CDS	feuC	Iron-uptake system permease protein FeuC
+KBS0714_01541	gene	feuC
+KBS0714_01542	CDS	fhuC	3.6.3.34	Iron(3+)-hydroxamate import ATP-binding protein FhuC
+KBS0714_01542	gene	fhuC
+KBS0714_01543	CDS	hypothetical protein
+KBS0714_01543	gene
+KBS0714_01544	CDS	groS	10 kDa chaperonin
+KBS0714_01544	gene	groS
+KBS0714_01545	CDS	groL1_2	60 kDa chaperonin 1
+KBS0714_01545	gene	groL1_2
+KBS0714_01546	CDS	betP	Glycine betaine transporter BetP
+KBS0714_01546	gene	betP
+KBS0714_01547	CDS	gltP	Proton/glutamate-aspartate symporter
+KBS0714_01547	gene	gltP
+KBS0714_01548	CDS	guaB	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+KBS0714_01548	gene	guaB
+KBS0714_01549	CDS	1.-.-.-	putative oxidoreductase/MSMEI_1564
+KBS0714_01549	gene
+KBS0714_01550	CDS	hypothetical protein
+KBS0714_01550	gene
+KBS0714_01551	CDS	hypothetical protein
+KBS0714_01551	gene
+KBS0714_01552	CDS	guaA_2	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+KBS0714_01552	gene	guaA_2
+KBS0714_01553	CDS	hypothetical protein
+KBS0714_01553	gene
+KBS0714_01554	CDS	hypothetical protein
+KBS0714_01554	gene
+KBS0714_01555	CDS	hypothetical protein
+KBS0714_01555	gene
+KBS0714_01556	CDS	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+KBS0714_01556	gene
+KBS0714_01557	CDS	ydaF	2.3.1.-	Putative ribosomal N-acetyltransferase YdaF
+KBS0714_01557	gene	ydaF
+KBS0714_01558	CDS	hypothetical protein
+KBS0714_01558	gene
+KBS0714_01559	CDS	hypothetical protein
+KBS0714_01559	gene
+KBS0714_01560	CDS	hypothetical protein
+KBS0714_01560	gene
+KBS0714_01561	CDS	rppH	3.6.1.-	RNA pyrophosphohydrolase
+KBS0714_01561	gene	rppH
+KBS0714_01562	CDS	hypothetical protein
+KBS0714_01562	gene
+KBS0714_01563	CDS	aspC_2	2.6.1.1	putative aspartate aminotransferase
+KBS0714_01563	gene	aspC_2
+KBS0714_01564	CDS	hypothetical protein
+KBS0714_01564	gene
+KBS0714_01565	CDS	yraA	3.2.-.-	Putative cysteine protease YraA
+KBS0714_01565	gene	yraA
+KBS0714_01566	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+KBS0714_01566	gene	xseB
+KBS0714_01567	CDS	xseA	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+KBS0714_01567	gene	xseA
+KBS0714_01568	CDS	hypothetical protein
+KBS0714_01568	gene
+KBS0714_01569	CDS	ispH1	1.17.7.4	4-hydroxy-3-methylbut-2-enyl diphosphate reductase 1
+KBS0714_01569	gene	ispH1
+KBS0714_01570	CDS	sdcS	Sodium-dependent dicarboxylate transporter SdcS
+KBS0714_01570	gene	sdcS
+KBS0714_01571	CDS	hypothetical protein
+KBS0714_01571	gene
+KBS0714_01572	CDS	hypothetical protein
+KBS0714_01572	gene
+KBS0714_01573	CDS	ymdB	3.5.1.-	O-acetyl-ADP-ribose deacetylase
+KBS0714_01573	gene	ymdB
+KBS0714_01574	CDS	hypothetical protein
+KBS0714_01574	gene
+KBS0714_01575	CDS	18 kDa heat shock protein
+KBS0714_01575	gene
+KBS0714_01576	CDS	codA	1.1.3.17	Choline oxidase
+KBS0714_01576	gene	codA
+KBS0714_01577	CDS	ychF	Ribosome-binding ATPase YchF
+KBS0714_01577	gene	ychF
+KBS0714_01578	CDS	hsdR_2	3.1.21.3	Type-1 restriction enzyme R protein
+KBS0714_01578	gene	hsdR_2
+KBS0714_01579	CDS	hypothetical protein
+KBS0714_01579	gene
+KBS0714_01580	CDS	hypothetical protein
+KBS0714_01580	gene
+KBS0714_01581	CDS	2.1.1.72	putative type I restriction enzymeP M protein
+KBS0714_01581	gene
+KBS0714_01582	CDS	hypothetical protein
+KBS0714_01582	gene
+KBS0714_01583	CDS	glxK	2.7.1.31	Glycerate 3-kinase
+KBS0714_01583	gene	glxK
+KBS0714_01584	CDS	ygbN	Inner membrane permease YgbN
+KBS0714_01584	gene	ygbN
+KBS0714_01585	CDS	relJ	Antitoxin RelJ
+KBS0714_01585	gene	relJ
+KBS0714_01586	CDS	yoeB	3.1.-.-	Toxin YoeB
+KBS0714_01586	gene	yoeB
+KBS0714_01587	CDS	mug	3.2.2.28	G/U mismatch-specific DNA glycosylase
+KBS0714_01587	gene	mug
+KBS0714_01588	CDS	hypothetical protein
+KBS0714_01588	gene
+KBS0714_01589	CDS	hypothetical protein
+KBS0714_01589	gene
+KBS0714_01590	CDS	hypothetical protein
+KBS0714_01590	gene
+KBS0714_01591	CDS	pspA_1	3.1.3.3	Phosphoserine phosphatase 1
+KBS0714_01591	gene	pspA_1
+KBS0714_01592	CDS	hypothetical protein
+KBS0714_01592	gene
+KBS0714_01593	CDS	hypothetical protein
+KBS0714_01593	gene
+KBS0714_01594	CDS	aqpZ	Aquaporin Z
+KBS0714_01594	gene	aqpZ
+KBS0714_01595	CDS	hypothetical protein
+KBS0714_01595	gene
+KBS0714_01596	CDS	putative NTE family protein
+KBS0714_01596	gene
+KBS0714_01597	CDS	ettA_2	Energy-dependent translational throttle protein EttA
+KBS0714_01597	gene	ettA_2
+KBS0714_01598	CDS	hypothetical protein
+KBS0714_01598	gene
+KBS0714_01599	CDS	curA	1.3.1.-	NADPH-dependent curcumin reductase
+KBS0714_01599	gene	curA
+KBS0714_01600	CDS	ephA	3.3.2.10	Epoxide hydrolase A
+KBS0714_01600	gene	ephA
+KBS0714_01601	CDS	ohrR	Organic hydroperoxide resistance transcriptional regulator
+KBS0714_01601	gene	ohrR
+KBS0714_01602	CDS	ohrA	Organic hydroperoxide resistance protein OhrA
+KBS0714_01602	gene	ohrA
+KBS0714_01603	CDS	hypothetical protein
+KBS0714_01603	gene
+KBS0714_01604	CDS	2.8.3.18	Succinyl-CoA:acetate CoA-transferase
+KBS0714_01604	gene
+KBS0714_01605	CDS	qorA_2	1.6.5.5	Quinone oxidoreductase 1
+KBS0714_01605	gene	qorA_2
+KBS0714_01606	CDS	hypothetical protein
+KBS0714_01606	gene
+KBS0714_01607	CDS	ubiB	2.7.-.-	putative protein kinase UbiB
+KBS0714_01607	gene	ubiB
+KBS0714_01608	CDS	1.3.1.-	Trans-acting enoyl reductase
+KBS0714_01608	gene
+KBS0714_01609	CDS	zitB	Zinc transporter ZitB
+KBS0714_01609	gene	zitB
+KBS0714_01610	CDS	arfB	3.1.1.29	Peptidyl-tRNA hydrolase ArfB
+KBS0714_01610	gene	arfB
+KBS0714_01611	CDS	stp_3	Multidrug resistance protein Stp
+KBS0714_01611	gene	stp_3
+KBS0714_01612	CDS	polA_2	2.7.7.7	DNA polymerase I, thermostable
+KBS0714_01612	gene	polA_2
+KBS0714_01613	CDS	xylE	D-xylose-proton symporter
+KBS0714_01613	gene	xylE
+KBS0714_01614	CDS	sstT	Serine/threonine transporter SstT
+KBS0714_01614	gene	sstT
+KBS0714_01615	CDS	opuBB_2	Choline transport system permease protein OpuBB
+KBS0714_01615	gene	opuBB_2
+KBS0714_01616	CDS	osmV	3.6.3.-	Osmoprotectant import ATP-binding protein OsmV
+KBS0714_01616	gene	osmV
+KBS0714_01617	CDS	opuBB_3	Choline transport system permease protein OpuBB
+KBS0714_01617	gene	opuBB_3
+KBS0714_01618	CDS	osmX	Osmoprotectant-binding protein OsmX
+KBS0714_01618	gene	osmX
+KBS0714_01619	CDS	phoD_1	3.1.3.1	Alkaline phosphatase D
+KBS0714_01619	gene	phoD_1
+KBS0714_01620	CDS	iscS_2	2.8.1.7	Cysteine desulfurase IscS
+KBS0714_01620	gene	iscS_2
+KBS0714_01621	CDS	nadC	2.4.2.19	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+KBS0714_01621	gene	nadC
+KBS0714_01622	CDS	nadA	2.5.1.72	Quinolinate synthase A
+KBS0714_01622	gene	nadA
+KBS0714_01623	CDS	hypothetical protein
+KBS0714_01623	gene
+KBS0714_01624	CDS	ybfF	3.1.-.-	Esterase YbfF
+KBS0714_01624	gene	ybfF
+KBS0714_01625	CDS	yedI	Inner membrane protein YedI
+KBS0714_01625	gene	yedI
+KBS0714_01626	CDS	ftnA	1.16.3.2	putative bacterial non-heme ferritin
+KBS0714_01626	gene	ftnA
+KBS0714_01627	CDS	hypothetical protein
+KBS0714_01627	gene
+KBS0714_01628	CDS	hypothetical protein
+KBS0714_01628	gene
+KBS0714_01629	CDS	tpx	1.11.1.-	putative thiol peroxidase
+KBS0714_01629	gene	tpx
+KBS0714_01630	CDS	htrB	3.4.21.107	Serine protease Do-like HtrB
+KBS0714_01630	gene	htrB
+KBS0714_01631	CDS	zupT	Zinc transporter ZupT
+KBS0714_01631	gene	zupT
+KBS0714_01632	CDS	5.3.1.29	Putative thiazole biosynthetic enzyme
+KBS0714_01632	gene
+KBS0714_01633	CDS	putative lipoprotein
+KBS0714_01633	gene
+KBS0714_01634	CDS	Putative peptide transport permease protein
+KBS0714_01634	gene
+KBS0714_01635	CDS	Putative peptide transport permease protein
+KBS0714_01635	gene
+KBS0714_01636	CDS	gsiA	3.6.3.-	Glutathione import ATP-binding protein GsiA
+KBS0714_01636	gene	gsiA
+KBS0714_01637	CDS	typA	GTP-binding protein TypA/BipA
+KBS0714_01637	gene	typA
+KBS0714_01638	CDS	hypothetical protein
+KBS0714_01638	gene
+KBS0714_01639	CDS	Ferredoxin
+KBS0714_01639	gene
+KBS0714_01640	CDS	dapL	2.6.1.83	LL-diaminopimelate aminotransferase
+KBS0714_01640	gene	dapL
+KBS0714_01641	CDS	gltA2	2.3.3.16	Citrate synthase 1
+KBS0714_01641	gene	gltA2
+KBS0714_01642	CDS	hypothetical protein
+KBS0714_01642	gene
+KBS0714_01643	CDS	dapD	2.3.1.117	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+KBS0714_01643	gene	dapD
+KBS0714_01644	CDS	dapE_3	3.5.1.18	Putative succinyl-diaminopimelate desuccinylase DapE
+KBS0714_01644	gene	dapE_3
+KBS0714_01645	CDS	gltK_1	Glutamate/aspartate import permease protein GltK
+KBS0714_01645	gene	gltK_1
+KBS0714_01646	CDS	glnM	putative glutamine ABC transporter permease protein GlnM
+KBS0714_01646	gene	glnM
+KBS0714_01647	CDS	glnH	ABC transporter glutamine-binding protein GlnH
+KBS0714_01647	gene	glnH
+KBS0714_01648	CDS	glnQ_1	Glutamine transport ATP-binding protein GlnQ
+KBS0714_01648	gene	glnQ_1
+KBS0714_01649	CDS	log	3.2.2.-	Cytokinin riboside 5'-monophosphate phosphoribohydrolase
+KBS0714_01649	gene	log
+KBS0714_01650	CDS	hypothetical protein
+KBS0714_01650	gene
+KBS0714_01651	CDS	hypothetical protein
+KBS0714_01651	gene
+KBS0714_01652	CDS	2.1.1.-	Putative O-methyltransferase
+KBS0714_01652	gene
+KBS0714_01653	CDS	hypothetical protein
+KBS0714_01653	gene
+KBS0714_01654	CDS	tatB	Sec-independent protein translocase protein TatB
+KBS0714_01654	gene	tatB
+KBS0714_01655	CDS	mrp_2	Iron-sulfur cluster carrier protein
+KBS0714_01655	gene	mrp_2
+KBS0714_01656	CDS	Magnesium transporter MgtE
+KBS0714_01656	gene
+KBS0714_01657	CDS	hypothetical protein
+KBS0714_01657	gene
+KBS0714_01658	CDS	pyk_2	2.7.1.40	Pyruvate kinase
+KBS0714_01658	gene	pyk_2
+KBS0714_01659	CDS	pepPI	3.4.11.9	Xaa-Pro aminopeptidase 1
+KBS0714_01659	gene	pepPI
+KBS0714_01660	CDS	3.1.3.97	3',5'-nucleoside bisphosphate phosphatase
+KBS0714_01660	gene
+KBS0714_01661	CDS	cshA	3.6.4.13	DEAD-box ATP-dependent RNA helicase CshA
+KBS0714_01661	gene	cshA
+KBS0714_01662	CDS	rnr	3.1.13.1	Ribonuclease R
+KBS0714_01662	gene	rnr
+KBS0714_01663	CDS	hypothetical protein
+KBS0714_01663	gene
+KBS0714_01664	CDS	ethR	HTH-type transcriptional regulator EthR
+KBS0714_01664	gene	ethR
+KBS0714_01665	CDS	hemA	1.2.1.70	Glutamyl-tRNA reductase
+KBS0714_01665	gene	hemA
+KBS0714_01666	CDS	hemE	4.1.1.37	Uroporphyrinogen decarboxylase
+KBS0714_01666	gene	hemE
+KBS0714_01667	CDS	hemY	1.3.3.4	Protoporphyrinogen oxidase
+KBS0714_01667	gene	hemY
+KBS0714_01668	CDS	1.11.1.-	Putative heme-dependent peroxidase
+KBS0714_01668	gene
+KBS0714_01669	CDS	hemH	4.99.1.1	Ferrochelatase
+KBS0714_01669	gene	hemH
+KBS0714_01670	CDS	hemC	2.5.1.61	Porphobilinogen deaminase
+KBS0714_01670	gene	hemC
+KBS0714_01671	CDS	hypothetical protein
+KBS0714_01671	gene
+KBS0714_01672	CDS	hypothetical protein
+KBS0714_01672	gene
+KBS0714_01673	CDS	hypothetical protein
+KBS0714_01673	gene
+KBS0714_01674	CDS	hypothetical protein
+KBS0714_01674	gene
+KBS0714_01675	CDS	hypothetical protein
+KBS0714_01675	gene
+KBS0714_01676	CDS	hemB	4.2.1.24	Delta-aminolevulinic acid dehydratase
+KBS0714_01676	gene	hemB
+KBS0714_01677	CDS	hemL	5.4.3.8	Glutamate-1-semialdehyde 2,1-aminomutase
+KBS0714_01677	gene	hemL
+KBS0714_01678	CDS	polC	2.7.7.7	DNA polymerase III PolC-type
+KBS0714_01678	gene	polC
+KBS0714_01679	CDS	hypothetical protein
+KBS0714_01679	gene
+KBS0714_01680	CDS	recD	3.1.11.5	RecBCD enzyme subunit RecD
+KBS0714_01680	gene	recD
+KBS0714_01681	CDS	uvrD1_2	3.6.4.12	ATP-dependent DNA helicase UvrD1
+KBS0714_01681	gene	uvrD1_2
+KBS0714_01682	CDS	hypothetical protein
+KBS0714_01682	gene
+KBS0714_01683	CDS	nudC	3.6.1.22	NADH pyrophosphatase
+KBS0714_01683	gene	nudC
+KBS0714_01684	CDS	uvrD2	3.6.4.12	ATP-dependent DNA helicase UvrD2
+KBS0714_01684	gene	uvrD2
+KBS0714_01685	CDS	hypothetical protein
+KBS0714_01685	gene
+KBS0714_01686	CDS	hypothetical protein
+KBS0714_01686	gene
+KBS0714_01687	CDS	hypothetical protein
+KBS0714_01687	gene
+KBS0714_01688	CDS	lon1	3.4.21.53	Lon protease 1
+KBS0714_01688	gene	lon1
+KBS0714_01689	CDS	hypothetical protein
+KBS0714_01689	gene
+KBS0714_01690	tRNA	tRNA-Met(cat)
+KBS0714_01690	gene
+KBS0714_01691	CDS	hypothetical protein
+KBS0714_01691	gene
+KBS0714_01692	CDS	hypothetical protein
+KBS0714_01692	gene
+KBS0714_01693	CDS	hypothetical protein
+KBS0714_01693	gene
+KBS0714_01694	CDS	hypothetical protein
+KBS0714_01694	gene
+KBS0714_01695	CDS	hypothetical protein
+KBS0714_01695	gene
+KBS0714_01696	CDS	hflX	GTPase HflX
+KBS0714_01696	gene	hflX
+KBS0714_01697	CDS	dinG	3.6.4.12	putative ATP-dependent helicase DinG 
+KBS0714_01697	gene	dinG
+KBS0714_01698	CDS	lexA	3.4.21.88	LexA repressor
+KBS0714_01698	gene	lexA
+KBS0714_01699	CDS	hypothetical protein
+KBS0714_01699	gene
+KBS0714_01700	CDS	hisC	2.6.1.9	Histidinol-phosphate aminotransferase
+KBS0714_01700	gene	hisC
+KBS0714_01701	CDS	hisB	4.2.1.19	Imidazoleglycerol-phosphate dehydratase
+KBS0714_01701	gene	hisB
+KBS0714_01702	CDS	hisH	2.4.2.-	Imidazole glycerol phosphate synthase subunit HisH
+KBS0714_01702	gene	hisH
+KBS0714_01703	CDS	hypothetical protein
+KBS0714_01703	gene
+KBS0714_01704	CDS	hisA	5.3.1.16	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+KBS0714_01704	gene	hisA
+KBS0714_01705	CDS	hypothetical protein
+KBS0714_01705	gene
+KBS0714_01706	CDS	hypothetical protein
+KBS0714_01706	gene
+KBS0714_01707	CDS	hypothetical protein
+KBS0714_01707	gene
+KBS0714_01708	CDS	msuE	1.5.1.38	FMN reductase (NADPH)
+KBS0714_01708	gene	msuE
+KBS0714_01709	CDS	luxA_2	1.14.14.3	Alkanal monooxygenase alpha chain
+KBS0714_01709	gene	luxA_2
+KBS0714_01710	CDS	hypothetical protein
+KBS0714_01710	gene
+KBS0714_01711	CDS	hypothetical protein
+KBS0714_01711	gene
+KBS0714_01712	CDS	hypothetical protein
+KBS0714_01712	gene
+KBS0714_01713	CDS	essC	ESAT-6 secretion machinery protein EssC
+KBS0714_01713	gene	essC
+KBS0714_01714	CDS	Putative conjugal transfer protein
+KBS0714_01714	gene
+KBS0714_01715	CDS	hypothetical protein
+KBS0714_01715	gene
+KBS0714_01716	CDS	hypothetical protein
+KBS0714_01716	gene
+KBS0714_01717	CDS	hypothetical protein
+KBS0714_01717	gene
+KBS0714_01718	CDS	hypothetical protein
+KBS0714_01718	gene
+KBS0714_01719	CDS	hypothetical protein
+KBS0714_01719	gene
+KBS0714_01720	CDS	hypothetical protein
+KBS0714_01720	gene
+KBS0714_01721	CDS	menH_3	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+KBS0714_01721	gene	menH_3
+KBS0714_01722	CDS	prfB	Peptide chain release factor 2
+KBS0714_01722	gene	prfB
+KBS0714_01723	CDS	gutB	1.1.1.14	Sorbitol dehydrogenase
+KBS0714_01723	gene	gutB
+KBS0714_01724	CDS	2.3.1.9	putative acetyl-CoA acetyltransferase
+KBS0714_01724	gene
+KBS0714_01725	CDS	scoA	2.8.3.5	putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit A
+KBS0714_01725	gene	scoA
+KBS0714_01726	CDS	scoB	2.8.3.5	putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit B
+KBS0714_01726	gene	scoB
+KBS0714_01727	CDS	smpB	SsrA-binding protein
+KBS0714_01727	gene	smpB
+KBS0714_01728	tmRNA	ssrA	transfer-messenger RNA, SsrA
+KBS0714_01728	gene	ssrA
+KBS0714_01729	CDS	crcB_1	Putative fluoride ion transporter CrcB
+KBS0714_01729	gene	crcB_1
+KBS0714_01730	CDS	hypothetical protein
+KBS0714_01730	gene
+KBS0714_01731	CDS	crcB_2	Putative fluoride ion transporter CrcB
+KBS0714_01731	gene	crcB_2
+KBS0714_01732	CDS	hisN	3.1.3.15	Histidinol-phosphatase
+KBS0714_01732	gene	hisN
+KBS0714_01733	CDS	rsgA	3.6.1.-	Small ribosomal subunit biogenesis GTPase RsgA
+KBS0714_01733	gene	rsgA
+KBS0714_01734	CDS	aroA	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+KBS0714_01734	gene	aroA
+KBS0714_01735	CDS	sigR	ECF RNA polymerase sigma factor SigR
+KBS0714_01735	gene	sigR
+KBS0714_01736	CDS	rsrA	Anti-sigma factor RsrA
+KBS0714_01736	gene	rsrA
+KBS0714_01737	CDS	hypothetical protein
+KBS0714_01737	gene
+KBS0714_01738	CDS	kgd	2.2.1.5	Multifunctional 2-oxoglutarate metabolism enzyme
+KBS0714_01738	gene	kgd
+KBS0714_01739	CDS	guaB1	1.-.-.-	putative oxidoreductase
+KBS0714_01739	gene	guaB1
+KBS0714_01740	CDS	corC_3	Magnesium and cobalt efflux protein CorC
+KBS0714_01740	gene	corC_3
+KBS0714_01741	CDS	tlyC	Hemolysin C
+KBS0714_01741	gene	tlyC
+KBS0714_01742	CDS	troA	Periplasmic zinc-binding protein TroA
+KBS0714_01742	gene	troA
+KBS0714_01743	CDS	mntB	Manganese transport system membrane protein MntB
+KBS0714_01743	gene	mntB
+KBS0714_01744	CDS	fepC	Ferric enterobactin transport ATP-binding protein FepC
+KBS0714_01744	gene	fepC
+KBS0714_01745	CDS	zur	Zinc uptake regulation protein
+KBS0714_01745	gene	zur
+KBS0714_01746	CDS	sseB	2.8.1.1	Putative thiosulfate sulfurtransferase SseB
+KBS0714_01746	gene	sseB
+KBS0714_01747	CDS	putative HIT-like protein
+KBS0714_01747	gene
+KBS0714_01748	CDS	hypothetical protein
+KBS0714_01748	gene
+KBS0714_01749	CDS	putP_2	High-affinity proline transporter PutP
+KBS0714_01749	gene	putP_2
+KBS0714_01750	CDS	thpR	3.1.4.-	RNA 2',3'-cyclic phosphodiesterase
+KBS0714_01750	gene	thpR
+KBS0714_01751	CDS	gabD1_1	1.2.1.79	Succinate-semialdehyde dehydrogenase [NADP(+)] 1
+KBS0714_01751	gene	gabD1_1
+KBS0714_01752	CDS	tag	3.2.2.20	DNA-3-methyladenine glycosylase 1
+KBS0714_01752	gene	tag
+KBS0714_01753	CDS	thiC	4.1.99.17	Phosphomethylpyrimidine synthase
+KBS0714_01753	gene	thiC
+KBS0714_01754	CDS	hypothetical protein
+KBS0714_01754	gene
+KBS0714_01755	CDS	thiD	2.7.1.49	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+KBS0714_01755	gene	thiD
+KBS0714_01756	tRNA	tRNA-Arg(ccg)
+KBS0714_01756	gene
+KBS0714_01757	CDS	thiE	2.5.1.3	Thiamine-phosphate synthase
+KBS0714_01757	gene	thiE
+KBS0714_01758	CDS	hcnC	1.4.99.5	Hydrogen cyanide synthase subunit HcnC
+KBS0714_01758	gene	hcnC
+KBS0714_01759	CDS	hypothetical protein
+KBS0714_01759	gene
+KBS0714_01760	CDS	hypothetical protein
+KBS0714_01760	gene
+KBS0714_01761	CDS	moeZ	putative adenylyltransferase/sulfurtransferase MoeZ
+KBS0714_01761	gene	moeZ
+KBS0714_01762	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+KBS0714_01762	gene	argS
+KBS0714_01763	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+KBS0714_01763	gene	lysA
+KBS0714_01764	CDS	hom	1.1.1.3	Homoserine dehydrogenase
+KBS0714_01764	gene	hom
+KBS0714_01765	CDS	thrC	4.2.3.1	Threonine synthase
+KBS0714_01765	gene	thrC
+KBS0714_01766	CDS	thrB	2.7.1.39	Homoserine kinase
+KBS0714_01766	gene	thrB
+KBS0714_01767	CDS	rho	3.6.4.-	Transcription termination factor Rho
+KBS0714_01767	gene	rho
+KBS0714_01768	CDS	prfA	Peptide chain release factor 1
+KBS0714_01768	gene	prfA
+KBS0714_01769	CDS	prmC_1	2.1.1.297	Release factor glutamine methyltransferase
+KBS0714_01769	gene	prmC_1
+KBS0714_01770	CDS	2.7.7.87	Putative threonylcarbamoyl-AMP synthase
+KBS0714_01770	gene
+KBS0714_01771	CDS	wecA	2.7.8.35	Decaprenyl-phosphate N-acetylglucosaminephosphotransferase
+KBS0714_01771	gene	wecA
+KBS0714_01772	CDS	hypothetical protein
+KBS0714_01772	gene
+KBS0714_01773	CDS	atpB	ATP synthase subunit a
+KBS0714_01773	gene	atpB
+KBS0714_01774	CDS	atpE	ATP synthase subunit c
+KBS0714_01774	gene	atpE
+KBS0714_01775	CDS	atpF	ATP synthase subunit b
+KBS0714_01775	gene	atpF
+KBS0714_01776	CDS	atpH	ATP synthase subunit delta
+KBS0714_01776	gene	atpH
+KBS0714_01777	CDS	atpA	3.6.3.14	ATP synthase subunit alpha
+KBS0714_01777	gene	atpA
+KBS0714_01778	CDS	atpG	ATP synthase gamma chain
+KBS0714_01778	gene	atpG
+KBS0714_01779	CDS	atpD	3.6.3.14	ATP synthase subunit beta
+KBS0714_01779	gene	atpD
+KBS0714_01780	CDS	atpC	ATP synthase epsilon chain
+KBS0714_01780	gene	atpC
+KBS0714_01781	CDS	hypothetical protein
+KBS0714_01781	gene
+KBS0714_01782	CDS	nucS	3.1.-.-	Endonuclease NucS
+KBS0714_01782	gene	nucS
+KBS0714_01783	CDS	hypothetical protein
+KBS0714_01783	gene
+KBS0714_01784	CDS	tqsA_3	AI-2 transport protein TqsA
+KBS0714_01784	gene	tqsA_3
+KBS0714_01785	CDS	hypothetical protein
+KBS0714_01785	gene
+KBS0714_01786	CDS	drrA_4	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+KBS0714_01786	gene	drrA_4
+KBS0714_01787	CDS	hypothetical protein
+KBS0714_01787	gene
+KBS0714_01788	CDS	hypothetical protein
+KBS0714_01788	gene
+KBS0714_01789	CDS	hypothetical protein
+KBS0714_01789	gene
+KBS0714_01790	CDS	hypothetical protein
+KBS0714_01790	gene
+KBS0714_01791	CDS	pncA	3.5.1.19	Nicotinamidase/pyrazinamidase
+KBS0714_01791	gene	pncA
+KBS0714_01792	CDS	pncB1	6.3.4.21	Nicotinate phosphoribosyltransferase pncB1
+KBS0714_01792	gene	pncB1
+KBS0714_01793	CDS	clpS	ATP-dependent Clp protease adapter protein ClpS
+KBS0714_01793	gene	clpS
+KBS0714_01794	CDS	hypothetical protein
+KBS0714_01794	gene
+KBS0714_01795	CDS	murI	5.1.1.3	Glutamate racemase
+KBS0714_01795	gene	murI
+KBS0714_01796	CDS	rnz_2	3.1.26.11	Ribonuclease Z
+KBS0714_01796	gene	rnz_2
+KBS0714_01797	CDS	rph	2.7.7.56	Ribonuclease PH
+KBS0714_01797	gene	rph
+KBS0714_01798	CDS	3.6.1.9	Non-canonical purine NTP pyrophosphatase
+KBS0714_01798	gene
+KBS0714_01799	CDS	exoX	3.1.11.-	Exodeoxyribonuclease 10
+KBS0714_01799	gene	exoX
+KBS0714_01800	CDS	hypothetical protein
+KBS0714_01800	gene
+KBS0714_01801	CDS	sbcD	Nuclease SbcCD subunit D
+KBS0714_01801	gene	sbcD
+KBS0714_01802	CDS	hypothetical protein
+KBS0714_01802	gene
+KBS0714_01803	CDS	sbcC	Nuclease SbcCD subunit C
+KBS0714_01803	gene	sbcC
+KBS0714_01804	CDS	swrC	Swarming motility protein SwrC
+KBS0714_01804	gene	swrC
+KBS0714_01805	CDS	mqo	1.1.5.4	putative malate:quinone oxidoreductase
+KBS0714_01805	gene	mqo
+KBS0714_01806	CDS	hbpA	Heme-binding protein A
+KBS0714_01806	gene	hbpA
+KBS0714_01807	tRNA	tRNA-Leu(tag)
+KBS0714_01807	gene
+KBS0714_01808	CDS	bcp	1.11.1.15	Putative peroxiredoxin
+KBS0714_01808	gene	bcp
+KBS0714_01809	tRNA	tRNA-Lys(ctt)
+KBS0714_01809	gene
+KBS0714_01810	CDS	hypothetical protein
+KBS0714_01810	gene
+KBS0714_01811	CDS	ilvD	4.2.1.9	Dihydroxy-acid dehydratase
+KBS0714_01811	gene	ilvD
+KBS0714_01812	CDS	nagB	3.5.99.6	Glucosamine-6-phosphate deaminase
+KBS0714_01812	gene	nagB
+KBS0714_01813	CDS	nagA	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
+KBS0714_01813	gene	nagA
+KBS0714_01814	CDS	ilvB1	2.2.1.6	Acetolactate synthase large subunit IlvB1
+KBS0714_01814	gene	ilvB1
+KBS0714_01815	CDS	ilvH	2.2.1.6	Acetolactate synthase small subunit
+KBS0714_01815	gene	ilvH
+KBS0714_01816	CDS	ilvC	1.1.1.86	Ketol-acid reductoisomerase (NADP(+))
+KBS0714_01816	gene	ilvC
+KBS0714_01817	CDS	serA	1.1.1.95	D-3-phosphoglycerate dehydrogenase
+KBS0714_01817	gene	serA
+KBS0714_01818	CDS	hypothetical protein
+KBS0714_01818	gene
+KBS0714_01819	CDS	hypothetical protein
+KBS0714_01819	gene
+KBS0714_01820	CDS	hypothetical protein
+KBS0714_01820	gene
+KBS0714_01821	CDS	ribBA_1	Riboflavin biosynthesis protein RibBA
+KBS0714_01821	gene	ribBA_1
+KBS0714_01822	CDS	hypothetical protein
+KBS0714_01822	gene
+KBS0714_01823	CDS	hypothetical protein
+KBS0714_01823	gene
+KBS0714_01824	CDS	mshA	2.4.1.250	D-inositol-3-phosphate glycosyltransferase
+KBS0714_01824	gene	mshA
+KBS0714_01825	CDS	hypothetical protein
+KBS0714_01825	gene
+KBS0714_01826	CDS	tdh	1.1.1.103	L-threonine 3-dehydrogenase
+KBS0714_01826	gene	tdh
+KBS0714_01827	CDS	hypothetical protein
+KBS0714_01827	gene
+KBS0714_01828	CDS	hypothetical protein
+KBS0714_01828	gene
+KBS0714_01829	CDS	hypothetical protein
+KBS0714_01829	gene
+KBS0714_01830	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+KBS0714_01830	gene	metG
+KBS0714_01831	CDS	leuB	1.1.1.85	3-isopropylmalate dehydrogenase
+KBS0714_01831	gene	leuB
+KBS0714_01832	CDS	ilvE	2.6.1.42	Branched-chain-amino-acid aminotransferase
+KBS0714_01832	gene	ilvE
+KBS0714_01833	CDS	cstA	Carbon starvation protein A
+KBS0714_01833	gene	cstA
+KBS0714_01834	CDS	hypothetical protein
+KBS0714_01834	gene
+KBS0714_01835	CDS	4.3.2.3	Ureidoglycolate lyase
+KBS0714_01835	gene
+KBS0714_01836	CDS	gltX_2	6.1.1.17	Glutamate--tRNA ligase
+KBS0714_01836	gene	gltX_2
+KBS0714_01837	CDS	gph	3.1.3.18	Phosphoglycolate phosphatase
+KBS0714_01837	gene	gph
+KBS0714_01838	tRNA	tRNA-Gln(ctg)
+KBS0714_01838	gene
+KBS0714_01839	tRNA	tRNA-Glu(ctc)
+KBS0714_01839	gene
+KBS0714_01840	tRNA	tRNA-Glu(ctc)
+KBS0714_01840	gene
+KBS0714_01841	CDS	hypothetical protein
+KBS0714_01841	gene
+KBS0714_01842	CDS	hypothetical protein
+KBS0714_01842	gene
+KBS0714_01843	CDS	hypothetical protein
+KBS0714_01843	gene
+KBS0714_01844	CDS	thiL	2.7.4.16	Thiamine-monophosphate kinase
+KBS0714_01844	gene	thiL
+KBS0714_01845	CDS	tuaD	1.1.1.22	UDP-glucose 6-dehydrogenase TuaD
+KBS0714_01845	gene	tuaD
+KBS0714_01846	CDS	kdgR_2	Pectin degradation repressor protein KdgR
+KBS0714_01846	gene	kdgR_2
+KBS0714_01847	CDS	leuC	4.2.1.33	3-isopropylmalate dehydratase large subunit
+KBS0714_01847	gene	leuC
+KBS0714_01848	CDS	leuD	4.2.1.33	3-isopropylmalate dehydratase small subunit
+KBS0714_01848	gene	leuD
+KBS0714_01849	CDS	murA1	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+KBS0714_01849	gene	murA1
+KBS0714_01850	CDS	plsC_3	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+KBS0714_01850	gene	plsC_3
+KBS0714_01851	CDS	gpsA	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+KBS0714_01851	gene	gpsA
+KBS0714_01852	CDS	ddl	6.3.2.4	D-alanine--D-alanine ligase
+KBS0714_01852	gene	ddl
+KBS0714_01853	CDS	hypothetical protein
+KBS0714_01853	gene
+KBS0714_01854	CDS	brpA	Biofilm regulatory protein A
+KBS0714_01854	gene	brpA
+KBS0714_01855	CDS	hypothetical protein
+KBS0714_01855	gene
+KBS0714_01856	CDS	recG	3.6.4.12	ATP-dependent DNA helicase RecG
+KBS0714_01856	gene	recG
+KBS0714_01857	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+KBS0714_01857	gene	rsmD
+KBS0714_01858	CDS	dapC	2.6.1.17	putative N-succinyldiaminopimelate aminotransferase DapC
+KBS0714_01858	gene	dapC
+KBS0714_01859	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+KBS0714_01859	gene	coaD
+KBS0714_01860	CDS	gtaB	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+KBS0714_01860	gene	gtaB
+KBS0714_01861	CDS	hypothetical protein
+KBS0714_01861	gene
+KBS0714_01862	CDS	rpmF	50S ribosomal protein L32
+KBS0714_01862	gene	rpmF
+KBS0714_01863	CDS	rnc	3.1.26.3	Ribonuclease 3
+KBS0714_01863	gene	rnc
+KBS0714_01864	CDS	fpg1_2	3.2.2.23	Formamidopyrimidine-DNA glycosylase 1
+KBS0714_01864	gene	fpg1_2
+KBS0714_01865	CDS	ywtF	Putative transcriptional regulator YwtF
+KBS0714_01865	gene	ywtF
+KBS0714_01866	CDS	2.4.1.11	Glycogen synthase
+KBS0714_01866	gene
+KBS0714_01867	CDS	hypothetical protein
+KBS0714_01867	gene
+KBS0714_01868	CDS	hypothetical protein
+KBS0714_01868	gene
+KBS0714_01869	CDS	wecC	1.1.1.336	UDP-N-acetyl-D-mannosamine dehydrogenase
+KBS0714_01869	gene	wecC
+KBS0714_01870	CDS	pimB_2	2.4.1.57	GDP-mannose-dependent alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase
+KBS0714_01870	gene	pimB_2
+KBS0714_01871	CDS	wbpA	1.1.1.136	UDP-N-acetyl-D-glucosamine 6-dehydrogenase
+KBS0714_01871	gene	wbpA
+KBS0714_01872	CDS	wbpD	2.3.1.201	UDP-2-acetamido-3-amino-2,3-dideoxy-D-glucuronate N-acetyltransferase
+KBS0714_01872	gene	wbpD
+KBS0714_01873	CDS	desV	2.6.1.106	dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+KBS0714_01873	gene	desV
+KBS0714_01874	CDS	iolX	1.1.1.370	scyllo-inositol 2-dehydrogenase (NAD(+))
+KBS0714_01874	gene	iolX
+KBS0714_01875	CDS	hypothetical protein
+KBS0714_01875	gene
+KBS0714_01876	CDS	hypothetical protein
+KBS0714_01876	gene
+KBS0714_01877	CDS	kanE	2.4.1.301	Alpha-D-kanosaminyltransferase
+KBS0714_01877	gene	kanE
+KBS0714_01878	CDS	hypothetical protein
+KBS0714_01878	gene
+KBS0714_01879	CDS	tagH	3.6.3.40	Teichoic acids export ATP-binding protein TagH
+KBS0714_01879	gene	tagH
+KBS0714_01880	CDS	tagG	Teichoic acid translocation permease protein TagG
+KBS0714_01880	gene	tagG
+KBS0714_01881	CDS	wecB	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase
+KBS0714_01881	gene	wecB
+KBS0714_01882	CDS	hypothetical protein
+KBS0714_01882	gene
+KBS0714_01883	CDS	hypothetical protein
+KBS0714_01883	gene
+KBS0714_01884	CDS	tetA	Tetracycline resistance protein, class C
+KBS0714_01884	gene	tetA
+KBS0714_01885	CDS	hypothetical protein
+KBS0714_01885	gene
+KBS0714_01886	CDS	ftsY	Signal recognition particle receptor FtsY
+KBS0714_01886	gene	ftsY
+KBS0714_01887	CDS	amtB	Ammonia channel
+KBS0714_01887	gene	amtB
+KBS0714_01888	CDS	ffh	Signal recognition particle protein
+KBS0714_01888	gene	ffh
+KBS0714_01889	CDS	rpsP	30S ribosomal protein S16
+KBS0714_01889	gene	rpsP
+KBS0714_01890	CDS	hypothetical protein
+KBS0714_01890	gene
+KBS0714_01891	CDS	rimM	Ribosome maturation factor RimM
+KBS0714_01891	gene	rimM
+KBS0714_01892	CDS	trmD	2.1.1.228	tRNA (guanine-N(1)-)-methyltransferase
+KBS0714_01892	gene	trmD
+KBS0714_01893	CDS	rplS	50S ribosomal protein L19
+KBS0714_01893	gene	rplS
+KBS0714_01894	CDS	lepB_2	3.4.21.89	Signal peptidase I
+KBS0714_01894	gene	lepB_2
+KBS0714_01895	CDS	sipT	3.4.21.89	Signal peptidase I T
+KBS0714_01895	gene	sipT
+KBS0714_01896	CDS	rnhB	3.1.26.4	Ribonuclease HII
+KBS0714_01896	gene	rnhB
+KBS0714_01897	CDS	hypothetical protein
+KBS0714_01897	gene
+KBS0714_01898	CDS	hypothetical protein
+KBS0714_01898	gene
+KBS0714_01899	CDS	comM	Competence protein ComM
+KBS0714_01899	gene	comM
+KBS0714_01900	CDS	dprA	Putative DNA processing protein DprA
+KBS0714_01900	gene	dprA
+KBS0714_01901	CDS	xerC	Tyrosine recombinase XerC
+KBS0714_01901	gene	xerC
+KBS0714_01902	CDS	hypothetical protein
+KBS0714_01902	gene
+KBS0714_01903	CDS	fabF	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+KBS0714_01903	gene	fabF
+KBS0714_01904	CDS	acpP	Acyl carrier protein
+KBS0714_01904	gene	acpP
+KBS0714_01905	CDS	fabH_1	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+KBS0714_01905	gene	fabH_1
+KBS0714_01906	CDS	fabD	2.3.1.39	Malonyl CoA-acyl carrier protein transacylase
+KBS0714_01906	gene	fabD
+KBS0714_01907	CDS	hypothetical protein
+KBS0714_01907	gene
+KBS0714_01908	CDS	aceE	1.2.4.1	Pyruvate dehydrogenase E1 component
+KBS0714_01908	gene	aceE
+KBS0714_01909	CDS	hypothetical protein
+KBS0714_01909	gene
+KBS0714_01910	CDS	1.11.1.15	Putative peroxiredoxin
+KBS0714_01910	gene
+KBS0714_01911	tRNA	tRNA-Val(tac)
+KBS0714_01911	gene
+KBS0714_01912	CDS	ygaZ	Inner membrane protein YgaZ
+KBS0714_01912	gene	ygaZ
+KBS0714_01913	CDS	hypothetical protein
+KBS0714_01913	gene
+KBS0714_01914	CDS	hypothetical protein
+KBS0714_01914	gene
+KBS0714_01915	CDS	hypothetical protein
+KBS0714_01915	gene
+KBS0714_01916	CDS	hypothetical protein
+KBS0714_01916	gene
+KBS0714_01917	CDS	gndA	1.1.1.44	6-phosphogluconate dehydrogenase, NADP(+)-dependent, decarboxylating
+KBS0714_01917	gene	gndA
+KBS0714_01918	CDS	cysE	2.3.1.30	Serine acetyltransferase
+KBS0714_01918	gene	cysE
+KBS0714_01919	CDS	cysK1	2.5.1.47	O-acetylserine sulfhydrylase
+KBS0714_01919	gene	cysK1
+KBS0714_01920	CDS	msrAB	Peptide methionine sulfoxide reductase MsrA/MsrB
+KBS0714_01920	gene	msrAB
+KBS0714_01921	CDS	GTP cyclohydrolase 1 type 2 
+KBS0714_01921	gene
+KBS0714_01922	CDS	hypothetical protein
+KBS0714_01922	gene
+KBS0714_01923	CDS	rnhA	14.7 kDa ribonuclease H-like protein
+KBS0714_01923	gene	rnhA
+KBS0714_01924	CDS	hypothetical protein
+KBS0714_01924	gene
+KBS0714_01925	CDS	hypothetical protein
+KBS0714_01925	gene
+KBS0714_01926	CDS	gap2	1.2.1.-	Glyceraldehyde-3-phosphate dehydrogenase-like protein
+KBS0714_01926	gene	gap2
+KBS0714_01927	CDS	def_1	3.5.1.88	Peptide deformylase
+KBS0714_01927	gene	def_1
+KBS0714_01928	CDS	fixK	Nitrogen fixation regulation protein FixK
+KBS0714_01928	gene	fixK
+KBS0714_01929	CDS	copA_2	3.6.3.54	Copper-exporting P-type ATPase A
+KBS0714_01929	gene	copA_2
+KBS0714_01930	CDS	cadA	3.6.3.3	putative cadmium-transporting ATPase
+KBS0714_01930	gene	cadA
+KBS0714_01931	CDS	mhuD	1.14.14.18	Heme-degrading monooxygenase HmoB
+KBS0714_01931	gene	mhuD
+KBS0714_01932	CDS	hypothetical protein
+KBS0714_01932	gene
+KBS0714_01933	CDS	hypothetical protein
+KBS0714_01933	gene
+KBS0714_01934	CDS	hypothetical protein
+KBS0714_01934	gene
+KBS0714_01935	CDS	hypothetical protein
+KBS0714_01935	gene
+KBS0714_01936	CDS	hypothetical protein
+KBS0714_01936	gene
+KBS0714_01937	CDS	hypothetical protein
+KBS0714_01937	gene
+KBS0714_01938	CDS	Int-Tn	Transposase from transposon Tn916
+KBS0714_01938	gene	Int-Tn
+KBS0714_01939	tRNA	tRNA-His(gtg)
+KBS0714_01939	gene
+KBS0714_01940	CDS	orn	3.1.-.-	Oligoribonuclease
+KBS0714_01940	gene	orn
+KBS0714_01941	CDS	2.4.1.-	Alpha-(1->6)-mannopyranosyltransferase
+KBS0714_01941	gene
+KBS0714_01942	CDS	mptA	2.4.1.-	Alpha-(1->6)-mannopyranosyltransferase A
+KBS0714_01942	gene	mptA
+KBS0714_01943	CDS	hypothetical protein
+KBS0714_01943	gene
+KBS0714_01944	CDS	hypothetical protein
+KBS0714_01944	gene
+KBS0714_01945	tRNA	tRNA-Arg(tct)
+KBS0714_01945	gene
+KBS0714_01946	CDS	ssb1	Single-stranded DNA-binding protein 1
+KBS0714_01946	gene	ssb1
+KBS0714_01947	CDS	ettA_3	Energy-dependent translational throttle protein EttA
+KBS0714_01947	gene	ettA_3
+KBS0714_01948	CDS	tesB	3.1.2.-	Acyl-CoA thioesterase 2
+KBS0714_01948	gene	tesB
+KBS0714_01949	CDS	hypothetical protein
+KBS0714_01949	gene
+KBS0714_01950	CDS	glbO	Group 2 truncated hemoglobin GlbO
+KBS0714_01950	gene	glbO
+KBS0714_01951	CDS	pepN_3	3.4.11.2	Aminopeptidase N
+KBS0714_01951	gene	pepN_3
+KBS0714_01952	CDS	kipR	HTH-type transcriptional regulator KipR
+KBS0714_01952	gene	kipR
+KBS0714_01953	CDS	rutD	3.5.1.-	Putative aminoacrylate hydrolase RutD
+KBS0714_01953	gene	rutD
+KBS0714_01954	CDS	hypothetical protein
+KBS0714_01954	gene
+KBS0714_01955	tRNA	tRNA-Ala(cgc)
+KBS0714_01955	gene
+KBS0714_01956	CDS	nei1	3.2.2.-	Endonuclease 8 1
+KBS0714_01956	gene	nei1
+KBS0714_01957	tRNA	tRNA-Gly(tcc)
+KBS0714_01957	gene
+KBS0714_01958	CDS	cpnA	1.1.1.163	Cyclopentanol dehydrogenase
+KBS0714_01958	gene	cpnA
+KBS0714_01959	tRNA	tRNA-Pro(tgg)
+KBS0714_01959	gene
+KBS0714_01960	CDS	tig	5.2.1.8	Trigger factor
+KBS0714_01960	gene	tig
+KBS0714_01961	CDS	clpP1	3.4.21.92	ATP-dependent Clp protease proteolytic subunit 1
+KBS0714_01961	gene	clpP1
+KBS0714_01962	CDS	clpP2	3.4.21.92	ATP-dependent Clp protease proteolytic subunit 2
+KBS0714_01962	gene	clpP2
+KBS0714_01963	CDS	clpX	ATP-dependent Clp protease ATP-binding subunit ClpX
+KBS0714_01963	gene	clpX
+KBS0714_01964	CDS	Thioredoxin-like reductase
+KBS0714_01964	gene
+KBS0714_01965	CDS	hypothetical protein
+KBS0714_01965	gene
+KBS0714_01966	CDS	valS	6.1.1.9	Valine--tRNA ligase
+KBS0714_01966	gene	valS
+KBS0714_01967	CDS	1.-.-.-	putative oxidoreductase
+KBS0714_01967	gene
+KBS0714_01968	CDS	hypothetical protein
+KBS0714_01968	gene
+KBS0714_01969	CDS	sir	1.8.7.1	Sulfite reductase [ferredoxin]
+KBS0714_01969	gene	sir
+KBS0714_01970	CDS	cysH	1.8.4.8	putative phosphoadenosine phosphosulfate reductase
+KBS0714_01970	gene	cysH
+KBS0714_01971	CDS	cysD	2.7.7.4	Sulfate adenylyltransferase subunit 2
+KBS0714_01971	gene	cysD
+KBS0714_01972	CDS	cysNC	Bifunctional enzyme CysN/CysC
+KBS0714_01972	gene	cysNC
+KBS0714_01973	CDS	cmpC	3.6.3.-	Bicarbonate transport ATP-binding protein CmpC
+KBS0714_01973	gene	cmpC
+KBS0714_01974	CDS	cmpB	Bicarbonate transport system permease protein CmpB
+KBS0714_01974	gene	cmpB
+KBS0714_01975	CDS	cysG	Siroheme synthase
+KBS0714_01975	gene	cysG
+KBS0714_01976	CDS	fprA_2	1.18.1.2	NADPH-ferredoxin reductase FprA
+KBS0714_01976	gene	fprA_2
+KBS0714_01977	CDS	hypothetical protein
+KBS0714_01977	gene
+KBS0714_01978	CDS	ileS	6.1.1.5	Isoleucine--tRNA ligase
+KBS0714_01978	gene	ileS
+KBS0714_01979	CDS	hypothetical protein
+KBS0714_01979	gene
+KBS0714_01980	CDS	ndkA	2.7.4.6	Nucleoside diphosphate kinase
+KBS0714_01980	gene	ndkA
+KBS0714_01981	CDS	hypothetical protein
+KBS0714_01981	gene
+KBS0714_01982	CDS	rng	3.1.26.-	Ribonuclease G
+KBS0714_01982	gene	rng
+KBS0714_01983	CDS	rplU	50S ribosomal protein L21
+KBS0714_01983	gene	rplU
+KBS0714_01984	CDS	rpmA	50S ribosomal protein L27
+KBS0714_01984	gene	rpmA
+KBS0714_01985	CDS	obg	3.6.5.-	GTPase Obg
+KBS0714_01985	gene	obg
+KBS0714_01986	CDS	proB	2.7.2.11	Glutamate 5-kinase
+KBS0714_01986	gene	proB
+KBS0714_01987	CDS	proA	1.2.1.41	Gamma-glutamyl phosphate reductase
+KBS0714_01987	gene	proA
+KBS0714_01988	CDS	hypothetical protein
+KBS0714_01988	gene
+KBS0714_01989	CDS	nadD	2.7.7.18	putative nicotinate-nucleotide adenylyltransferase
+KBS0714_01989	gene	nadD
+KBS0714_01990	CDS	rsfS	Ribosomal silencing factor RsfS
+KBS0714_01990	gene	rsfS
+KBS0714_01991	CDS	pspA_2	3.1.3.3	Phosphoserine phosphatase 1
+KBS0714_01991	gene	pspA_2
+KBS0714_01992	tRNA	tRNA-Ala(ggc)
+KBS0714_01992	gene
+KBS0714_01993	CDS	iolW	1.1.1.371	scyllo-inositol 2-dehydrogenase (NADP(+))
+KBS0714_01993	gene	iolW
+KBS0714_01994	tRNA	tRNA-Ala(ggc)
+KBS0714_01994	gene
+KBS0714_01995	CDS	hypothetical protein
+KBS0714_01995	gene
+KBS0714_01996	CDS	hypothetical protein
+KBS0714_01996	gene
+KBS0714_01997	CDS	puo	1.4.3.10	Putrescine oxidase
+KBS0714_01997	gene	puo
+KBS0714_01998	CDS	puuP	Putrescine importer PuuP
+KBS0714_01998	gene	puuP
+KBS0714_01999	CDS	gabD1_2	1.2.1.79	Succinate-semialdehyde dehydrogenase [NADP(+)] 1
+KBS0714_01999	gene	gabD1_2
+KBS0714_02000	CDS	hypothetical protein
+KBS0714_02000	gene
+KBS0714_02001	CDS	gabT_2	2.6.1.19	4-aminobutyrate aminotransferase
+KBS0714_02001	gene	gabT_2
+KBS0714_02002	CDS	gltC	HTH-type transcriptional regulator GltC
+KBS0714_02002	gene	gltC
+KBS0714_02003	CDS	hypothetical protein
+KBS0714_02003	gene
+KBS0714_02004	CDS	hypothetical protein
+KBS0714_02004	gene
+KBS0714_02005	CDS	hypothetical protein
+KBS0714_02005	gene
+KBS0714_02006	CDS	hypothetical protein
+KBS0714_02006	gene
+KBS0714_02007	CDS	nrdH	Glutaredoxin-like protein NrdH
+KBS0714_02007	gene	nrdH
+KBS0714_02008	CDS	Putative NrdI-like protein
+KBS0714_02008	gene
+KBS0714_02009	CDS	nrdE1	1.17.4.1	Ribonucleoside-diphosphate reductase subunit alpha 1
+KBS0714_02009	gene	nrdE1
+KBS0714_02010	CDS	nrdF2	1.17.4.1	Ribonucleoside-diphosphate reductase subunit beta nrdF2
+KBS0714_02010	gene	nrdF2
+KBS0714_02011	CDS	metQ	D-methionine-binding lipoprotein MetQ
+KBS0714_02011	gene	metQ
+KBS0714_02012	CDS	metN	3.6.3.-	Methionine import ATP-binding protein MetN
+KBS0714_02012	gene	metN
+KBS0714_02013	CDS	metP	Methionine import system permease protein MetP
+KBS0714_02013	gene	metP
+KBS0714_02014	CDS	hypothetical protein
+KBS0714_02014	gene
+KBS0714_02015	CDS	lipL	2.3.1.204	Octanoyl-[GcvH]:protein N-octanoyltransferase
+KBS0714_02015	gene	lipL
+KBS0714_02016	CDS	dsbD_2	1.8.1.8	Thiol:disulfide interchange protein DsbD
+KBS0714_02016	gene	dsbD_2
+KBS0714_02017	CDS	resA	Thiol-disulfide oxidoreductase ResA
+KBS0714_02017	gene	resA
+KBS0714_02018	CDS	hypothetical protein
+KBS0714_02018	gene
+KBS0714_02019	CDS	hypothetical protein
+KBS0714_02019	gene
+KBS0714_02020	CDS	hypothetical protein
+KBS0714_02020	gene
+KBS0714_02021	CDS	hypothetical protein
+KBS0714_02021	gene
+KBS0714_02022	CDS	acuC	Acetoin utilization protein AcuC
+KBS0714_02022	gene	acuC
+KBS0714_02023	CDS	ktrB_2	Ktr system potassium uptake protein B
+KBS0714_02023	gene	ktrB_2
+KBS0714_02024	CDS	ktrA_2	Ktr system potassium uptake protein A
+KBS0714_02024	gene	ktrA_2
+KBS0714_02025	CDS	proC	1.5.1.2	Pyrroline-5-carboxylate reductase
+KBS0714_02025	gene	proC
+KBS0714_02026	CDS	hypothetical protein
+KBS0714_02026	gene
+KBS0714_02027	CDS	ppx	3.6.1.11	Exopolyphosphatase
+KBS0714_02027	gene	ppx
+KBS0714_02028	CDS	topA	5.99.1.2	DNA topoisomerase 1
+KBS0714_02028	gene	topA
+KBS0714_02029	CDS	prmC_2	2.1.1.297	Release factor glutamine methyltransferase
+KBS0714_02029	gene	prmC_2
+KBS0714_02030	CDS	hypothetical protein
+KBS0714_02030	gene
+KBS0714_02031	CDS	hypothetical protein
+KBS0714_02031	gene
+KBS0714_02032	CDS	rhlE_2	3.6.4.13	ATP-dependent RNA helicase RhlE
+KBS0714_02032	gene	rhlE_2
+KBS0714_02033	CDS	hypothetical protein
+KBS0714_02033	gene
+KBS0714_02034	CDS	hypothetical protein
+KBS0714_02034	gene
+KBS0714_02035	CDS	hypothetical protein
+KBS0714_02035	gene
+KBS0714_02036	CDS	hypothetical protein
+KBS0714_02036	gene
+KBS0714_02037	CDS	Putative conjugal transfer protein
+KBS0714_02037	gene
+KBS0714_02038	CDS	nudL	3.6.1.-	putative Nudix hydrolase NudL
+KBS0714_02038	gene	nudL
+KBS0714_02039	CDS	czcO	1.-.-.-	putative oxidoreductase CzcO
+KBS0714_02039	gene	czcO
+KBS0714_02040	CDS	pdg	Ultraviolet N-glycosylase/AP lyase
+KBS0714_02040	gene	pdg
+KBS0714_02041	CDS	acsA_5	6.2.1.1	Acetyl-coenzyme A synthetase
+KBS0714_02041	gene	acsA_5
+KBS0714_02042	CDS	ytrA	HTH-type transcriptional repressor YtrA
+KBS0714_02042	gene	ytrA
+KBS0714_02043	CDS	hypothetical protein
+KBS0714_02043	gene
+KBS0714_02044	CDS	hypothetical protein
+KBS0714_02044	gene
+KBS0714_02045	CDS	3.4.21.-	Serine protease
+KBS0714_02045	gene
+KBS0714_02046	CDS	crp	CRP-like cAMP-activated global transcriptional regulator
+KBS0714_02046	gene	crp
+KBS0714_02047	CDS	hypothetical protein
+KBS0714_02047	gene
+KBS0714_02048	CDS	RutC family protein
+KBS0714_02048	gene
+KBS0714_02049	CDS	hypothetical protein
+KBS0714_02049	gene
+KBS0714_02050	CDS	ponA	Penicillin-binding protein 1A/1B
+KBS0714_02050	gene	ponA
+KBS0714_02051	CDS	hypothetical protein
+KBS0714_02051	gene
+KBS0714_02052	CDS	3.6.3.-	Putative multidrug export ATP-binding/permease protein
+KBS0714_02052	gene
+KBS0714_02053	CDS	3.6.3.-	Putative multidrug export ATP-binding/permease protein
+KBS0714_02053	gene
+KBS0714_02054	CDS	hypothetical protein
+KBS0714_02054	gene
+KBS0714_02055	CDS	purC	6.3.2.6	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+KBS0714_02055	gene	purC
+KBS0714_02056	CDS	purD	6.3.4.13	Phosphoribosylamine--glycine ligase
+KBS0714_02056	gene	purD
+KBS0714_02057	CDS	hypothetical protein
+KBS0714_02057	gene
+KBS0714_02058	CDS	liaR_3	Transcriptional regulatory protein LiaR
+KBS0714_02058	gene	liaR_3
+KBS0714_02059	CDS	hypothetical protein
+KBS0714_02059	gene
+KBS0714_02060	CDS	hypothetical protein
+KBS0714_02060	gene
+KBS0714_02061	CDS	hypothetical protein
+KBS0714_02061	gene
+KBS0714_02062	CDS	lolD	3.6.3.-	Lipoprotein-releasing system ATP-binding protein LolD
+KBS0714_02062	gene	lolD
+KBS0714_02063	CDS	hypothetical protein
+KBS0714_02063	gene
+KBS0714_02064	CDS	hypothetical protein
+KBS0714_02064	gene
+KBS0714_02065	CDS	hypothetical protein
+KBS0714_02065	gene
+KBS0714_02066	CDS	purF	2.4.2.14	Amidophosphoribosyltransferase
+KBS0714_02066	gene	purF
+KBS0714_02067	CDS	purM	6.3.3.1	Phosphoribosylformylglycinamidine cyclo-ligase
+KBS0714_02067	gene	purM
+KBS0714_02068	CDS	hypothetical protein
+KBS0714_02068	gene
+KBS0714_02069	CDS	hypothetical protein
+KBS0714_02069	gene
+KBS0714_02070	CDS	lpqL	3.4.11.1	putative lipoprotein aminopeptidase LpqL
+KBS0714_02070	gene	lpqL
+KBS0714_02071	CDS	clpB	Chaperone protein ClpB
+KBS0714_02071	gene	clpB
+KBS0714_02072	CDS	hypothetical protein
+KBS0714_02072	gene
+KBS0714_02073	CDS	hypothetical protein
+KBS0714_02073	gene
+KBS0714_02074	CDS	fliY	L-cystine-binding protein FliY
+KBS0714_02074	gene	fliY
+KBS0714_02075	CDS	gltK_2	Glutamate/aspartate import permease protein GltK
+KBS0714_02075	gene	gltK_2
+KBS0714_02076	CDS	glnQ_2	Glutamine transport ATP-binding protein GlnQ
+KBS0714_02076	gene	glnQ_2
+KBS0714_02077	CDS	hypothetical protein
+KBS0714_02077	gene
+KBS0714_02078	CDS	putative membrane protein
+KBS0714_02078	gene
+KBS0714_02079	CDS	hypothetical protein
+KBS0714_02079	gene
+KBS0714_02080	CDS	trmB	2.1.1.33	tRNA (guanine-N(7)-)-methyltransferase
+KBS0714_02080	gene	trmB
+KBS0714_02081	CDS	hypothetical protein
+KBS0714_02081	gene
+KBS0714_02082	CDS	hspR	Putative heat shock protein HspR
+KBS0714_02082	gene	hspR
+KBS0714_02083	CDS	dnaJ_2	Chaperone protein DnaJ
+KBS0714_02083	gene	dnaJ_2
+KBS0714_02084	CDS	grpE	Protein GrpE
+KBS0714_02084	gene	grpE
+KBS0714_02085	CDS	hypothetical protein
+KBS0714_02085	gene
+KBS0714_02086	CDS	paaI_2	3.1.2.-	Acyl-coenzyme A thioesterase PaaI
+KBS0714_02086	gene	paaI_2
+KBS0714_02087	CDS	paaK	6.2.1.30	Phenylacetate-coenzyme A ligase
+KBS0714_02087	gene	paaK
+KBS0714_02088	CDS	kstR2	HTH-type transcriptional repressor KstR2
+KBS0714_02088	gene	kstR2
+KBS0714_02089	CDS	hypothetical protein
+KBS0714_02089	gene
+KBS0714_02090	CDS	lcdH	1.1.1.108	L-carnitine dehydrogenase
+KBS0714_02090	gene	lcdH
+KBS0714_02091	CDS	paaZ_2	Bifunctional protein PaaZ
+KBS0714_02091	gene	paaZ_2
+KBS0714_02092	CDS	hypothetical protein
+KBS0714_02092	gene
+KBS0714_02093	CDS	panD	4.1.1.11	Aspartate 1-decarboxylase
+KBS0714_02093	gene	panD
+KBS0714_02094	CDS	hypothetical protein
+KBS0714_02094	gene
+KBS0714_02095	CDS	hypothetical protein
+KBS0714_02095	gene
+KBS0714_02096	CDS	hbd	1.1.1.157	3-hydroxybutyryl-CoA dehydrogenase
+KBS0714_02096	gene	hbd
+KBS0714_02097	CDS	crt_2	4.2.1.150	Short-chain-enoyl-CoA hydratase
+KBS0714_02097	gene	crt_2
+KBS0714_02098	CDS	paaJ	2.3.1.174	3-oxoadipyl-CoA/3-oxo-5,6-dehydrosuberyl-CoA thiolase
+KBS0714_02098	gene	paaJ
+KBS0714_02099	CDS	hypothetical protein
+KBS0714_02099	gene
+KBS0714_02100	CDS	yhjE_2	Inner membrane metabolite transport protein YhjE
+KBS0714_02100	gene	yhjE_2
+KBS0714_02101	CDS	echA8_3	4.2.1.17	putative enoyl-CoA hydratase echA8
+KBS0714_02101	gene	echA8_3
+KBS0714_02102	CDS	paaE	1.-.-.-	1,2-phenylacetyl-CoA epoxidase, subunit E
+KBS0714_02102	gene	paaE
+KBS0714_02103	CDS	paaD	Putative 1,2-phenylacetyl-CoA epoxidase, subunit D
+KBS0714_02103	gene	paaD
+KBS0714_02104	CDS	paaC	1,2-phenylacetyl-CoA epoxidase, subunit C
+KBS0714_02104	gene	paaC
+KBS0714_02105	CDS	paaB	1,2-phenylacetyl-CoA epoxidase, subunit B
+KBS0714_02105	gene	paaB
+KBS0714_02106	CDS	paaA	1.14.13.149	1,2-phenylacetyl-CoA epoxidase, subunit A
+KBS0714_02106	gene	paaA
+KBS0714_02107	CDS	hypothetical protein
+KBS0714_02107	gene
+KBS0714_02108	CDS	hypothetical protein
+KBS0714_02108	gene
+KBS0714_02109	CDS	mobA	1.14.13.23	3-hydroxybenzoate 4-monooxygenase
+KBS0714_02109	gene	mobA
+KBS0714_02110	CDS	yiaJ	DNA-binding transcriptional repressor YiaJ
+KBS0714_02110	gene	yiaJ
+KBS0714_02111	CDS	pat	2.6.1.-	Putative phenylalanine aminotransferase
+KBS0714_02111	gene	pat
+KBS0714_02112	CDS	hypothetical protein
+KBS0714_02112	gene
+KBS0714_02113	CDS	cwlS_2	3.4.19.11	D-gamma-glutamyl-meso-diaminopimelic acid endopeptidase CwlS
+KBS0714_02113	gene	cwlS_2
+KBS0714_02114	CDS	hcaC	3-phenylpropionate/cinnamic acid dioxygenase ferredoxin subunit
+KBS0714_02114	gene	hcaC
+KBS0714_02115	CDS	bedA	1.18.1.3	Benzene 1,2-dioxygenase system ferredoxin--NAD(+) reductase subunit
+KBS0714_02115	gene	bedA
+KBS0714_02116	CDS	hypothetical protein
+KBS0714_02116	gene
+KBS0714_02117	CDS	hypothetical protein
+KBS0714_02117	gene
+KBS0714_02118	CDS	bphF	4.1.3.39	4-hydroxy-2-oxovalerate aldolase
+KBS0714_02118	gene	bphF
+KBS0714_02119	CDS	hpcG	4.2.1.163	2-oxo-hept-4-ene-1,7-dioate hydratase
+KBS0714_02119	gene	hpcG
+KBS0714_02120	CDS	bphC	1.13.11.39	Manganese-dependent 2,3-dihydroxybiphenyl 1,2-dioxygenase
+KBS0714_02120	gene	bphC
+KBS0714_02121	CDS	puuC	1.2.1.5	Aldehyde dehydrogenase PuuC
+KBS0714_02121	gene	puuC
+KBS0714_02122	CDS	hypothetical protein
+KBS0714_02122	gene
+KBS0714_02123	CDS	hpcE	Homoprotocatechuate catabolism bifunctional isomerase/decarboxylase
+KBS0714_02123	gene	hpcE
+KBS0714_02124	CDS	lysN	2.6.1.39	2-aminoadipate transaminase
+KBS0714_02124	gene	lysN
+KBS0714_02125	CDS	hypothetical protein
+KBS0714_02125	gene
+KBS0714_02126	CDS	citE_2	4.1.3.6	Citrate lyase subunit beta
+KBS0714_02126	gene	citE_2
+KBS0714_02127	CDS	hypothetical protein
+KBS0714_02127	gene
+KBS0714_02128	CDS	pdxS	4.3.3.6	Pyridoxal 5'-phosphate synthase subunit PdxS
+KBS0714_02128	gene	pdxS
+KBS0714_02129	CDS	pdxT	4.3.3.6	Pyridoxal 5'-phosphate synthase subunit PdxT
+KBS0714_02129	gene	pdxT
+KBS0714_02130	CDS	ald	1.4.1.1	Alanine dehydrogenase
+KBS0714_02130	gene	ald
+KBS0714_02131	CDS	hypothetical protein
+KBS0714_02131	gene
+KBS0714_02132	CDS	glcC	Glc operon transcriptional activator
+KBS0714_02132	gene	glcC
+KBS0714_02133	CDS	lutP	L-lactate permease
+KBS0714_02133	gene	lutP
+KBS0714_02134	CDS	lutA	Lactate utilization protein A
+KBS0714_02134	gene	lutA
+KBS0714_02135	CDS	lutB	Lactate utilization protein B
+KBS0714_02135	gene	lutB
+KBS0714_02136	CDS	lutC	Lactate utilization protein C
+KBS0714_02136	gene	lutC
+KBS0714_02137	CDS	hypothetical protein
+KBS0714_02137	gene
+KBS0714_02138	CDS	putP_3	High-affinity proline transporter PutP
+KBS0714_02138	gene	putP_3
+KBS0714_02139	CDS	hypothetical protein
+KBS0714_02139	gene
+KBS0714_02140	CDS	hypothetical protein
+KBS0714_02140	gene
+KBS0714_02141	tRNA	tRNA-Ala(cgc)
+KBS0714_02141	gene
+KBS0714_02142	CDS	pimA	2.4.1.57	Phosphatidyl-myo-inositol mannosyltransferase
+KBS0714_02142	gene	pimA
+KBS0714_02143	CDS	hypothetical protein
+KBS0714_02143	gene
+KBS0714_02144	CDS	hypothetical protein
+KBS0714_02144	gene
+KBS0714_02145	CDS	hypothetical protein
+KBS0714_02145	gene
+KBS0714_02146	CDS	hyaD	2.4.1.212	Hyaluronan synthase
+KBS0714_02146	gene	hyaD
+KBS0714_02147	CDS	hypothetical protein
+KBS0714_02147	gene
+KBS0714_02148	CDS	hypothetical protein
+KBS0714_02148	gene
+KBS0714_02149	CDS	hypothetical protein
+KBS0714_02149	gene
+KBS0714_02150	CDS	hypothetical protein
+KBS0714_02150	gene
+KBS0714_02151	CDS	phoD_2	3.1.3.1	Alkaline phosphatase D
+KBS0714_02151	gene	phoD_2
+KBS0714_02152	CDS	hypothetical protein
+KBS0714_02152	gene
+KBS0714_02153	CDS	hypothetical protein
+KBS0714_02153	gene
+KBS0714_02154	CDS	hypothetical protein
+KBS0714_02154	gene
+KBS0714_02155	CDS	hypothetical protein
+KBS0714_02155	gene
+KBS0714_02156	CDS	dbpA	3.6.4.13	ATP-dependent RNA helicase DbpA
+KBS0714_02156	gene	dbpA
+KBS0714_02157	CDS	hypothetical protein
+KBS0714_02157	gene
+KBS0714_02158	CDS	hypothetical protein
+KBS0714_02158	gene
+KBS0714_02159	CDS	hypothetical protein
+KBS0714_02159	gene
+KBS0714_02160	CDS	hypothetical protein
+KBS0714_02160	gene
+KBS0714_02161	CDS	prkC_1	2.7.11.1	Serine/threonine-protein kinase PrkC
+KBS0714_02161	gene	prkC_1
+KBS0714_02162	CDS	hypothetical protein
+KBS0714_02162	gene
+KBS0714_02163	CDS	hypothetical protein
+KBS0714_02163	gene
+KBS0714_02164	CDS	glnA2	6.3.1.2	Glutamine synthetase 2
+KBS0714_02164	gene	glnA2
+KBS0714_02165	CDS	glnE	Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme
+KBS0714_02165	gene	glnE
+KBS0714_02166	CDS	luxA_3	1.14.14.3	Alkanal monooxygenase alpha chain
+KBS0714_02166	gene	luxA_3
+KBS0714_02167	CDS	hypothetical protein
+KBS0714_02167	gene
+KBS0714_02168	CDS	hypothetical protein
+KBS0714_02168	gene
+KBS0714_02169	CDS	hypothetical protein
+KBS0714_02169	gene
+KBS0714_02170	CDS	lipA	2.8.1.8	Lipoyl synthase
+KBS0714_02170	gene	lipA
+KBS0714_02171	CDS	lipB	2.3.1.181	Octanoyltransferase
+KBS0714_02171	gene	lipB
+KBS0714_02172	CDS	prkC_2	2.7.11.1	Serine/threonine-protein kinase PrkC
+KBS0714_02172	gene	prkC_2
+KBS0714_02173	CDS	hypothetical protein
+KBS0714_02173	gene
+KBS0714_02174	CDS	aceF	2.3.1.12	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+KBS0714_02174	gene	aceF
+KBS0714_02175	CDS	pdhD	1.8.1.4	Dihydrolipoyl dehydrogenase
+KBS0714_02175	gene	pdhD
+KBS0714_02176	CDS	pepA	3.4.11.1	putative cytosol aminopeptidase
+KBS0714_02176	gene	pepA
+KBS0714_02177	CDS	hypothetical protein
+KBS0714_02177	gene
+KBS0714_02178	CDS	hypothetical protein
+KBS0714_02178	gene
+KBS0714_02179	CDS	hrdB	RNA polymerase principal sigma factor HrdB
+KBS0714_02179	gene	hrdB
+KBS0714_02180	CDS	hypothetical protein
+KBS0714_02180	gene
+KBS0714_02181	CDS	gyrB_2	5.99.1.3	DNA gyrase subunit B
+KBS0714_02181	gene	gyrB_2
+KBS0714_02182	CDS	3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase
+KBS0714_02182	gene
+KBS0714_02183	CDS	lcfB_4	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+KBS0714_02183	gene	lcfB_4
+KBS0714_02184	CDS	fabH_2	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+KBS0714_02184	gene	fabH_2
+KBS0714_02185	CDS	htpX	3.4.24.-	Protease HtpX
+KBS0714_02185	gene	htpX
+KBS0714_02186	CDS	blaI	Transcriptional regulator BlaI
+KBS0714_02186	gene	blaI
+KBS0714_02187	CDS	hypothetical protein
+KBS0714_02187	gene
+KBS0714_02188	CDS	cydB	1.10.3.14	Cytochrome bd-I ubiquinol oxidase subunit 2
+KBS0714_02188	gene	cydB
+KBS0714_02189	CDS	hypothetical protein
+KBS0714_02189	gene
+KBS0714_02190	CDS	putative ABC transporter ATP-binding protein
+KBS0714_02190	gene
+KBS0714_02191	CDS	gyrA_2	5.99.1.3	DNA gyrase subunit A
+KBS0714_02191	gene	gyrA_2
+KBS0714_02192	CDS	2.3.1.-	Acetyltransferase Pat
+KBS0714_02192	gene
+KBS0714_02193	CDS	hypothetical protein
+KBS0714_02193	gene
+KBS0714_02194	CDS	hypothetical protein
+KBS0714_02194	gene
+KBS0714_02195	CDS	hypothetical protein
+KBS0714_02195	gene
+KBS0714_02196	CDS	hypothetical protein
+KBS0714_02196	gene
+KBS0714_02197	CDS	hypothetical protein
+KBS0714_02197	gene
+KBS0714_02198	CDS	dut	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+KBS0714_02198	gene	dut
+KBS0714_02199	CDS	hypothetical protein
+KBS0714_02199	gene
+KBS0714_02200	CDS	hypothetical protein
+KBS0714_02200	gene
+KBS0714_02201	CDS	hypothetical protein
+KBS0714_02201	gene
+KBS0714_02202	CDS	trkA_1	Trk system potassium uptake protein TrkA
+KBS0714_02202	gene	trkA_1
+KBS0714_02203	CDS	trkA_2	Trk system potassium uptake protein TrkA
+KBS0714_02203	gene	trkA_2
+KBS0714_02204	CDS	hypothetical protein
+KBS0714_02204	gene
+KBS0714_02205	CDS	rlmCD	2.1.1.189	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+KBS0714_02205	gene	rlmCD
+KBS0714_02206	CDS	acnA	4.2.1.3	Aconitate hydratase A
+KBS0714_02206	gene	acnA
+KBS0714_02207	CDS	hypothetical protein
+KBS0714_02207	gene
+KBS0714_02208	CDS	hypothetical protein
+KBS0714_02208	gene
+KBS0714_02209	CDS	ribH	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+KBS0714_02209	gene	ribH
+KBS0714_02210	CDS	ribBA_2	Riboflavin biosynthesis protein RibBA
+KBS0714_02210	gene	ribBA_2
+KBS0714_02211	CDS	ribE	2.5.1.9	Riboflavin synthase
+KBS0714_02211	gene	ribE
+KBS0714_02212	CDS	ribD	Riboflavin biosynthesis protein RibD
+KBS0714_02212	gene	ribD
+KBS0714_02213	CDS	hypothetical protein
+KBS0714_02213	gene
+KBS0714_02214	CDS	rpe	5.1.3.1	Ribulose-phosphate 3-epimerase
+KBS0714_02214	gene	rpe
+KBS0714_02215	CDS	2.1.1.-	Putative methyltransferase
+KBS0714_02215	gene
+KBS0714_02216	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+KBS0714_02216	gene	fmt
+KBS0714_02217	CDS	def_2	3.5.1.88	Peptide deformylase
+KBS0714_02217	gene	def_2
+KBS0714_02218	CDS	hypothetical protein
+KBS0714_02218	gene
+KBS0714_02219	tRNA	tRNA-Gly(gcc)
+KBS0714_02219	gene
+KBS0714_02220	tRNA	tRNA-Cys(gca)
+KBS0714_02220	gene
+KBS0714_02221	tRNA	tRNA-Val(gac)
+KBS0714_02221	gene
+KBS0714_02222	tRNA	tRNA-Gly(gcc)
+KBS0714_02222	gene
+KBS0714_02223	CDS	zapE	Cell division protein ZapE
+KBS0714_02223	gene	zapE
+KBS0714_02224	CDS	sseA	2.8.1.1	Putative thiosulfate sulfurtransferase SseA
+KBS0714_02224	gene	sseA
+KBS0714_02225	CDS	putative SufE-like protein
+KBS0714_02225	gene
+KBS0714_02226	CDS	ybaK	4.2.-.-	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+KBS0714_02226	gene	ybaK
+KBS0714_02227	CDS	pgsA	2.7.8.11	CDP-diacylglycerol--inositol 3-phosphatidyltransferase
+KBS0714_02227	gene	pgsA
+KBS0714_02228	CDS	2.7.7.53	AP-4-A phosphorylase
+KBS0714_02228	gene
+KBS0714_02229	CDS	thrS	6.1.1.3	Threonine--tRNA ligase
+KBS0714_02229	gene	thrS
+KBS0714_02230	CDS	hypothetical protein
+KBS0714_02230	gene
+KBS0714_02231	CDS	dnaE2	2.7.7.7	Error-prone DNA polymerase
+KBS0714_02231	gene	dnaE2
+KBS0714_02232	CDS	hypothetical protein
+KBS0714_02232	gene
+KBS0714_02233	CDS	hypothetical protein
+KBS0714_02233	gene
+KBS0714_02234	CDS	hypothetical protein
+KBS0714_02234	gene
+KBS0714_02235	CDS	hypothetical protein
+KBS0714_02235	gene
+KBS0714_02236	CDS	hypothetical protein
+KBS0714_02236	gene
+KBS0714_02237	CDS	yedK	3.4.-.-	Putative SOS response-associated peptidase YedK
+KBS0714_02237	gene	yedK
+KBS0714_02238	CDS	hypothetical protein
+KBS0714_02238	gene
+KBS0714_02239	CDS	1.1.1.306	S-(hydroxymethyl)mycothiol dehydrogenase
+KBS0714_02239	gene
+KBS0714_02240	CDS	gloC_2	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+KBS0714_02240	gene	gloC_2
+KBS0714_02241	CDS	udk_2	2.7.1.48	Uridine kinase
+KBS0714_02241	gene	udk_2
+KBS0714_02242	CDS	hypothetical protein
+KBS0714_02242	gene
+KBS0714_02243	CDS	1.1.1.1	putative zinc-binding alcohol dehydrogenase
+KBS0714_02243	gene
+KBS0714_02244	CDS	lcfB_5	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+KBS0714_02244	gene	lcfB_5
+KBS0714_02245	CDS	hypothetical protein
+KBS0714_02245	gene
+KBS0714_02246	CDS	hypothetical protein
+KBS0714_02246	gene
+KBS0714_02247	CDS	hypothetical protein
+KBS0714_02247	gene
+KBS0714_02248	CDS	hypothetical protein
+KBS0714_02248	gene
+KBS0714_02249	CDS	glpK	2.7.1.30	Glycerol kinase
+KBS0714_02249	gene	glpK
+KBS0714_02250	CDS	glpD2	1.1.5.3	Glycerol-3-phosphate dehydrogenase 2
+KBS0714_02250	gene	glpD2
+KBS0714_02251	CDS	hypothetical protein
+KBS0714_02251	gene
+KBS0714_02252	CDS	hypothetical protein
+KBS0714_02252	gene
+KBS0714_02253	CDS	hypothetical protein
+KBS0714_02253	gene
+KBS0714_02254	CDS	hypothetical protein
+KBS0714_02254	gene
+KBS0714_02255	CDS	hypothetical protein
+KBS0714_02255	gene
+KBS0714_02256	CDS	hypothetical protein
+KBS0714_02256	gene
+KBS0714_02257	CDS	hypothetical protein
+KBS0714_02257	gene
+KBS0714_02258	CDS	hypothetical protein
+KBS0714_02258	gene
+KBS0714_02259	CDS	hypothetical protein
+KBS0714_02259	gene
+KBS0714_02260	CDS	hypothetical protein
+KBS0714_02260	gene
+KBS0714_02261	CDS	hypothetical protein
+KBS0714_02261	gene
+KBS0714_02262	CDS	hypothetical protein
+KBS0714_02262	gene
+KBS0714_02263	CDS	hypothetical protein
+KBS0714_02263	gene
+KBS0714_02264	CDS	yrbG	Inner membrane protein YrbG
+KBS0714_02264	gene	yrbG
+KBS0714_02265	CDS	hypothetical protein
+KBS0714_02265	gene
+KBS0714_02266	CDS	hypothetical protein
+KBS0714_02266	gene
+KBS0714_02267	CDS	hypothetical protein
+KBS0714_02267	gene
+repeat_region
