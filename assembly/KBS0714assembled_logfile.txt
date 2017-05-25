@@ -1,0 +1,905 @@
+May 24 13:32:23
+Will run velvet optimiser with the following paramters:
+	Velveth parameter string:
+		-shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+	Velveth start hash values:	31
+	Velveth end hash value:		71
+	Velveth hash step value:		2
+
+	Read tracking for final assembly off.
+May 24 13:32:23
+
+	Beginning velveth runs.
+********************************************************
+Assembly id: 3
+Velveth timestamp: May 24 2017 13:34:31
+Velveth version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_35 35 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_35
+Velvet hash value: 35
+Roadmap file size: 78926130
+**********************************************************
+********************************************************
+Assembly id: 4
+Velveth timestamp: May 24 2017 13:34:37
+Velveth version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_37 37 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_37
+Velvet hash value: 37
+Roadmap file size: 78003630
+**********************************************************
+********************************************************
+Assembly id: 5
+Velveth timestamp: May 24 2017 13:34:49
+Velveth version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_39 39 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_39
+Velvet hash value: 39
+Roadmap file size: 76542041
+**********************************************************
+********************************************************
+Assembly id: 6
+Velveth timestamp: May 24 2017 13:34:51
+Velveth version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_41 41 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_41
+Velvet hash value: 41
+Roadmap file size: 75804118
+**********************************************************
+********************************************************
+Assembly id: 1
+Velveth timestamp: May 24 2017 13:34:52
+Velveth version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_31 31 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_31
+Velvet hash value: 31
+Roadmap file size: 81346116
+**********************************************************
+********************************************************
+Assembly id: 7
+Velveth timestamp: May 24 2017 13:34:54
+Velveth version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_43 43 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_43
+Velvet hash value: 43
+Roadmap file size: 75057193
+**********************************************************
+********************************************************
+Assembly id: 2
+Velveth timestamp: May 24 2017 13:34:56
+Velveth version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_33 33 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_33
+Velvet hash value: 33
+Roadmap file size: 80355574
+**********************************************************
+********************************************************
+Assembly id: 8
+Velveth timestamp: May 24 2017 13:34:57
+Velveth version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_45 45 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_45
+Velvet hash value: 45
+Roadmap file size: 73559093
+**********************************************************
+********************************************************
+Assembly id: 10
+Velveth timestamp: May 24 2017 13:36:37
+Velveth version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_49 49 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_49
+Velvet hash value: 49
+Roadmap file size: 71513567
+**********************************************************
+********************************************************
+Assembly id: 11
+Velveth timestamp: May 24 2017 13:36:54
+Velveth version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_51 51 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_51
+Velvet hash value: 51
+Roadmap file size: 70937899
+**********************************************************
+********************************************************
+Assembly id: 9
+Velveth timestamp: May 24 2017 13:36:55
+Velveth version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_47 47 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_47
+Velvet hash value: 47
+Roadmap file size: 72641795
+**********************************************************
+********************************************************
+Assembly id: 13
+Velveth timestamp: May 24 2017 13:36:58
+Velveth version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_55 55 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_55
+Velvet hash value: 55
+Roadmap file size: 69012978
+**********************************************************
+********************************************************
+Assembly id: 15
+Velveth timestamp: May 24 2017 13:37:03
+Velveth version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_59 59 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_59
+Velvet hash value: 59
+Roadmap file size: 67367578
+**********************************************************
+********************************************************
+Assembly id: 16
+Velveth timestamp: May 24 2017 13:37:04
+Velveth version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_61 61 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_61
+Velvet hash value: 61
+Roadmap file size: 66369343
+**********************************************************
+********************************************************
+Assembly id: 12
+Velveth timestamp: May 24 2017 13:37:05
+Velveth version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_53 53 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_53
+Velvet hash value: 53
+Roadmap file size: 70096326
+**********************************************************
+********************************************************
+Assembly id: 14
+Velveth timestamp: May 24 2017 13:37:05
+Velveth version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_57 57 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_57
+Velvet hash value: 57
+Roadmap file size: 68072611
+**********************************************************
+********************************************************
+Assembly id: 17
+Velveth timestamp: May 24 2017 13:37:14
+Velveth version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_63 63 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_63
+Velvet hash value: 63
+Roadmap file size: 65493419
+**********************************************************
+********************************************************
+Assembly id: 20
+Velveth timestamp: May 24 2017 13:37:52
+Velveth version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_69 69 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_69
+Velvet hash value: 69
+Roadmap file size: 62621533
+**********************************************************
+********************************************************
+Assembly id: 18
+Velveth timestamp: May 24 2017 13:37:53
+Velveth version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_65 65 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_65
+Velvet hash value: 65
+Roadmap file size: 64499792
+**********************************************************
+********************************************************
+Assembly id: 19
+Velveth timestamp: May 24 2017 13:37:53
+Velveth version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_67 67 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_67
+Velvet hash value: 67
+Roadmap file size: 63709873
+**********************************************************
+********************************************************
+Assembly id: 21
+Velveth timestamp: May 24 2017 13:37:54
+Velveth version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_71 71 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_71
+Velvet hash value: 71
+Roadmap file size: 61815006
+**********************************************************
+May 24 13:37:54
+
+	Beginning vanilla velvetg runs.
+********************************************************
+Assembly id: 7
+Assembly score: 6419196
+Velveth timestamp: May 24 2017 13:34:54
+Velvetg timestamp: May 24 2017 13:39:58
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_43 43 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_43  -clean yes
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_43
+Velvet hash value: 43
+Roadmap file size: 75057193
+Total number of contigs: 5292
+n50: 1213
+length of longest contig: 8590
+Total bases in contigs: 2874673
+Number of contigs > 1k: 876
+Total bases in contigs > 1k: 1660454
+**********************************************************
+********************************************************
+Assembly id: 6
+Assembly score: 6292152
+Velveth timestamp: May 24 2017 13:34:51
+Velvetg timestamp: May 24 2017 13:39:58
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_41 41 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_41  -clean yes
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_41
+Velvet hash value: 41
+Roadmap file size: 75804118
+Total number of contigs: 6744
+n50: 933
+length of longest contig: 6897
+Total bases in contigs: 2967023
+Number of contigs > 1k: 817
+Total bases in contigs > 1k: 1413430
+**********************************************************
+********************************************************
+Assembly id: 5
+Assembly score: 5988870
+Velveth timestamp: May 24 2017 13:34:49
+Velvetg timestamp: May 24 2017 13:39:57
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_39 39 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_39  -clean yes
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_39
+Velvet hash value: 39
+Roadmap file size: 76542041
+Total number of contigs: 8115
+n50: 738
+length of longest contig: 5899
+Total bases in contigs: 3046773
+Number of contigs > 1k: 709
+Total bases in contigs > 1k: 1148855
+**********************************************************
+********************************************************
+Assembly id: 8
+Assembly score: 6426300
+Velveth timestamp: May 24 2017 13:34:57
+Velvetg timestamp: May 24 2017 13:39:59
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_45 45 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_45  -clean yes
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_45
+Velvet hash value: 45
+Roadmap file size: 73559093
+Total number of contigs: 4146
+n50: 1550
+length of longest contig: 8644
+Total bases in contigs: 2790659
+Number of contigs > 1k: 883
+Total bases in contigs > 1k: 1862321
+**********************************************************
+********************************************************
+Assembly id: 4
+Assembly score: 5829200
+Velveth timestamp: May 24 2017 13:34:37
+Velvetg timestamp: May 24 2017 13:39:57
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_37 37 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_37  -clean yes
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_37
+Velvet hash value: 37
+Roadmap file size: 78003630
+Total number of contigs: 9880
+n50: 590
+length of longest contig: 4189
+Total bases in contigs: 3135234
+Number of contigs > 1k: 586
+Total bases in contigs > 1k: 880871
+**********************************************************
+********************************************************
+Assembly id: 3
+Assembly score: 5579693
+Velveth timestamp: May 24 2017 13:34:31
+Velvetg timestamp: May 24 2017 13:39:58
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_35 35 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_35  -clean yes
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_35
+Velvet hash value: 35
+Roadmap file size: 78926130
+Total number of contigs: 11897
+n50: 469
+length of longest contig: 4189
+Total bases in contigs: 3226931
+Number of contigs > 1k: 455
+Total bases in contigs > 1k: 632988
+**********************************************************
+********************************************************
+Assembly id: 2
+Assembly score: 5327920
+Velveth timestamp: May 24 2017 13:34:56
+Velvetg timestamp: May 24 2017 13:39:57
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_33 33 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_33  -clean yes
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_33
+Velvet hash value: 33
+Roadmap file size: 80355574
+Total number of contigs: 14170
+n50: 376
+length of longest contig: 2985
+Total bases in contigs: 3328997
+Number of contigs > 1k: 322
+Total bases in contigs > 1k: 432428
+**********************************************************
+********************************************************
+Assembly id: 1
+Assembly score: 5135427
+Velveth timestamp: May 24 2017 13:34:52
+Velvetg timestamp: May 24 2017 13:39:59
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_31 31 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_31  -clean yes
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_31
+Velvet hash value: 31
+Roadmap file size: 81346116
+Total number of contigs: 17291
+n50: 297
+length of longest contig: 2088
+Total bases in contigs: 3446514
+Number of contigs > 1k: 215
+Total bases in contigs > 1k: 270396
+**********************************************************
+********************************************************
+Assembly id: 10
+Assembly score: 6503520
+Velveth timestamp: May 24 2017 13:36:37
+Velvetg timestamp: May 24 2017 13:41:06
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_49 49 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_49  -clean yes
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_49
+Velvet hash value: 49
+Roadmap file size: 71513567
+Total number of contigs: 2040
+n50: 3188
+length of longest contig: 17098
+Total bases in contigs: 2620215
+Number of contigs > 1k: 746
+Total bases in contigs > 1k: 2215713
+**********************************************************
+********************************************************
+Assembly id: 9
+Assembly score: 6548856
+Velveth timestamp: May 24 2017 13:36:55
+Velvetg timestamp: May 24 2017 13:41:06
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_47 47 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_47  -clean yes
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_47
+Velvet hash value: 47
+Roadmap file size: 72641795
+Total number of contigs: 3092
+n50: 2118
+length of longest contig: 14749
+Total bases in contigs: 2709763
+Number of contigs > 1k: 853
+Total bases in contigs > 1k: 2054462
+**********************************************************
+********************************************************
+Assembly id: 11
+Assembly score: 6262416
+Velveth timestamp: May 24 2017 13:36:54
+Velvetg timestamp: May 24 2017 13:41:14
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_51 51 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_51  -clean yes
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_51
+Velvet hash value: 51
+Roadmap file size: 70937899
+Total number of contigs: 1256
+n50: 4986
+length of longest contig: 30704
+Total bases in contigs: 2556384
+Number of contigs > 1k: 595
+Total bases in contigs > 1k: 2340846
+**********************************************************
+********************************************************
+Assembly id: 12
+Assembly score: 7936584
+Velveth timestamp: May 24 2017 13:37:05
+Velvetg timestamp: May 24 2017 13:41:26
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_53 53 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_53  -clean yes
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_53
+Velvet hash value: 53
+Roadmap file size: 70096326
+Total number of contigs: 953
+n50: 8328
+length of longest contig: 37657
+Total bases in contigs: 2541937
+Number of contigs > 1k: 433
+Total bases in contigs > 1k: 2400799
+**********************************************************
+********************************************************
+Assembly id: 13
+Assembly score: 8946074
+Velveth timestamp: May 24 2017 13:36:58
+Velvetg timestamp: May 24 2017 13:41:31
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_55 55 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_55  -clean yes
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_55
+Velvet hash value: 55
+Roadmap file size: 69012978
+Total number of contigs: 893
+n50: 10018
+length of longest contig: 41359
+Total bases in contigs: 2539628
+Number of contigs > 1k: 369
+Total bases in contigs > 1k: 2423433
+**********************************************************
+********************************************************
+Assembly id: 14
+Assembly score: 7870125
+Velveth timestamp: May 24 2017 13:37:05
+Velvetg timestamp: May 24 2017 13:41:34
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_57 57 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_57  -clean yes
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_57
+Velvet hash value: 57
+Roadmap file size: 68072611
+Total number of contigs: 775
+n50: 10155
+length of longest contig: 45694
+Total bases in contigs: 2530432
+Number of contigs > 1k: 360
+Total bases in contigs > 1k: 2439998
+**********************************************************
+********************************************************
+Assembly id: 15
+Assembly score: 7190208
+Velveth timestamp: May 24 2017 13:37:03
+Velvetg timestamp: May 24 2017 13:41:36
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_59 59 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_59  -clean yes
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_59
+Velvet hash value: 59
+Roadmap file size: 67367578
+Total number of contigs: 657
+n50: 10944
+length of longest contig: 46897
+Total bases in contigs: 2520306
+Number of contigs > 1k: 338
+Total bases in contigs > 1k: 2443310
+**********************************************************
+********************************************************
+Assembly id: 16
+Assembly score: 6632636
+Velveth timestamp: May 24 2017 13:37:04
+Velvetg timestamp: May 24 2017 13:41:36
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_61 61 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_61  -clean yes
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_61
+Velvet hash value: 61
+Roadmap file size: 66369343
+Total number of contigs: 601
+n50: 11036
+length of longest contig: 36019
+Total bases in contigs: 2514726
+Number of contigs > 1k: 334
+Total bases in contigs > 1k: 2446725
+**********************************************************
+********************************************************
+Assembly id: 17
+Assembly score: 6320184
+Velveth timestamp: May 24 2017 13:37:14
+Velvetg timestamp: May 24 2017 13:42:16
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_63 63 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_63  -clean yes
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_63
+Velvet hash value: 63
+Roadmap file size: 65493419
+Total number of contigs: 611
+n50: 10344
+length of longest contig: 40167
+Total bases in contigs: 2514403
+Number of contigs > 1k: 357
+Total bases in contigs > 1k: 2450032
+**********************************************************
+********************************************************
+Assembly id: 19
+Assembly score: 4962892
+Velveth timestamp: May 24 2017 13:37:53
+Velvetg timestamp: May 24 2017 13:42:17
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_67 67 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_67  -clean yes
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_67
+Velvet hash value: 67
+Roadmap file size: 63709873
+Total number of contigs: 596
+n50: 8327
+length of longest contig: 28438
+Total bases in contigs: 2509033
+Number of contigs > 1k: 408
+Total bases in contigs > 1k: 2440182
+**********************************************************
+********************************************************
+Assembly id: 18
+Assembly score: 5404602
+Velveth timestamp: May 24 2017 13:37:53
+Velvetg timestamp: May 24 2017 13:42:17
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_65 65 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_65  -clean yes
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_65
+Velvet hash value: 65
+Roadmap file size: 64499792
+Total number of contigs: 593
+n50: 9114
+length of longest contig: 37415
+Total bases in contigs: 2511200
+Number of contigs > 1k: 376
+Total bases in contigs > 1k: 2443954
+**********************************************************
+********************************************************
+Assembly id: 20
+Assembly score: 4445059
+Velveth timestamp: May 24 2017 13:37:52
+Velvetg timestamp: May 24 2017 13:42:20
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_69 69 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_69  -clean yes
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_69
+Velvet hash value: 69
+Roadmap file size: 62621533
+Total number of contigs: 643
+n50: 6913
+length of longest contig: 28438
+Total bases in contigs: 2509598
+Number of contigs > 1k: 462
+Total bases in contigs > 1k: 2437379
+**********************************************************
+********************************************************
+Assembly id: 21
+Assembly score: 4466840
+Velveth timestamp: May 24 2017 13:37:54
+Velvetg timestamp: May 24 2017 13:42:20
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_71 71 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_71  -clean yes
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_71
+Velvet hash value: 71
+Roadmap file size: 61815006
+Total number of contigs: 742
+n50: 6020
+length of longest contig: 25680
+Total bases in contigs: 2515075
+Number of contigs > 1k: 524
+Total bases in contigs > 1k: 2418436
+**********************************************************
+May 24 13:42:21 Best assembly by assembly score - assembly id: 13
+May 24 13:42:21 Optimisation routine chosen for best assembly: shortPaired
+May 24 13:42:21 Looking for the expected coverage
+May 24 13:42:23		Expected coverage set to 18
+********************************************************
+Assembly id: 13
+Assembly score: 8946074
+Velveth timestamp: May 24 2017 13:36:58
+Velvetg timestamp: May 24 2017 13:41:31
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_55 55 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_55  -clean yes -exp_cov 18
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_55
+Velvet hash value: 55
+Roadmap file size: 69012978
+Total number of contigs: 893
+n50: 10018
+length of longest contig: 41359
+Total bases in contigs: 2539628
+Number of contigs > 1k: 369
+Total bases in contigs > 1k: 2423433
+Paired Library insert stats:
+**********************************************************
+May 24 13:42:23 Setting the short insert length
+May 24 13:42:23 Setting assembly short insert length(s) to auto
+May 24 13:42:23 Beginning coverage cutoff optimisation
+May 24 13:42:24		Setting cov_cutoff to 8.899.
+********************************************************
+Assembly id: 13
+Assembly score: 2480212
+Velveth timestamp: May 24 2017 13:36:58
+Velvetg timestamp: May 24 2017 13:42:40
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_55 55 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_55  -clean yes -exp_cov 18 -cov_cutoff 8.8992
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_55
+Velvet hash value: 55
+Roadmap file size: 69012978
+Total number of contigs: 76
+n50: 122396
+length of longest contig: 340057
+Total bases in contigs: 2489087
+Number of contigs > 1k: 37
+Total bases in contigs > 1k: 2480212
+Paired Library insert stats:
+Paired-end library 1 has length: 267, sample standard deviation: 89
+Paired-end library 1 has length: 268, sample standard deviation: 90
+**********************************************************
+May 24 13:42:41		Setting cov_cutoff to 5.501.
+********************************************************
+Assembly id: 13
+Assembly score: 2480224
+Velveth timestamp: May 24 2017 13:36:58
+Velvetg timestamp: May 24 2017 13:42:51
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_55 55 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_55  -clean yes -exp_cov 18 -cov_cutoff 5.5008
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_55
+Velvet hash value: 55
+Roadmap file size: 69012978
+Total number of contigs: 85
+n50: 122396
+length of longest contig: 340076
+Total bases in contigs: 2490042
+Number of contigs > 1k: 37
+Total bases in contigs > 1k: 2480224
+Paired Library insert stats:
+Paired-end library 1 has length: 267, sample standard deviation: 89
+Paired-end library 1 has length: 268, sample standard deviation: 90
+**********************************************************
+		Looking for best cutoff score between 0.000 and 14.400
+		Max cutoff lies between 0.000 & 8.899
+May 24 13:42:51		Setting cov_cutoff to 3.399.
+********************************************************
+Assembly id: 13
+Assembly score: 2480294
+Velveth timestamp: May 24 2017 13:36:58
+Velvetg timestamp: May 24 2017 13:42:58
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_55 55 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_55  -clean yes -exp_cov 18 -cov_cutoff 3.3994944
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_55
+Velvet hash value: 55
+Roadmap file size: 69012978
+Total number of contigs: 102
+n50: 122396
+length of longest contig: 340077
+Total bases in contigs: 2493653
+Number of contigs > 1k: 37
+Total bases in contigs > 1k: 2480294
+Paired Library insert stats:
+Paired-end library 1 has length: 267, sample standard deviation: 89
+Paired-end library 1 has length: 268, sample standard deviation: 90
+**********************************************************
+		Max cutoff lies between 0.000 & 5.501
+May 24 13:42:58		Setting cov_cutoff to 2.101.
+********************************************************
+Assembly id: 13
+Assembly score: 2480419
+Velveth timestamp: May 24 2017 13:36:58
+Velvetg timestamp: May 24 2017 13:43:05
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_55 55 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_55  -clean yes -exp_cov 18 -cov_cutoff 2.1013056
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_55
+Velvet hash value: 55
+Roadmap file size: 69012978
+Total number of contigs: 114
+n50: 122396
+length of longest contig: 340077
+Total bases in contigs: 2495543
+Number of contigs > 1k: 37
+Total bases in contigs > 1k: 2480419
+Paired Library insert stats:
+Paired-end library 1 has length: 267, sample standard deviation: 89
+Paired-end library 1 has length: 268, sample standard deviation: 90
+**********************************************************
+		Max cutoff lies between 0.000 & 3.399
+May 24 13:43:05		Setting cov_cutoff to 1.299.
+********************************************************
+Assembly id: 13
+Assembly score: 2480413
+Velveth timestamp: May 24 2017 13:36:58
+Velvetg timestamp: May 24 2017 13:43:15
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_55 55 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_55  -clean yes -exp_cov 18 -cov_cutoff 1.2986068608
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_55
+Velvet hash value: 55
+Roadmap file size: 69012978
+Total number of contigs: 175
+n50: 138819
+length of longest contig: 340136
+Total bases in contigs: 2504280
+Number of contigs > 1k: 36
+Total bases in contigs > 1k: 2480413
+Paired Library insert stats:
+Paired-end library 1 has length: 267, sample standard deviation: 89
+Paired-end library 1 has length: 268, sample standard deviation: 90
+**********************************************************
+		Max cutoff lies between 1.299 & 3.399
+May 24 13:43:15		Setting cov_cutoff to 2.597.
+********************************************************
+Assembly id: 13
+Assembly score: 2480419
+Velveth timestamp: May 24 2017 13:36:58
+Velvetg timestamp: May 24 2017 13:43:22
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_55 55 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_55  -clean yes -exp_cov 18 -cov_cutoff 2.5969553600256
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_55
+Velvet hash value: 55
+Roadmap file size: 69012978
+Total number of contigs: 114
+n50: 122396
+length of longest contig: 340077
+Total bases in contigs: 2495543
+Number of contigs > 1k: 37
+Total bases in contigs > 1k: 2480419
+Paired Library insert stats:
+Paired-end library 1 has length: 267, sample standard deviation: 89
+Paired-end library 1 has length: 268, sample standard deviation: 90
+**********************************************************
+		Max cutoff lies between 1.299 & 2.597
+May 24 13:43:22		Setting cov_cutoff to 1.795.
+********************************************************
+Assembly id: 13
+Assembly score: 2480413
+Velveth timestamp: May 24 2017 13:36:58
+Velvetg timestamp: May 24 2017 13:43:29
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_55 55 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_55  -clean yes -exp_cov 18 -cov_cutoff 1.79457598750418
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_55
+Velvet hash value: 55
+Roadmap file size: 69012978
+Total number of contigs: 175
+n50: 138819
+length of longest contig: 340136
+Total bases in contigs: 2504280
+Number of contigs > 1k: 36
+Total bases in contigs > 1k: 2480413
+Paired Library insert stats:
+Paired-end library 1 has length: 267, sample standard deviation: 89
+Paired-end library 1 has length: 268, sample standard deviation: 90
+**********************************************************
+		Max cutoff lies between 1.795 & 2.597
+May 24 13:43:29		Setting cov_cutoff to 2.290.
+********************************************************
+Assembly id: 13
+Assembly score: 2480419
+Velveth timestamp: May 24 2017 13:36:58
+Velvetg timestamp: May 24 2017 13:43:36
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_55 55 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_55  -clean yes -exp_cov 18 -cov_cutoff 2.29044643972242
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_55
+Velvet hash value: 55
+Roadmap file size: 69012978
+Total number of contigs: 114
+n50: 122396
+length of longest contig: 340077
+Total bases in contigs: 2495543
+Number of contigs > 1k: 37
+Total bases in contigs > 1k: 2480419
+Paired Library insert stats:
+Paired-end library 1 has length: 267, sample standard deviation: 89
+Paired-end library 1 has length: 268, sample standard deviation: 90
+**********************************************************
+		Optimum value of cutoff is 2.60
+		Took 7 iterations
+May 24 13:43:37
+
+
+Final optimised assembly details:
+********************************************************
+Assembly id: 13
+Assembly score: 2480419
+Velveth timestamp: May 24 2017 13:36:58
+Velvetg timestamp: May 24 2017 13:43:36
+Velveth version: 1.2.10
+Velvetg version: 1.2.10
+Readfile(s): -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velveth parameter string: KBS0714assembled_data_55 55 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Velvetg parameter string: KBS0714assembled_data_55  -clean yes -exp_cov 18 -cov_cutoff 2.29044643972242
+Assembly directory: /N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_55
+Velvet hash value: 55
+Roadmap file size: 69012978
+Total number of contigs: 114
+n50: 122396
+length of longest contig: 340077
+Total bases in contigs: 2495543
+Number of contigs > 1k: 37
+Total bases in contigs > 1k: 2480419
+Paired Library insert stats:
+Paired-end library 1 has length: 267, sample standard deviation: 89
+Paired-end library 1 has length: 268, sample standard deviation: 90
+**********************************************************
+
+
+Assembly output files are in the following directory:
+/N/dc2/projects/Lennon_Sequences/2017_Micrococcus/KBS0714_test/KBS0714assembled_data_55
