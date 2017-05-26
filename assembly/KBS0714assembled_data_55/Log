@@ -1,0 +1,139 @@
+Wed May 24 13:34:54 2017
+ velveth KBS0714assembled_data_55 55 -shortPaired -fastq ./KBS0714.trim.interleaved.trim.fastq.pe.keep.pe
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 120
+OPENMP
+LONGSEQUENCES
+BIGASSEMBLY
+
+Wed May 24 13:40:08 2017
+ velvetg KBS0714assembled_data_55 -clean yes
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 120
+OPENMP
+LONGSEQUENCES
+BIGASSEMBLY
+
+Final graph has 1110 nodes and n50 of 10134, max 41305, total 2497955, using 0/1465106 reads
+Wed May 24 13:42:24 2017
+ velvetg KBS0714assembled_data_55 -clean yes -exp_cov 18 -cov_cutoff 8.8992
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 120
+OPENMP
+LONGSEQUENCES
+BIGASSEMBLY
+
+Final graph has 115 nodes and n50 of 122342, max 340003, total 2485722, using 1180565/1465106 reads
+Wed May 24 13:42:41 2017
+ velvetg KBS0714assembled_data_55 -clean yes -exp_cov 18 -cov_cutoff 5.5008
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 120
+OPENMP
+LONGSEQUENCES
+BIGASSEMBLY
+
+Final graph has 133 nodes and n50 of 122342, max 340022, total 2486321, using 1180636/1465106 reads
+Wed May 24 13:42:51 2017
+ velvetg KBS0714assembled_data_55 -clean yes -exp_cov 18 -cov_cutoff 3.3994944
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 120
+OPENMP
+LONGSEQUENCES
+BIGASSEMBLY
+
+Final graph has 154 nodes and n50 of 122342, max 340023, total 2489169, using 1180974/1465106 reads
+Wed May 24 13:42:58 2017
+ velvetg KBS0714assembled_data_55 -clean yes -exp_cov 18 -cov_cutoff 2.1013056
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 120
+OPENMP
+LONGSEQUENCES
+BIGASSEMBLY
+
+Final graph has 170 nodes and n50 of 122342, max 340023, total 2490561, using 1181086/1465106 reads
+Wed May 24 13:43:05 2017
+ velvetg KBS0714assembled_data_55 -clean yes -exp_cov 18 -cov_cutoff 1.2986068608
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 120
+OPENMP
+LONGSEQUENCES
+BIGASSEMBLY
+
+Final graph has 239 nodes and n50 of 138765, max 340082, total 2496219, using 1181387/1465106 reads
+Wed May 24 13:43:15 2017
+ velvetg KBS0714assembled_data_55 -clean yes -exp_cov 18 -cov_cutoff 2.5969553600256
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 120
+OPENMP
+LONGSEQUENCES
+BIGASSEMBLY
+
+Final graph has 170 nodes and n50 of 122342, max 340023, total 2490561, using 1181086/1465106 reads
+Wed May 24 13:43:22 2017
+ velvetg KBS0714assembled_data_55 -clean yes -exp_cov 18 -cov_cutoff 1.79457598750418
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 120
+OPENMP
+LONGSEQUENCES
+BIGASSEMBLY
+
+Final graph has 239 nodes and n50 of 138765, max 340082, total 2496219, using 1181387/1465106 reads
+Wed May 24 13:43:29 2017
+ velvetg KBS0714assembled_data_55 -clean yes -exp_cov 18 -cov_cutoff 2.29044643972242
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 120
+OPENMP
+LONGSEQUENCES
+BIGASSEMBLY
+
+Final graph has 170 nodes and n50 of 122342, max 340023, total 2490561, using 1181086/1465106 reads
