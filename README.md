@@ -4,33 +4,33 @@ Annotated genome assembly of Micrococcus luteus KBS0714 for Genome Announcement 
 
 ## Contents
 
-**KBS0714**
+**KBS0714**: 
 Inital Micrococcus KBS0714 genome annotation files. 
 
-**annotation**
+**annotation**: 
 Updated Micrococcus KBS0714 annotation files and shell script. 
 
-**assembly**
+**assembly**: 
 Updated genome assembly files. 
 
-**bin**
+**bin**: 
 Genome assembly and annotation shell script for processing raw sequence reads and annotation. 
 
-**maple**
+**maple**: 
 Excel file of MAPLE results. 
 
-## Software used and versions
-java 
-fastqc
-bioperl
-python
-gcc
-cutadapt
-khmer
-velvet
-VelvetOptimiser
-prokka
-MAPLE
+## Software used
+java,  
+fastqc, 
+bioperl, 
+python, 
+gcc, 
+cutadapt, 
+khmer, 
+velvet, 
+VelvetOptimiser, 
+prokka, 
+MAPLE, 
 
 ## Contributors 
 [Venus Kuo](https://github.com/vkuo2): Ph.D. student in the [Lennon Lab](http://www.indiana.edu/~microbes/people.php)
